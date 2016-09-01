@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Facebook oldalam
+permalink: /facebook/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist%2Fphotos%2Fa.524079604362809.1073741827.447410712029699%2F862520413852058%2F%3Ftype%3D3&width=500" width="500" height="370" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

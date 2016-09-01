@@ -1,2 +1,1 @@
-# al.github.io
-agostonlaszlo.hu
+# agostonlaszlo.hu
