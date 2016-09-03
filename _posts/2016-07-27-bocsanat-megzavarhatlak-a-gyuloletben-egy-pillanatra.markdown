@@ -1,43 +1,14 @@
 ---
-layout: post
-title: !binary |-
-  Qm9jc8OhbmF0LCDDtnNzemV6YXZhcmhhdGxhayBlZ3kgcGlsbGFuYXRyYT8=
-joomla_id: 72
-joomla_url: bocsanat-megzavarhatlak-a-gyuloletben-egy-pillanatra
-date: 2016-07-27 13:27:02.000000000 +00:00
-author: !binary |-
-  w4Fnb3N0b24gTMOhc3psw7M=
-excerpt: !binary |-
-  PHA+Jm5ic3A7PC9wPg0KPHA+IkVubmVrIGEgcGFwbmFrIG1pc2Uga8O2emJl
-  biB2w6FndGEgZWwgYSBueWFrw6F0IGVneSBtdXN6bGltLiBFenQgbWnDqXJ0
-  IG5lbSBwb3N6dG9sb2Q/IEV6IG5lbSByYXNzemlzdGEgY3NlbGVrZWRldD8g
-  VmFneSBjc2FrIGEgZmVow6lyIGVtYmVyIGxlaGV0IHJhc3N6aXN0YT8iIC0g
-  w61ydCByw6FtIGEgbWFnw6FuYmFuIGVneSBzcsOhYywgYWtpdCBhIGbDoWpk
-  YWxtYXNhbiByYXNzemlzdGEga2lqZWxlbnTDqXNlaSBtaWF0dCBrb3LDoWJi
-  YW4gdMO2csO2bHRlbSBheiBvbGRhbGFtcsOzbC4gIlbDoWxhc3pvZGF0IGl6
-  Z2F0b3R0YW4gdsOhcm9tISAow6lzIMO2csO8bG7DqWsgaGEgdMOpbnlsZWcg
-  dsOhbGFzem9sbsOhbCwgbmVtIHRpbHRhbsOhbCwgbWVydCBzesOhbW9tcmEg
-  YXogYXp0IGplbGVudGksIGhvZ3kgbmluY3NlbmVrIMOpcnZlaWQsIMOpcyBt
-  ZWdmdXRhbW9kc3opIiAtIHrDoXJqYS4gUmVuZGJlbi4gVMOhasOpa296w7Nk
-  b20gaGVseWV0dGVkIMOpcyBzZWfDrXRlaywgaG9neSBlbGlnYXpvZGogYSB2
-  aWzDoWdiYW4gLSBtZXJ0IGF0dMOzbCBmw6lsZWssIG5lbSB0ZSB2YWd5IGF6
-  IGVneWV0bGVuLCBha2luZWsgZXJyZSBzesO8a3PDqWdlIGxlc3ouLi48L3A+
-  DQo8cD4mbmJzcDs8L3A+DQo8cD48aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25s
-  YXN6bG8uaHUvaW1hZ2VzL2Npa2tlay9wZXJlLmpwZyIgYWx0PSJwZXJlIiAv
-  PjwvcD4NCjxwPiZuYnNwOzwvcD4=
-category: Blog
+published: false
 ---
-<p>&nbsp;</p>
-<p>"Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista?" - írt rám a magánban egy srác, akit a fájdalmasan rasszista kijelentései miatt korábban töröltem az oldalamról. "Válaszodat izgatottan várom! (és örülnék ha tényleg válaszolnál, nem tiltanál, mert számomra az azt jelenti, hogy nincsenek érveid, és megfutamodsz)" - zárja. Rendben. Tájékozódom helyetted és segítek, hogy eligazodj a világban - mert attól félek, nem te vagy az egyetlen, akinek erre szüksége lesz...</p>
-<p>&nbsp;</p>
-<p><img src="http://agostonlaszlo.hu/images/cikkek/pere.jpg" alt="pere" /></p>
-<p>&nbsp;</p>
+"Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista?" - írt rám a magánban egy srác, akit a fájdalmasan rasszista kijelentései miatt korábban töröltem az oldalamról. "Válaszodat izgatottan várom! (és örülnék ha tényleg válaszolnál, nem tiltanál, mert számomra az azt jelenti, hogy nincsenek érveid, és megfutamodsz)" - zárja. Rendben. Tájékozódom helyetted és segítek, hogy eligazodj a világban - mert attól félek, nem te vagy az egyetlen, akinek erre szüksége lesz...
 
-<p>&nbsp;</p>
-<p>Igen, igaz, amit a fiatalember mond:&nbsp;a halálos áldozat a 86 éves Jacques Hamel atya, akit 1958-ban szenteltek fel, neki a torkát vágták el. Rajta kívül hárman sérültek meg a támadásban, egyikük életveszélyes állapotban van, a belügyminisztérium szóvivője szerint “élet és halál között”. (<a href="http://24.hu/kulfold/2016/07/26/keses-tamadok-raboltak-el-ket-papot-franciaorszagban/" target="_blank">forrás</a>) Igen, tényleg az Iszlám Állam nevében tényleg muszlimok követték el.</p>
-<p>&nbsp;</p>
-<p><strong>De mit is vársz egy olyan néptől, amelyiknek ilyen van a szent irataiban???</strong></p>
-<p>&nbsp;</p>
+![pere.jpg]({{site.baseurl}}/images/pere.jpg)
+
+Igen, igaz, amit a fiatalember mond: a halálos áldozat a 86 éves Jacques Hamel atya, akit 1958-ban szenteltek fel, neki a torkát vágták el. Rajta kívül hárman sérültek meg a támadásban, egyikük életveszélyes állapotban van, a belügyminisztérium szóvivője szerint “élet és halál között”. (<a href="http://24.hu/kulfold/2016/07/26/keses-tamadok-raboltak-el-ket-papot-franciaorszagban/" target="_blank">forrás</a>) Igen, tényleg az Iszlám Állam nevében tényleg muszlimok követték el.
+
+> De mit is vársz egy olyan néptől, amelyiknek ilyen van a szent irataiban???
+
 <p>"Most azért indulj, verd le Amálékot, és irts ki mindent, amije van! Ne kíméld, hanem <em><strong>öld meg a férfiakat és a nőket, a gyermekeket és a csecsemőket</strong></em>, az ökröket és a juhokat, a tevéket és a szamarakat!" &nbsp;(kiemelés tőlem) Majd ezután a harcos nem ölt meg mindent (persze az asszonyokat és a csecsemőket igen), hanem a legszebb jószágokat elhozta, hogy feláldozza Allahnak. Aki ezért meg is verte, mert mindenkit ki kellett volna irtania.</p>
 <p>&nbsp;</p>
 <p>Hogyan fognak olyanok integrálódni, akik ilyen borzalmakat olvasnak gyerekkoruk óta? Akiknek ez követendő példa???<br /><br /><br /></p>
