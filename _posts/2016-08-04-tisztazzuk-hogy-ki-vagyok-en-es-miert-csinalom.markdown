@@ -1,0 +1,119 @@
+---
+layout: post
+title: !binary |-
+  VGlzenTDoXp6dWssIGhvZ3kga2kgdmFneW9rIMOpbiDDqXMgbWnDqXJ0IGNz
+  aW7DoWxvbQ==
+joomla_id: 78
+joomla_url: tisztazzuk-hogy-ki-vagyok-en-es-miert-csinalom
+date: 2016-08-04 09:40:44.000000000 +00:00
+author: !binary |-
+  w4Fnb3N0b24gTMOhc3psw7M=
+excerpt: !binary |-
+  PHA+Jm5ic3A7PC9wPg0KPHA+S2ljc2l0IG9seWFuIGxldHRlbSwgbWludCBh
+  eiDDvHZlZywgYW1pIGF6IElzdGVuZWsgYSBmZWrDvGtyZSBlc3Rla2JlbiBh
+  eiDDqWdixZFsIGh1bGwgYWzDoTogc2Vua2kgc2Ugw6lydGksIGhvZ3kgbWl0
+  IGtlcmVzIGl0dCwgbWluZGVua2kgbcOhc3JhIGFrYXJqYSBoYXN6bsOhbG5p
+  IMOpcyBtaW5kZW5raW5layB2YW4gZWd5IHRlw7NyacOhamEsIGhvZ3kgbWly
+  ZSBqw7MuIEVsbW9uZG9tIG1hZ2FtLjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxw
+  PjxzdHJvbmc+S2kgdmFneW9rIMOpbj88L3N0cm9uZz48L3A+DQo8cD4mbmJz
+  cDs8L3A+DQo8cD7DgWdvc3RvbiBMw6FzemzDsyB2YWd5b2ssIGhhcm1pbmPD
+  qXZlcy4gTWVuZWR6c2VsZW0gYSBzYWrDoXQgb3BlcmF0w6Fyc3VsYXRvbWF0
+  IChNb2x0b3BlcmEpLCBNYWd5YXLDs3bDoXJpIFZpa3RvciAiPGEgaHJlZj0i
+  aHR0cHM6Ly9odS53aWtpcGVkaWEub3JnL3dpa2kvTWFneWFyJUMzJUIzdiVD
+  MyVBMXJpX1Zpa3RvciIgdGFyZ2V0PSJfYmxhbmsiPktheWFtYXI8L2E+Ii10
+  LCZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNo
+  P3Y9cXlYR08zZ3ZnaDAiIHRhcmdldD0iX2JsYW5rIiBzdHlsZT0iZm9udC1z
+  aXplOiAxMi4xNnB4OyBsaW5lLWhlaWdodDogMTUuODA4cHg7Ij5pc2tvbGFp
+  IGVsxZFhZMOhc29rYXQgdGFydG9rIGEga29tb2x5emVuw6lyxZFsPC9hPiZu
+  YnNwO2l0dGhvbiDDqXMga8O8bGbDtmxkw7ZuLCBtYXJrZXRpbmcgdGFuw6Fj
+  c2Fkw7Nrw6ludCBkb2xnb3pvbSBraXMgY8OpZ2VrbmVrIGVsxZF0dGUgw6l2
+  ZWtpZyBheiBPcGVyYWjDoXpuYWsuJm5ic3A7PGEgaHJlZj0iaHR0cDovL2Fn
+  b3N0b25sYXN6bG8uaHUvaHUvZWxldHJhanoiIHRhcmdldD0iX2JsYW5rIj5C
+  xZF2ZWJiZW4gaXR0IG9sdmFzaGF0c3ogYXogw6lsZXRlbSBzemFrbWFpIHLD
+  qXN6w6lyxZFsPC9hPi4gQXDDoW0gw7pqc8OhZ8OtcsOzIHZvbHQga2lzZWJi
+  IGxhcG9rbsOhbCwgc3rDqXDDrXLDs2vDqW50IGhhbWFyb3NhbiBtZWdqZWxl
+  bmlrIGEgdGl6ZW5raWxlbmNlZGlrIGvDtnRldGUuIEFuecOhbSB0YW7DrXTD
+  s27FkSB2b2x0IG55dWdkw61qYmEgdm9udWzDoXPDoWlnLiDDlnQgbnllbHZl
+  bSAoPGVtPm1hZ3lhciBbYW55YW55ZWx2XSwgYW5nb2wgW2ZlbHPFkWZva10s
+  IG9sYXN6W2vDtnrDqXBmb2tdLCBsYXRpbltrw7Z6w6lwZm9rXSwgbsOpbWV0
+  W2FsYXBmb2tdPC9lbT4pIMOpcyBow6Fyb20gZGlwbG9tw6FtICg8ZW0+UFIt
+  bWFya2V0aW5nLCDDumpzw6Fnw61yw6FzIFttaW5ka2V0dMWRIEJLRl0gw6lz
+  IGtvbW9seXplbmVpIMOpbmVrZXMtZWzFkWFkw7NtxbF2w6lzeiBbWmVuZWFr
+  YWTDqW1pYV08L2VtPikgdmFuLiZuYnNwOzwvcD4NCjxwPiZuYnNwOzwvcD4N
+  CjxwPjxpbWcgc3JjPSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9pbWFnZXMv
+  Y2lra2VrL3N6ZWxpbS5qcGciIGFsdD0ic3plbGltIiAvPjwvcD4NCjxwPiZu
+  YnNwOzwvcD4=
+category: Blog
+---
+<p>&nbsp;</p>
+<p>Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égből hull alá: senki se érti, hogy mit keres itt, mindenki másra akarja használni és mindenkinek van egy teóriája, hogy mire jó. Elmondom magam.</p>
+<p>&nbsp;</p>
+<p><strong>Ki vagyok én?</strong></p>
+<p>&nbsp;</p>
+<p>Ágoston László vagyok, harmincéves. Menedzselem a saját operatársulatomat (Moltopera), Magyaróvári Viktor "<a href="https://hu.wikipedia.org/wiki/Magyar%C3%B3v%C3%A1ri_Viktor" target="_blank">Kayamar</a>"-t,&nbsp;<a href="https://www.youtube.com/watch?v=qyXGO3gvgh0" target="_blank" style="font-size: 12.16px; line-height: 15.808px;">iskolai előadásokat tartok a komolyzenéről</a>&nbsp;itthon és külföldön, marketing tanácsadóként dolgozom kis cégeknek előtte évekig az Operaháznak.&nbsp;<a href="http://agostonlaszlo.hu/hu/eletrajz" target="_blank">Bővebben itt olvashatsz az életem szakmai részéről</a>. Apám újságíró volt kisebb lapoknál, szépíróként hamarosan megjelenik a tizenkilencedik kötete. Anyám tanítónő volt nyugdíjba vonulásáig. Öt nyelvem (<em>magyar [anyanyelv], angol [felsőfok], olasz[középfok], latin[középfok], német[alapfok]</em>) és három diplomám (<em>PR-marketing, újságírás [mindkettő BKF] és komolyzenei énekes-előadóművész [Zeneakadémia]</em>) van.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="http://agostonlaszlo.hu/images/cikkek/szelim.jpg" alt="szelim" /></p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Melyik pártot támogatom?</strong></p>
+<p>&nbsp;</p>
+<p style="font-size: 12.16px; line-height: 15.808px;">Egyiket sem. Nem érzem, hogy lenne képviseletem a jelenlegi magyar parlamentben.</p>
+<p>&nbsp;</p>
+<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Politikus akarok lenni?</strong></p>
+<p>&nbsp;</p>
+<p>Ezt rengeteget kérdezik. Szívesen politizálnék, ha lenne kinek és hol. De annak semmi értelmét nem látom, hogy tegyük azt bekerüljek egy öt százalékos párttal a Parlamentbe és tépjem a számat. Én a megoldásokat keresem és ez nem az. Szerintem ahhoz, hogy bármi változás legyen Magyarországon, először az embereknek kell változniuk. Valaki számon kérte, hogy miért nem csinálok tüntetéseket. Minek? Volt eddig is ezer - változott valami? Hányingerem van attól, ami itthon történik nekem is.&nbsp;Az elmúlt huszonhét év bebizonyította, hogy így nem megy, minden párt lejáratódott, az emberek kiégtek és csalódottak. Szerintem ma nem az a megoldás, hogy bebizonyítjuk valakiről, hogy lop, csal, mutyizik a politikában. Mit kezdjünk még egy korrupciós üggyel? Inkább kezdjünk egymással nyíltan beszélni, mutassunk és tanuljunk toleranciát, a politikusok és a kormány megbuktatása helyett azon gondolkozzunk, milyen alternatívát tudunk adni, milyen megoldások vannak, mitől lenne jobb. Ne ócsároljuk egymást, hanem építkezzünk. A változás a fejekben kezdődik.</p>
+<p>&nbsp;</p>
+<p><strong>Miért kezdtem ebbe az oldalba?</strong></p>
+<p>&nbsp;</p>
+<p>Ez elég meseszerű. Ültem itthon és megláttam egy videót Francineról, az idős holokauszt-túlélő hölgyről, és az ő csodáslatos történetéről. Tudtam, hogy édesanyám és sok barátom nem értené, mert nem beszéli a nyelvet, viszont meg akartam osztani velük. Valamiért mániám lett, hogy lefordítsam, olyannyira, hogy amikor elhúzódott, lemondtam az esti programomat, amikor egy hiba miatt az egész munkámat törölte a program, káromkodtam egy sort és újrakezdtem... Tizenegy órával később feltöltöttem a 142 lájkolóval bíró oldalamra, amit egyszer régen létrehoztam majd évekig nem foglalkoztam vele.&nbsp; Azóta közel egymillióan látták.&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist%2Fvideos%2F806952686075498%2F&amp;show_text=0&amp;width=560" frameborder="0" scrolling="no" width="560" height="315" allowfullscreen="allowfullscreen" style="border: none; overflow: hidden; display: block; margin-left: auto; margin-right: auto;" allowtransparency="true"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Miért csinálom?</strong></p>
+<p>&nbsp;</p>
+<p>A fenti videó döbbentett rá arra, hogy mennyire keveset látnak a magyarok a világból. Én már évekkel korábban ismertem ezt, de mivel magyarul nem volt meg, itthon ezt csak kevesen mondhatták el magukról. Nem tudunk nyelveket... &nbsp;Viszont óriási szükség van arra, hogy az elbutított, gyűlölködésre gerjesztett magyar társadalom is találkozzon ezekkel a nagyszerű felvételekkel. Megéreztem ennek a súlyát és belekezdtem.</p>
+<p>&nbsp;</p>
+<p><strong>De nem csak videókat fordítok...</strong></p>
+<p>&nbsp;</p>
+<p>Mindig is erős volt az igazságérzetem és a közéleti tennivágyásom. A Zeneakadémián például egy évig a HÖK elnöke voltam és egy nagyon más kultúrájú közösséget hoztunk létre, mint ami itthon szokásos. Talán elég azt elmondanom, hogy az első intézkedésem volt, hogy csökkentsem a saját fizetésemet (48-ról 40 ezer forintra). Szimbolikus gesztus volt, de jelképezi az akkori szemléletünket.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Úgy gondoltam, megpróbálom, hátha érdekel valakit a feliratkozók közül az, hogyan gondolkodom a világról. Sokakat érdekelt. Sokan köszönték meg. Folytattam.</p>
+<p>&nbsp;</p>
+<p><strong>De ki áll mögöttem? Egy ekkora oldalt felépíteni ennyi idő alatt...</strong></p>
+<p>&nbsp;</p>
+<p>Nem fogod elhinni, de senki. Valóban fizetek néha egy-egy fontosabb posztom hirdetéséért - 1-2 ezer forintot. Van, aki cigizik, van, aki horgászni jár... De az a - számomra is - legmegdöbbentőbb az oldalam működésében, hogy ezt a 42 ezer követőt Nektek köszönhetem. A Ti megosztásaitoknak, amelyek révén volt olyan <em>hét</em>, amikor 3 és fél millió (!) emberhez jutottak el az üzeneteim. Egyszerűen hatalmas ma a szükség a béke és a tolerancia üzenetére. Ha úgy tetszik, a kormány gyűlölködése és az ellenzék fájdalmas impotenciája vonzza az én megbékélést, gondolkodást és elfogadást hirdető oldalamra az embereket. Nem is tudnak róla, de ők segítenek már huszonhét éve az oldalam építésében...</p>
+<p>&nbsp;</p>
+<p><img src="http://agostonlaszlo.hu/images/cikkek/piton.JPG" alt="piton" />&nbsp;</p>
+<p><strong>Hogy van erre ennyi időm?</strong></p>
+<p>&nbsp;</p>
+<p>Igazából nincs. Idővel függővé váltam. Jól jött, hogy nyár van és színházi szünet, eleve kevesebb a dolgom, de - sajnos - a heti több milliós elérés nagyon hozzátapaszt a klaviatúrához / a telefonomhoz. Engem a szüleim arra neveltek, hogy álljak jót a szavaimért, ezért nagyon nehéz nem minden kommentre válaszolnom. Csak amikor egy nap már több, mint ezer érkezik...</p>
+<p>&nbsp;</p>
+<p><strong style="font-size: 12.16px; line-height: 1.3em;">Most akkor meleg vagyok, zsidó, muszlim, cigány vagy...?</strong></p>
+<p>&nbsp;</p>
+<p>Ha ez neked kérdés, akkor mind egyszerre. Egyébként heteroszexuális, budapesti, három diplomás, keresztény (kulturkörbe tartozó), fehér bőrű, értelmiségi férfi. Mindenben "a szokásos". Na jó, az mondjuk nem "szokásos", hogy abszolút liberális vagyok (a klasszikus értelemben!), hiszek a poliamóriában, időm jelentős részét töltöm Dániában, Németországban, Angliában (a társulatom ezekben az országokban működik a magyar mellett) és tini korom óta egyik szenvedélyem, hogy orosz mélybasszusok felvételeit hallgatom.&nbsp;</p>
+<p>&nbsp;</p>
+<p><iframe src="https://www.youtube.com/embed/_3TjfUFXJZQ?start=11" frameborder="0" width="420" height="315" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Miért törlök bizonyos kommenteket? Nincsenek válaszaim?</strong><br /><br /><br /></p>
+<p>Írtam fentebb, hogy minden szavamért szavatolok. Legfeljebb meggyőztök, hogy nincs igazam - de azt is el fogom ismerni, mint ahogy eddig is megtettem. (Hogy ennek mennyire nincs kultúrája itthon!) De miután Francince videója ekkora népszerűségre tett szert, elkezdtem egy közösséget építeni. Azoknak, akik hasonlóan gondolkodnak, mint én, akikkel jól érezhetem magam. Örömmel vitatkozunk, ütköztetünk érveket, tényeket, kutatásokat, tanulmányokat, de a Magyarországon sajnos megszokottá vált stílustól megóvnám ezt a közösséget. És attól is, ha valaki 20-40 kommentben bizonygatja, hogy márpedig akkor is többet ér az egyik bőrszín / szexuális orientáció / vallás / mittudoménmi, mint a másik. Erre remek oldalak vannak, tulajdonképpen ott az egész "magyar internet". Nálam a kulturált hangvétel az elvárt és építő vita. Ha nem értesz egyet és nem is vagy nyitott az érveinkre, inkább maradj távol. Minek a szócséplés?</p>
+<p>&nbsp;</p>
+<p><strong>Kéne már egy személyes találkozó...</strong></p>
+<p>&nbsp;</p>
+<p>Kéne bizony! Augusztus 10-én lesz az első a Margitszigeten (<a href="https://www.facebook.com/events/1158783480861162/" target="_blank">bővebb információ ide kattintva</a>), tudom, meglehetősen lehetetlen időpontban, de utána a Sziget Fesztiválon adok elő esténként operáról, majd Dánia, aztán operaházi premier...&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Mit kérek, ha ezt elolvastad?</strong></p>
+<p>&nbsp;</p>
+<p>Semmit. Megtiszteltél. Nincsenek elvárásaim feléd. Lehetsz meleg, muszlim, cigány, zsidó vagy éppen piréz, engem a jellemed fog érdekelni és a szándékaid. Ha egyetértesz velem, lájkolhatod az oldalamat, csatlakozhatsz és megpróbálhatunk összetartani ebben a tomboló butaság-, kétségbeesés- és gyűlölet-cunamiban. Ha nem, akkor vitatkozhatunk szép szóval, érvekkel, értelmesen. Ha csak pampogni szeretnél, akkor köszönöm, hogy ennyi időt szántál rám-ránk és békesség veled.</p>
+<p>&nbsp;</p>
+<p><strong style="font-size: 12.16px; line-height: 15.808px;">Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:</strong></p>
+<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
+<div class="fb-xfbml-parse-ignore">
+<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="font-size: 12.16px; line-height: 15.808px;"><strong>És ne felejtsd el megosztani, ha értesz és egyetértesz! :)</strong></p>
+<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/piton.JPG} {SCOpenGraph title=Tisztázzuk, hogy ki vagyok én és miért csinálom}</p>
