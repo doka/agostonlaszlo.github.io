@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+date:   2016-08-15 21:21:00 +0000
+categories: blog
 ---
 Gyerekkoromban elvittek a pulmonológiára (ahol az allergiát vizsgálják) és végeztek egy tesztet. Ha jól emlékszem, megszúrkodták tűvel az alkaromat és különböző allergéneket juttattak kis mennyiségben a szervezetembe, hogy lássuk, mi mekkora válaszreakciót vált ki. Amire nem biztosan emlékszem, hogy három reakcióerősséget jelöltek: egy, két és három kereszt. Amire viszont biztosan, hogy az én harmadik keresztem (a legerősebb érzékenység) mellé az orvos tett még egy pluszjelet. 25 éve azt mondta, ez az a szint, amire ad gyógyszert, de nem sokat fog használni. Augusztusban mindig menjek külföldre.
 
