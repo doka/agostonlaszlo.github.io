@@ -1,9 +1,5 @@
 ---
 published: true
-'-layout': post
-'-title': 'Bocsánat, megzavarhatlak a gyűlöletben egy pillanatra'
-'-date': 2016-07-27T13:27:02.000Z
-'-categories': blog
 layout: post
 title: 'Bocsánat, megzavarhatlak a gyűlöletben egy pillanatra'
 date: 2016-07-27T13:27:02.000Z
