@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
+- title: Nyitólap
+  url: /
+
+- title: Rólam
   url: /about/
 
-- title: Articles
+- title: Cikkek
   url: /articles/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
+- title: Keresés
   url: /search/

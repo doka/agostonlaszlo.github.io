@@ -7,3 +7,9 @@ node_modules/
 # dev
 Vagrantfile
 .vagrant/
+.bundle/
+.cache/
+.config/
+.local/
+.jshintrc
+.bash_history
