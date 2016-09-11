@@ -18,8 +18,8 @@ title: Ágoston László, művész
 description: > # this means to ignore newlines until "baseurl:"
   A társadalom számára - szerintem - fontos üzeneteket próbálok terjeszteni
   a humanizmus, a békés együttélés, a gondolkodó felnőttség nevében.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://agostonlaszlo.hu" # the base hostname & protocol for your site
+baseurl: "/altest" # the subpath of your site, e.g. /blog
+url: "https://doka.github.io" # the base hostname & protocol for your site
 facebook_username: agostonlaszloartist
 
 # Build settings
