@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Nyitólap
+  url: /
+
+- title: Rólam
+  url: /about/
+
+- title: Cikkek
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Keresés
+  url: /search/
