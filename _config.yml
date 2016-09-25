@@ -16,9 +16,9 @@ logo: site-logo.png
 search: true
 
 # URLs
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://agostonlaszlo.hu" # the base hostname & protocol for your site
-
+ baseurl: "/altest" # the subpath of your site, e.g. /blog
+ url: "https://doka.github.io" # the base hostname & protocol for your site
+ 
 # Jekyll configuration
 permalink:   /:categories/:title/
 markdown:    kramdown
