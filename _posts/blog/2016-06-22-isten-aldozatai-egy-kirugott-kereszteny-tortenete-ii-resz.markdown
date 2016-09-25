@@ -1,37 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  SXN0ZW4gw6FsZG96YXRhaSAtIGVneSBraXLDumdvdHQga2VyZXN6dMOpbnkg
-  dMO2cnTDqW5ldGUgSUkuIHLDqXN6IA==
-joomla_id: 59
-joomla_url: isten-aldozatai-egy-kirugott-kereszteny-tortenete-ii-resz
+title: "Isten áldozatai - egy kirúgott keresztény története II. rész"
 date: 2016-06-22 14:57:40.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+Jm5ic3A7PC9wPg0KPHA+4oCcSMOzbmFwb2tyYSBraWJvcnVsdGFtICho
-  dXN6b25rw6l0Jm5ic3A7w6l2ZXNlbi4uLikgw6lzIMO6Z3kgZMO2bnTDtnR0
-  ZW0sIGF6IGVnw6lzeiBoaXRuZWsgbmV2ZXpldHQsIG3DoXIgc29rIHBvbnRv
-  biBpbmfDsyBzemVya2V6ZXRldCDDoXR2aXpzZ8OhbG9tLCDDumpyYWdvbmRv
-  bG9tLiBLZXpkasO8ayBheiBhbGFwb2tuw6FsOiB2YW4tZSBJc3Rlbj8gVmFu
-  LiBFenQgbmVtIHR1ZHRhbSwgYWthcnRhbSwgbGVoZXRldHQgdGFnYWRuaS4g
-  S2ljc29kYSBKw6l6dXM/IE1pIGF6IGEgQmlibGlhPyBNaSB2YW4gYSBtZWxl
-  Z2Vra2VsLCB6c2lkw7Nra2FsLCBhdGVpc3TDoWtrYWwsIG11enVsbcOhbm9r
-  a2FsLCB0w7ZyenNpIHZhbGzDoXPDumFra2FsIHN0Yj8gQSBow6F6YXNzw6Fn
-  IGVsxZF0dGkgc3pleCB0aWx0w6Fzw6F2YWw/IChNw6FyIG5lbSB2b2x0YW0g
-  c3rFsXogZWtrb3JyYSwgZGUgZm9seWFtYXRvcyBixbFudHVkYXR0YWwgw6ls
-  dGVtIGVtaWF0dC4pIEhvc3N6w7osIGhvc3N6w7osIGhvc3N6w7ogbGlzdGEu
-  Li7igJwmbmJzcDsoRXogYSBjaWtrIGEgPGEgaHJlZj0iaHR0cDovL2Fnb3N0
-  b25sYXN6bG8uaHUvaHUvYmxvZy81MS1taWVydC1uaW5jcy1pc3Rlbi1oYS12
-  YW4iIHRhcmdldD0iX2JsYW5rIj5NacOpcnQgbmluY3MgSXN0ZW4sIGhhIHZh
-  bj8gLSBlZ3kga2lyw7pnb3R0IGtlcmVzenTDqW55IHTDtnJ0w6luZXRlIDwv
-  YT5jw61txbEgY2lrayBmb2x5dGF0w6FzYS4pPC9wPg0KPHA+Jm5ic3A7PC9w
-  Pg0KPHA+SGloZXRldGxlbsO8bCBmZWxzemFiYWTDrXTDsyDDqXJ6w6lzIHZv
-  bHQsIGhvZ3kg4oCcbcOhciBuZW0gdmFneW9rIGjDrXbFkeKAnS4gSXN0ZW4g
-  cGFyYW5jc2FpbmFrIG5lbSB2b2x0IHTDtmJiw6kgaGF0YWxtYSBmZWxldHRl
-  bS4gSXN0ZW4gcGFyYW5jc2FpLi4uIEjDoXQga2V6ZGrDvGsuLi48L3A+DQo8
-  cD4mbmJzcDs8L3A+DQo8cD48aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25sYXN6
-  bG8uaHUvaW1hZ2VzL2Npa2tlay9zemVrZWsuanBnIiBhbHQ9InN6ZWtlayIg
-  d2lkdGg9IjEwMCUiIC8+PC9wPg==
+excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával?"
 categories: blog
 ---
 <p>&nbsp;</p>

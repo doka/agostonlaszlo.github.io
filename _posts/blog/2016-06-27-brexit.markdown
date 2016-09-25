@@ -1,61 +1,11 @@
 ---
 layout: post
-title: !binary |-
-  TWkgbGVzeiB2ZWxlZCBBbmdsaWE/IFRhbnVsc3ogYmVsxZFsZSwgTWFneWFy
-  b3JzesOhZz8=
+title: "Mi lesz veled Anglia? Tanulsz belőle, Magyarország?"
 joomla_id: 63
 joomla_url: brexit
 date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+VGFsw6FuIGFra29yIGthcHRhbSBlZGRpZ2kgcsO2dmlkIEZhY2Vib29r
-  b3MgcMOhbHlhZnV0w6Fzb20gYWxhdHQgYSBsZWd0w7ZiYiBrb21vbHkga3Jp
-  dGlrw6F0LCBhbWlrb3IgYXogYW5nb2xvayBraWzDqXDDqXPDqXLFkWwgw61y
-  dGFtIG1hZ2FtaG96IGvDqXBlc3QgbWVnbGVoZXTFkXNlbiBzemVudmVkw6ls
-  eWVzIGhhbmduZW1iZW4uIFNva2FuIG5lbSDDqXJ0ZXR0w6lrLCBtacOpcnQg
-  dGFydG9tIGEgc3phdmF6w6FzIGVyZWRtw6luecOpdCBla2tvcmEgYmFqbmFr
-  IMOpcyB0w7ZiYnN6w7ZyIGlzIGVsaGFuZ3pvdHQsIGhvZ3kgdGFydHNhbSB0
-  aXN6dGVsZXRiZW4gYXogYW5nb2wgc3phdmF6w7NrIGTDtm50w6lzw6l0LCBu
-  ZSB2w616aW9uw6FsamFrIMO2c3N6ZW9tbMOhc3QuIEVneSBrb3LDoWJiaSBj
-  aWtrYmVuIG3DoXIgPGEgaHJlZj0iaHR0cDovL2Fnb3N0b25sYXN6bG8uaHUv
-  aHUvYmxvZy82MS1taWVydC1uZW0tdHVkb20tZWxmb2dhZG5pLWF6LWFuZ29s
-  LWRvbnRlc3QiIHRhcmdldD0iX2JsYW5rIj5yw6lzemxldGVzZW4gbWVnw61y
-  dGFtLCBtacOpcnQgbmVtIHR1ZG9tIGVsZm9nYWRuaSBhIGTDtm50w6lzdDwv
-  YT4mbmJzcDtpbGxldHZlIGF6dCBpcyBraWZlanRldHRlbSwgPGEgaHJlZj0i
-  aHR0cDovL2Fnb3N0b25sYXN6bG8uaHUvaHUvYmxvZy82MC10b3J0ZW5lbG1p
-  LWlkb2tiZW4tdG9ydGVuZWxtaS1hLWZlbGVsb3NzZWdlZC1pcyIgdGFyZ2V0
-  PSJfYmxhbmsiPm1pbHllbiBFdXLDs3DDoXQgc3plcmV0bsOpayBlZ3kgbmFw
-  IGEgZ3llcmVrZWltcmUgaGFneW5pPC9hPi48L3A+DQo8cD4mbmJzcDs8L3A+
-  DQo8cD5Cb3J6YXN6dMOzYW4gYsOhbnRvdHQsIGhvZ3kgYSBkw7ZudMOpc2Jl
-  biBraXJla2VzenTFkSwgc3rDqWxzxZFqb2Jib2xkYWxpIG1vdGl2w6FjacOz
-  ayBpcyBrw7Z6cmVqw6F0c3pvdHRhayAtIGEgYmV2w6FuZG9ybMOzayBpcsOh
-  bnRpIGd5xbFsw7ZsZXRrZWx0w6lzIHZvbHQgYSBrYW1ww6FueSBlZ3lpayBz
-  YXJrYWxhdG9zIHBvbnRqYS4gU2Fqbm9zIGF6dCBrZWxsIG1vbmRqYW0sIGEg
-  ZsOpbGVsbWVpbSBlZGRpZyAobcOhcj8pIGJlaWdhem9sw7NkbmkgbMOhdHN6
-  YW5hayDDqXMgYXogY3NhayBhIGxlZ2tpc2ViYiBiYWosIGhvZ3kgYSBraWzD
-  qXDDqXNww6FydGlha25hayA8YSBocmVmPSJodHRwOi8vd3d3LmluZGVwZW5k
-  ZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvYnJleGl0LWV1LXJlZmVyZW5k
-  dW0tY2FtcGFpZ25lcnMtdGhlcmUtaXMtbm8tcGxhbi1uZXh0LXBtLXRvcnkt
-  bGVhZGVyc2hpcC1jb250ZXN0LWE3MTA0NzExLmh0bWwiIHRhcmdldD0iX2Js
-  YW5rIj5CRVZBTExPVFRBTiBuaW5jc2VuIHRlcnbDvGsgYSBob2d5YW4gdG92
-  w6FiYnJhPC9hPiZuYnNwO3ZhZ3kgbWlrw7Z6YmVuIGEgYml6b255dGFsYW5z
-  w6FnIG1pYXR0IGZvbHlhbWF0b3NhayBhIGdhemRhc8OhZ2kgw6lzIHBvaWx0
-  aWthaSBwcm9ibMOpbcOhayZuYnNwOzxhIGhyZWY9Imh0dHA6Ly9pbmRleC5o
-  dS9rdWxmb2xkLzIwMTYvMDYvMjcvYV9icmV4aXQtcGFydGlha19lbHRvbG5h
-  a19hX3Rhcmd5YWxhc29rYXRfaG9neV9sZWd5ZW5faWRlanVrX255YXJhbG5p
-  LyIgdGFyZ2V0PSJfYmxhbmsiPmEgQnJleGl0LXDDoXJ0aWFrIGVsdG9sbsOh
-  ayBhIHTDoXJneWFsw6Fzb2thdCwgaG9neSBsZWd5ZW4gaWRlasO8ayBueWFy
-  YWxuaTwvYT4uLi48L3A+DQo8cD48YnIgLz5BIG5hZ3lvYmJpayBiYWosIGhv
-  Z3kgQW5nbGlhIC0gw6lzIGV6ZW4ga2VyZXN6dMO8bCBheiBlZ8Opc3ogZmVq
-  bGV0dCBOeXVnYXQgLSBtZWd0YXBhc3p0YWx0YSwgaG9neSBtaWx5ZW4gYXos
-  IGFtaWtvciBwb3B1bGlzdGEsIGEgYmV2w6FuZG9ybMOzZWxsZW5lc3PDqWdy
-  ZSDDqXMgYSByb3NzenVsIMOpcnRlbG1lemV0dCBuYWNpb25hbGl6bXVzcmEg
-  a2loZWd5ZXpldHQgbWVnw6lsaGV0w6lzaSBwb2xpdGlrdXNvayB0w7ZtaWsg
-  dGVsZSBheiBlbWJlcmVrIGZlasOpdCBzemVtw6l0dGVsLiBUw7psIGVyxZFz
-  bmVrIGhhbmd6aWs/IEF6IGFsw6FiYmkgVHdpdHRlci1necWxanRlbcOpbnkg
-  MTE3IGvDqXBldCB0YXJ0YWxtYXouIEV6ZWsgRUdZRVRMRU4gTkFQIGFsYXR0
-  IGd5xbFsdGVrIMO2c3N6ZSBTYXJhaCBDaGlsZHMgRmFjZWJvb2stb2xkYWzD
-  oW4uPC9wPg==
+excerpt: "Talán akkor kaptam eddigi rövid Facebookos pályafutásom alatt a legtöbb komoly kritikát, amikor az angolok kilépéséről írtam magamhoz képest meglehetősen szenvedélyes hangnemben. Sokan nem értették, miért tartom a szavazás eredményét ekkora bajnak és többször is elhangzott, hogy tartsam tiszteletben az angol szavazók döntését, ne vízionáljak összeomlást."
 categories: blog
 ---
 <p>Talán akkor kaptam eddigi rövid Facebookos pályafutásom alatt a legtöbb komoly kritikát, amikor az angolok kilépéséről írtam magamhoz képest meglehetősen szenvedélyes hangnemben. Sokan nem értették, miért tartom a szavazás eredményét ekkora bajnak és többször is elhangzott, hogy tartsam tiszteletben az angol szavazók döntését, ne vízionáljak összeomlást. Egy korábbi cikkben már <a href="http://agostonlaszlo.hu/hu/blog/61-miert-nem-tudom-elfogadni-az-angol-dontest" target="_blank">részletesen megírtam, miért nem tudom elfogadni a döntést</a>&nbsp;illetve azt is kifejtettem, <a href="http://agostonlaszlo.hu/hu/blog/60-tortenelmi-idokben-tortenelmi-a-felelosseged-is" target="_blank">milyen Európát szeretnék egy nap a gyerekeimre hagyni</a>.</p>

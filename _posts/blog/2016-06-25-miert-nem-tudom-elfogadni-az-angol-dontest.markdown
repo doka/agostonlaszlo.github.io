@@ -1,29 +1,16 @@
 ---
 layout: post
-title: !binary |-
-  TWnDqXJ0IG5lbSB0dWRvbSBlbGZvZ2FkbmkgYXogYW5nb2wgZMO2bnTDqXN0
-  Pw==
-joomla_id: 61
-joomla_url: miert-nem-tudom-elfogadni-az-angol-dontest
+title: "Miért nem tudom elfogadni az angol döntést?"
 date: 2016-06-25 17:18:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+UmVuZ2V0ZWdzemVyIGthcG9tIG1lZywgaG9neSAnIm1pw6lydCBuZW0g
-  dHVkb20gZWxmb2dhZG5pLCBob2d5IGF6IGFuZ29sIGVtYmVyZWsgZMO2bnTD
-  tnR0ZWsgYSBzb3JzdWsgZmVsxZFsIi4gSG9neSAibmVtIGNzYWsgYWtrb3Ig
-  a2VsbCBsaWJlcsOhbGlzbmFrIGxlbm5pLCBhbWlrb3IgbmVrZWQgdGV0c3rF
-  kSBkb2xnb2sgdMO2cnTDqW5uZWsiLjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxw
-  Pk9rw6kuIEFsw6FiYiBiZW11dGF0b20sIG1pw6lydC48L3A+DQo8cD4mbmJz
-  cDs8L3A+DQo8cD4oU3rDoW5kw6lrb3NhbiBtaW5kZW4gw6FsbMOtdMOhc3Qg
-  Zm9ycsOhc29sdGFtLCBqb2JiLSDDqXMgYmFsb2xkYWxpIG9yZ8OhbnVtb2th
-  dCBlZ3lhcsOhbnQgaGFzem7DoWx2YS4gSWdlbiwgbcOpZyA4ODggaXMgdmFu
-  IGvDtnp0ZSA6KSApPC9wPg==
+excerpt: "Rengetegszer kapom meg, hogy 'miért nem tudom elfogadni, hogy az angol emberek döntöttek a sorsuk felől'. Hogy 'nem csak akkor kell liberálisnak lenni, amikor neked tetsző dolgok történnek'. Oké. Alább bemutatom, miért."
 categories: blog
 ---
+
 <p>Rengetegszer kapom meg, hogy '"miért nem tudom elfogadni, hogy az angol emberek döntöttek a sorsuk felől". Hogy "nem csak akkor kell liberálisnak lenni, amikor neked tetsző dolgok történnek".</p>
-<p>&nbsp;</p>
+
 <p>Oké. Alább bemutatom, miért.</p>
-<p>&nbsp;</p>
+
 <p>(Szándékosan minden állítást forrásoltam, jobb- és baloldali orgánumokat egyaránt használva. Igen, még 888 is van közte :) )</p>
 
 <p>&nbsp;</p>

@@ -25,7 +25,7 @@ excerpt: !binary |-
   IG91ciBzZXJpZXMgZnJvbSBIYXlkbidzICJMJ2lzb2xhIGRpc2FiaXRhdGEi
   IGF0IDExIGFtIGluIEJ1ZGFwZXN0LiBUaGlzIGF1dHVtbiBzdGFydHMgd2Vs
   bDwvcD4=
-categories: blog
+# categories: blog
 ---
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://agostonlaszlo.hu/images/blog/house_of_commons.jpg" alt="house of commons" /></p>
 <p>&nbsp;</p>

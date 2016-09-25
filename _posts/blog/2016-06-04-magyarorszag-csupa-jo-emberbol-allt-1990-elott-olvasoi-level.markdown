@@ -1,36 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  Ik1hZ3lhcm9yc3rDoWcgY3N1cGEgasOzIGVtYmVyYsWRbCDDoWxsdCAxOTkw
-  IGVsxZF0dCIgLSBvbHZhc8OzaSBsZXbDqWw=
-joomla_id: 55
-joomla_url: magyarorszag-csupa-jo-emberbol-allt-1990-elott-olvasoi-level
+title: "Magyarország csupa jó emberből állt 1990 előtt - olvasói levél"
 date: 2016-06-04 07:08:28.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+QXogYWzDoWJiaSBsZXZlbGV0IGVneSBpc21lcmV0bGVuLCBoZXR2ZW5l
-  cyDDqXZlaWhleiBrw7Z6ZWxlZMWRIGbDqXJmaSBrw7xsZHRlIG5la2VtLiBC
-  w7ZsY3NuZWsgw6lzIG5hZ3lvbiBmb250b3NuYWsgdGFsw6FsdGFtIHNvcmFp
-  dC4gRW1ww6F0acOhdCDDqXMgc3plcmV0ZXRldCBha2FybsOpayB2YWxhaG9n
-  eSBrw7xsZGVuaSBuZWtpIMOpcyBhbm5hayBhIHJlbmdldGVnIGhvenrDoSBo
-  YXNvbmzDsyBjaXDFkWJlbiBqw6Fyw7MgbWFneWFybmFrLCBha2lrIG5lbSDD
-  qXJ0aWsgbWkgemFqbGlrIG1vc3Qga8O2csO8bMO2dHTDvG5rLiBFesOpcnQg
-  YWRvbSBrw7Z6cmUgc3plcmtlc3p0dmUgYSBsZXZlbMOpdCwga2llbWVsw6lz
-  ZWsgdMWRbGVtLjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwPiJLZWR2ZXMgw4Fn
-  b3N0b24gTMOhc3psw7MsIEtlZHZlcyBMYWNpITwvcD4NCjxwPiZuYnNwOzwv
-  cD4NCjxwPlN6ZXJldG7DqW0gYSB0aXN6dGVsZXRlbWV0LCBrw7ZzesO2bmV0
-  ZW1ldCBraW55aWx2w6Fuw610YW5pIGF6w6lydCBhbWl0IHRlc3plbC4gQSBt
-  YWdhbSBtw7NkasOhbiDDqW4gaXMgbWluZGVudCBtZWd0ZXR0ZW0gYXogZW1i
-  ZXJ0w6Fyc2FpbSBtZWdzZWfDrXTDqXNlIMOpcmRla8OpYmVuIMOpcyB1Z3lh
-  bsO6Z3kgw6lsdmV6dGVtIGV6dCwgYWhvZ3lhbiBzemVyaW50ZW0gdGUgaXMg
-  w6lsdmV6ZWQuIE1hIGlzIGlneWVrc3plbSBtZWd0ZW5uaSwgYW1pIHTFkWxl
-  bSB0ZWxpaywgZGUgc2Fqbm9zIG3DoXIgZWx2ZXN6dGV0dGVtIGEgaGl0ZW1l
-  dCBlYmJlbiBhIHZpbMOhZ2JhbiwgZWJiZW4gYXogb3JzesOhZ2JhbiwgZWJi
-  ZW4gYSBuw6lwYmVuLjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwIHN0eWxlPSJ0
-  ZXh0LWFsaWduOiBjZW50ZXI7Ij48aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25s
-  YXN6bG8uaHUvaW1hZ2VzL2Npa2tlay92YXNmdWdnb255LkpQRyIgYWx0PSJ2
-  YXNmdWdnb255IiAvPjxiciAvPjxlbT5BIHZhc2bDvGdnw7ZueSBzemltYm9s
-  aWt1cyDDoXR2w6Fnw6FzYSAxOTg5LWJlbjwvZW0+PC9wPg==
+excerpt: "Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem."
 categories: blog
 ---
 <p>Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem.</p>

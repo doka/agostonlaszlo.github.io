@@ -6,6 +6,7 @@ author: agoston_laszlo
 excerpt: "Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét."
 categories: blog
 ---
+
 <p>Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét.</p>
 <p>&nbsp;</p>
 <p><img src="http://agostonlaszlo.hu/images/cikkek/kakas.JPG" alt="kakas" /></p>

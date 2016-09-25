@@ -1,29 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  VMO2cnTDqW5lbG1pIGlkxZFrYmVuIHTDtnJ0w6luZWxtaSBhIGZlbGVsxZFz
-  c8OpZ2VkIGlz
-joomla_id: 60
-joomla_url: tortenelmi-idokben-tortenelmi-a-felelosseged-is
+title: "Történelmi időkben történelmi a felelősséged is"
 date: 2016-06-24 19:40:58.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+MTggw6l2ZXMgdm9sdGFtLCBhbWlrb3IgYXogYSBtZWd0aXN6dGVsdGV0
-  w6lzIMOpcnQsIGhvZ3kgw6luZWtlbGhldHRlbSBhIE5vdHJlLURhbWViYW4g
-  YSBnaW1uw6F6aXVtaSBrw7NydXN1bmtrYWwuIENzb2TDoWxhdG9zIMOpbG3D
-  qW55IHZvbHQgYSBoYXRhbG1hcyByw7N6c2FhYmxha2thbCBzemVtYmVuIMOh
-  bGx2YSB6ZW7DqWxuaS4gTcOpZyBlZ3kgZG9sb2cgbWlhdHQgZW1sw6lrZXpl
-  dGVzIGV6IGF6IMO6dDogZWtrb3IgbWVoZXR0ZW0gZWzFkXN6w7ZyIGvDvGxm
-  w7ZsZHJlIMO6dGxldsOpbCBuw6lsa8O8bC48L3A+DQo8cD4mbmJzcDs8L3A+
-  DQo8cD5BcMOhbSDDqXMgYW55w6FtIGVneSBvbHlhbiBvcnN6w6FnYmFuIG7F
-  kXR0ZWsgZmVsIMOpcyDDqWx0ZWssIGFtZWx5ZXQgdmFzZsO8Z2fDtm55IHbD
-  oWxhc3p0b3R0IGVsIG1pbmRlbnTFkWwsIGFtaSBuZW0gc3pvY2lhbGlzdGEu
-  IMOJbiBwZWRpZyBmZWxzesOhbGxoYXR0YW0gYSBidXN6cmEgQnVkYXBlc3Rl
-  biDDqXMgZWxsZW7FkXJ6w6lzIG7DqWxrw7xsIGp1dGhhdHRhbSBlbCBQw6Fy
-  aXpzaWcuPC9wPg0KPHA+Jm5ic3A7PC9wPg0KPHA+PGltZyBzcmM9Imh0dHA6
-  Ly9hZ29zdG9ubGFzemxvLmh1L2ltYWdlcy9jaWtrZWsvYnJleGl0LmpwZWci
-  IGFsdD0iYnJleGl0IiB3aWR0aD0iMTAwJSIgLz48L3A+DQo8cD4mbmJzcDs8
-  L3A+
+excerpt: "18 éves voltam, amikor az a megtiszteltetés ért, hogy énekelhettem a Notre-Dameban a gimnáziumi kórusunkkal. Csodálatos élmény volt a hatalmas rózsaablakkal szemben állva zenélni. Még egy dolog miatt emlékezetes ez az út: ekkor mehettem először külföldre útlevél nélkül."
 categories: blog
 ---
 <p>18 éves voltam, amikor az a megtiszteltetés ért, hogy énekelhettem a Notre-Dameban a gimnáziumi kórusunkkal. Csodálatos élmény volt a hatalmas rózsaablakkal szemben állva zenélni. Még egy dolog miatt emlékezetes ez az út: ekkor mehettem először külföldre útlevél nélkül.</p>

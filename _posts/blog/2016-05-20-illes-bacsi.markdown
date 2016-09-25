@@ -1,29 +1,16 @@
 ---
 layout: post
-title: !binary |-
-  RGUga2l0IMOpcmRla2VsIElsbMOpcyBiw6Fjc2k/
-joomla_id: 47
-joomla_url: illes-bacsi
+title: "De kit érdekel Illés bácsi?"
 date: 2016-05-20 07:24:52.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+Jm5ic3A7PC9wPg0KPHA+RWzFkXJlIGxlc3rDtmdlemVtLCBob2d5IC0g
-  c3pva8Ohc29tdMOzbCBlbHTDqXLFkWVuIC0gbW9zdCBlZ3kgb2x5YW4gdMOp
-  bcOhcsOzbCBmb2dvayDDrXJuaSwgYW1lbHliZW4gbmVtIG1lcsO8bHRlbSBl
-  bCBzb2sgw7Nyw6FueWkga3V0YXTDoXNzYWwuIERlIG1lc3N6aXLFkWwgaXMg
-  ZWd5w6lydGVsbcWxbmVrIGzDoXRzemlrIGEga8OpcGxldC48L3A+DQo8cD4m
-  bmJzcDs8L3A+DQo8cD48aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25sYXN6bG8u
-  aHUvaW1hZ2VzL2Npa2tlay9pbGxlcy1iYWNzaS5qcGciIGFsdD0iaWxsZXMg
-  YmFjc2kiIC8+PC9wPg==
+excerpt: "Előre leszögezem, hogy - szokásomtól eltérően - most egy olyan témáról fogok írni, amelyben nem merültem el sok órányi kutatással. De messziről is egyértelműnek látszik a képlet."
 categories: blog
 ---
-<p>&nbsp;</p>
+
 <p>Előre leszögezem, hogy - szokásomtól eltérően - most egy olyan témáról fogok írni, amelyben nem merültem el sok órányi kutatással. De messziről is egyértelműnek látszik a képlet.</p>
-<p>&nbsp;</p>
+
 <p><img src="http://agostonlaszlo.hu/images/cikkek/illes-bacsi.jpg" alt="illes bacsi" /></p>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Hozzávalók (10 millió személyre):</strong></p>
 <p>&nbsp;</p>
 <p>1 fő síró idős bácsi<br />50 évnyi élet munkája<br />80 négyzetméter düledező cukrászda<br />5 gyűlölt betű: NÉBIH (tetszőlegesen ÁNTSZ-re / NAV-ra cserélhető)<br />260 ellopott MNB-milliárd<br />12 felcsúti kisvasút-kocsi<br />30 felújított stadion (érzésre lehet több és kevesebb is)<br />1 orkánnyi népharag</p>
@@ -47,12 +34,3 @@ categories: blog
 <p>Mert a rend és a szabályok betartása nem opció. Viszont ez igaz minden kormányra (visszamenőleg is) és minden szinten.</p>
 <p>&nbsp;</p>
 <p>Közhely? Az.</p>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong><span style="font-size: 12.16px; line-height: 15.808px;">Ha érdekelnek az írásaim, itt tudsz egy lájkkal feliratkozni:</span></strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Ne felejtsd el megosztani, ha értesz és egyetértesz!</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/illesnagy.jpg} {SCOpenGraph title=De kit érdekel Illés bácsi?}</p>

@@ -1,34 +1,12 @@
 ---
 layout: post
-title: !binary |-
-  QXogZWd5aMOheiBuYWd5IGbDqWxyZcOpcnTDqXNlIC0gZWd5IGtpcsO6Z290
-  dCBrZXJlc3p0w6lueSB0w7ZydMOpbmV0ZSBJSUkuIHLDqXN6
-joomla_id: 67
-joomla_url: mit-uzenek-az-egyhaznak
+title: "Az egyház nagy félreértése - egy kirúgott keresztény története III. rész"
 date: 2016-07-03 09:57:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+Jm5ic3A7PC9wPg0KPHA+RXogYSBjaWtrIGEgPGEgaHJlZj0iaHR0cDov
-  L2Fnb3N0b25sYXN6bG8uaHUvaHUvYmxvZy81MS1taWVydC1uaW5jcy1pc3Rl
-  bi1oYS12YW4iIHRhcmdldD0iX2JsYW5rIiBzdHlsZT0iZm9udC1zaXplOiAx
-  Mi4xNnB4OyBsaW5lLWhlaWdodDogMS4zZW07Ij5NacOpcnQgbmluY3MgSXN0
-  ZW4sIGhhIHZhbj8gLSBlZ3kga2lyw7pnb3R0IGtlcmVzenTDqW55IHTDtnJ0
-  w6luZXRlJm5ic3A7PC9hPsOpcyBheiA8YSBocmVmPSJodHRwOi8vYWdvc3Rv
-  bmxhc3psby5odS9odS9ibG9nLzU5LWlzdGVuLWFsZG96YXRhaS1lZ3kta2ly
-  dWdvdHQta2VyZXN6dGVueS10b3J0ZW5ldGUtaWktcmVzeiIgdGFyZ2V0PSJf
-  YmxhbmsiIHN0eWxlPSJmb250LXNpemU6IDEyLjE2cHg7IGxpbmUtaGVpZ2h0
-  OiAxLjNlbTsiPklzdGVuIMOhbGRvemF0YWk8L2E+IGPDrW3FsSBjaWtrZWsg
-  Zm9seXRhdMOhc2EuPC9wPg0KPHA+Jm5ic3A7PC9wPg0KPHA+Jm5ic3A7PC9w
-  Pg0KPHA+Jm5ic3A7PHN0cm9uZz5JLiBnb25kb2xhdG9tPC9zdHJvbmc+PC9w
-  Pg0KPHA+Jm5ic3A7PC9wPg0KPHA+LSBVcmFtLCBueWlzZCBtZWcgbmVrZW0g
-  YSBNZW5ueW9yc3rDoWcga2FwdWrDoXQhIE1pbmRlbiBow6l0ZW4gdGVtcGxv
-  bWJhbiB2b2x0YW0sIHR1ZG9tIGZlamLFkWwgYSBCaWJsacOhdCwgcmVuZGJl
-  biBiZWZpemV0dGVtIGF6IGVneWjDoXppIGrDoXJ1bMOpa290IMOpcyBlbGxl
-  bsOhbGx0YW0gYSB2aWzDoWcgY3PDoWLDrXTDoXPDoW5hay48YnIgLz4tIEFk
-  dMOhbC1lIGVubmkgYXogw6loZXrFkWtuZWs/
+excerpt: "Ez a cikk a Miért nincs Isten, ha van? - egy kirúgott keresztény története és az Isten áldozatai című cikkek folytatása."
 categories: blog
 ---
-<p>&nbsp;</p>
+
 <p>Ez a cikk a <a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank" style="font-size: 12.16px; line-height: 1.3em;">Miért nincs Isten, ha van? - egy kirúgott keresztény története&nbsp;</a>és az <a href="http://agostonlaszlo.hu/hu/blog/59-isten-aldozatai-egy-kirugott-kereszteny-tortenete-ii-resz" target="_blank" style="font-size: 12.16px; line-height: 1.3em;">Isten áldozatai</a> című cikkek folytatása.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

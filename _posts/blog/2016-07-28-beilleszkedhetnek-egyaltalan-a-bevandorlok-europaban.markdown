@@ -1,55 +1,12 @@
 ---
 layout: post
-title: !binary |-
-  QmVpbGxlc3prZWRoZXRuZWsgZWd5w6FsdGFsw6FuIGEgYmV2w6FuZG9ybMOz
-  ayBFdXLDs3DDoWJhbj8=
-joomla_id: 74
-joomla_url: beilleszkedhetnek-egyaltalan-a-bevandorlok-europaban
+title: "Beilleszkedhetnek egyáltalán a bevándorlók Európában?"
 date: 2016-07-28 10:07:21.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+RXogYSBjaWtrIGVneSBtaWdyw6FjacOzcsOzbCBzesOzbMOzIHNvcm96
-  YXQgcsOpc3plLiDDmmd5IGdvbmRvbG9tLCBzb2trYWwgYm9ueW9sdWx0YWJi
-  IGFubsOhbCBhIHTDqW1hLCBob2d5ICJ2ZWzDvGsgdmFneSBlbGxlbsO8ayIg
-  c3ppbnRyZSBsZWhlc3NlbiBidXTDrXRhbmkuIEFra29yIHZpc3pvbnQgYmVz
-  esOpbGrDvG5rIHLDs2xhIGVneXN6ZXIgcsOpc3psZXRlc2VuISZuYnNwO0tv
-  csOhYmJpIMOtcsOhc2FpbTo8L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD4xLCA8
-  YSBocmVmPSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9odS9ibG9nLzU3LWZv
-  Z29tLWUtdmVncmUtZ3l1bG9sbmktYS1tdXp1bG1hbm9rYXQtaGEtcm9iYmFu
-  dGFzLWxlc3otYXotZWItbiIgdGFyZ2V0PSJfYmxhbmsiPk1pw6lydCBhIHRl
-  cnJvcmlzdMOha2F0IGd5xbFsw7Zsw7ZtLCBuZW0gYSBtdXN6bGltb2thdCBh
-  a8OhcmjDoW55IHJvYmJhbnTDoXMgaXMgbGVzejwvYT48L3A+DQo8cD4yLCA8
-  YSBocmVmPSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9odS9ibG9nLzcwLW5l
-  bS12YWd5b2staHVseWUtYXR0b2wtbWVnLWhvZ3ktbmVtLWtpYWJhbG9rIiB0
-  YXJnZXQ9Il9ibGFuayI+TWFneWFyb3JzesOhZ29uIG5lbSBsZWhldCBtw6ly
-  c8Opa2VsdG5layBsZW5uaSBtaWdyw6FjacOzcyBrw6lyZMOpc2VrYmVuPzwv
-  YT48L3A+DQo8cD4zLCA8YSBocmVmPSJodHRwOi8vYWdvc3Rvbmxhc3psby5o
-  dS9odS9ibG9nLzcyLWJvY3NhbmF0LW1lZ3phdmFyaGF0bGFrLWEtZ3l1bG9s
-  ZXRiZW4tZWd5LXBpbGxhbmF0cmEiIHRhcmdldD0iX2JsYW5rIj5Cb2Nzw6Fu
-  YXQsIMO2c3N6ZXphdmFyaGF0bGFrPzwvYT48L3A+DQo8cD40LCA8YSBocmVm
-  PSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9odS9ibG9nLzczLW1lZy1qb2Ji
-  YW4tb3NzemV6YXZhcmxhay1uZW0tdmFneS1yYXNzemlzdGEtaGEtZmVsc3oi
-  IHRhcmdldD0iX2JsYW5rIj5OZW0gdmFneSBhdHTDs2wgcmFzc3ppc3RhLCBo
-  YSBmw6lsc3o8L2E+PC9wPg0KPHA+NSwgPGEgaHJlZj0iaHR0cDovL2Fnb3N0
-  b25sYXN6bG8uaHUvaHUvYmxvZy83NS1ob2d5YW4tbGVoZXRuZS1tZWdhbGxp
-  dGFuaS1hLXRlcnJvcml6bXVzdCIgdGFyZ2V0PSJfYmxhbmsiPkhvZ3lhbiBs
-  ZWhldG5lIG1lZ8OhbGzDrXRhbmkgYSB0ZXJyb3Jpem11c3Q/PC9hPjwvcD4N
-  CjxwPiZuYnNwOzwvcD4NCjxwPk1pbmRlbmVrIGVsxZF0dCBrw6l0IGZvZ2Fs
-  bWF0IHRpc3p0w6F6enVuazogbWl0IGplbGVudCBhIGJlaWxsZXN6a2Vkw6lz
-  IMOpcyBtaXQgamVsZW50IEV1csOzcGEgLyBhIGZvZ2Fkw7Mgb3JzesOhZ29r
-  IGt1bHTDunLDoWphLjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwPkVneSBuZW16
-  ZXQgbmVtIGNzYWsgLSBzxZF0IGxlZ2tldsOpc2LDqSAtIHN6w7xsZXTDqXNp
-  LCBoZWx5aSBhbGFwb24gc3plcnZlesWRZGlrLiBHb25kb2xqdW5rIG1vbmRq
-  dWsgYXJyYSBheiBhdXN6dHLDoWwgZmnDunJhLCBha2kgbmFneSBNYWd5YXJv
-  cnN6w6Fnb3QgdGV0b3bDoWx0YXRvdHQgYSBrYXJqw6FyYSwgcGVkaWcgYSBu
-  eWVsdmV0IHNlbSBiZXN6w6lsaS4gU3rDoW3DoXJhIGZvbnRvcyBheiBhIGd5
-  w7Zrw6lyLCBheiBhIGt1bHR1csOhbGlzIGvDtnRlbMOpaywgYW1pdCBhICJt
-  YWd5YXJuYWsgbGVubmkiIMOpcnrDqXNlIGplbGVudCBheiBhdXN6dHLDoWxv
-  ayBrw7Z6w7Z0dC48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD48c3Ryb25nPkRl
-  IG1pdCBqZWxlbnQgbWFneWFybmFrIGxlbm5pPyZuYnNwOzwvc3Ryb25nPiZu
-  YnNwOzwvcD4=
+excerpt: "Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy 'velük vagy ellenük' szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!"
 categories: blog
 ---
+
 <p>Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!&nbsp;Korábbi írásaim:</p>
 <p>&nbsp;</p>
 <p>1, <a href="http://agostonlaszlo.hu/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n" target="_blank">Miért a terroristákat gyűlölöm, nem a muszlimokat akárhány robbantás is lesz</a></p>

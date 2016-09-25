@@ -1,43 +1,12 @@
 ---
 layout: post
-title: !binary |-
-  SMO6c3phcyDDqXZlaW0gc8OtcmvDtnbDqXJl
-joomla_id: 71
-joomla_url: huszas-eveim-sirkovere
+title: "Húszas éveim sírkövére"
 date: 2016-07-24 23:02:36.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+Jm5ic3A7PC9wPg0KPHA+ImFtaWtvciByw6Fqw7Zzc3o8YnIgLz5leiBr
-  ZWxsZXR0IGFoaG96PGJyIC8+bWluZGV6ZWtyZSByw6Fqw7ZqajxiciAvPnLD
-  oWrDtnNzejxiciAvPm1pbHllbiB2YWsgYSBjc29kw6FrcmEgYXogZW1iZXIi
-  PC9wPg0KPHA+PGJyIC8+KEJpcnRhbGFuIEJhbMOhenM6IEFtaWtvciByw6Fq
-  w7ZzejxlbT4mbmJzcDstIGEgS2Fzc3phesOhcsOhcyBjw61txbEga8O2dGV0
-  YsWRbDwvZW0+KTxiciAvPjxiciAvPjwvcD4NCjxwPkjDoXJvbSBwZXJjZSBm
-  b3JkdWx0IMOhdCBhIHRlc3RlbSBodXN6b25iw7NsIGhhcm1pbmMgw6l2ZXNi
-  ZS4gTsOpenRlbSBhIHRvcm9uecOzcsOhbiDDqXMga2l2w6FydGFtIGF6IMO8
-  dMOpc3QuIFTDoXZvbCBoYW1hcm9zYW4gZmVsc8OtcnQgZWd5IGF1dMOzIGbD
-  qWtqZSBtYWpkIHRvbXBhIHB1ZmZhbsOhcy4gRmVrZXRlIGh1bW9yw7ogcmVu
-  ZGV6xZEgYXogw6lsZXQuIERlIGF6IGlzIGxlaGV0LCBob2d5IGNzYWsga8Op
-  cHplbGVtLiZuYnNwOzwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwPkjDs25hcG9r
-  IMOzdGEgdGVydmV6ZW0sIGhvZ3kgbWl0IGZvZ29rIGVycsWRbCDDrXJuaS4g
-  QW5ueWkgbWluZGVudCBzemVyZXRuw6lrIG1vbmRhbmkgbWFnYW1yw7NsLCBh
-  IHN6w6luYWJvZ2x5YS1oYWrDuiB0aW5pYsWRbCBsZXR0IHbDtnLDtnNpbmdl
-  cyBaZW5lYWthZMOpbWlzdMOhcsOzbCAoYXp0IGhpc3plbSwgZXoga8O2em7D
-  qXYsIGRlIG5la2VtIGF6w6lydCBuYWd5YmV0xbEpLiBBIEJLRi1lbiBlbHTD
-  tmx0w7Z0dCDDqXZla3LFkWwsIGFtw61nIHZpc3N6YSBuZW0gdMOpcnRlbSBp
-  ZMWRbmvDqW50IHRhbsOtdGFuaSBheiBBbG1hIE1hdGVyZW1iZS4gTsWRa3LF
-  kWwsIGFraWsgdMOhcnNhayB2b2x0YWsgw6lzIG3DoXMgdXRha2F0IHZldHRl
-  aywgbsWRcsWRbCwgYWtpYmUgw7pqIGhpdGVrZXQgdGV0dGVtLiBCYXLDoXRv
-  a3LDs2wsIGFraWsga2luZXZldHRlaywgYWtpayB0xbF6YmVuIGlzIHN6ZXJl
-  dHRlaywgYWtpayB0w7psIGhhbWFyIGVsbWVudGVrLi4uPC9wPg0KPHA+Jm5i
-  c3A7PC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPjxpbWcg
-  c3JjPSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9pbWFnZXMvY2lra2VrL3N6
-  dWxldGVzbmFwLkpQRyIgYWx0PSJzenVsZXRlc25hcCIgLz48ZW0+QSBmYWxh
-  bSBhIG1lZ2xlcGV0w6lzYnVsaSB1dMOhbjwvZW0+PC9wPg0KPHA+Jm5ic3A7
-  PC9wPg==
+excerpt: "Három perce fordult át a testem huszonból harminc évesbe. Néztem a toronyórán és kivártam az ütést. Távol hamarosan felsírt egy autó fékje majd tompa puffanás. Fekete humorú rendező az élet. De az is lehet, hogy csak képzelem. "
 categories: blog
 ---
-<p>&nbsp;</p>
+
 <p>"amikor rájössz<br />ez kellett ahhoz<br />mindezekre rájöjj<br />rájössz<br />milyen vak a csodákra az ember"</p>
 <p><br />(Birtalan Balázs: Amikor rájösz<em>&nbsp;- a Kasszazárás című kötetből</em>)<br /><br /></p>
 <p>Három perce fordult át a testem huszonból harminc évesbe. Néztem a toronyórán és kivártam az ütést. Távol hamarosan felsírt egy autó fékje majd tompa puffanás. Fekete humorú rendező az élet. De az is lehet, hogy csak képzelem.&nbsp;</p>

@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "Él Magyarországon egy kisebbség, akiket alig veszünk észre, pedig napi szinten találkozunk velük. Egy kisebbség, amely harcol a jogaiért, de még a jogfosztottságukról is vitatkoznak. Akik saját maguk is nehezen ismerik fel a saját jogfosztottságukat. Akiknek problémáik vannak a foglalkoztatottság terén és ugyanazért a munkáért kevesebbet kapnak. Akikre más szabályok vonatkoznak. Akiknek sok esetben fizikai erőszakot is el kell szenvedniük és sokszor hátrányosan különböztetik meg az erőszakhoz kapcsolódó ügyeiket. Ők a nők."
 categories: blog
 ---
-<p>&nbsp;</p>
+
 <p>Él Magyarországon egy kisebbség, akiket alig veszünk észre, pedig napi szinten találkozunk velük. Egy kisebbség, amely harcol a jogaiért, de még a jogfosztottságukról is vitatkoznak. Akik saját maguk is nehezen ismerik fel a saját jogfosztottságukat. Akiknek problémáik vannak a foglalkoztatottság terén és ugyanazért a munkáért kevesebbet kapnak. Akikre más szabályok vonatkoznak. Akiknek sok esetben fizikai erőszakot is el kell szenvedniük és sokszor hátrányosan különböztetik meg az erőszakhoz kapcsolódó ügyeiket. Ők a nők.</p>
 <p>&nbsp;</p>
 <p><strong>"Jaj, hagyjálmár..."</strong></p>

@@ -6,6 +6,7 @@ author: agoston_laszlo
 excerpt: "Most végképp össze foglak zavarni. Olvashattad már a cikkemet arról, hogy akárhány terrorcselekmény is lesz a világban, nem fogom meggyűlölni miatta a muszlimokat, mert nem fogok szélsőségesekből egy egész vallásra általánosítani."
 categories: blog
 ---
+
 <p>Most végképp össze foglak zavarni. Olvashattad már a cikkemet arról, hogy</p>
 <p>-&nbsp;<a href="http://agostonlaszlo.hu/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n" target="_blank">akárhány terrorcselekmény is lesz a világban, nem fogom meggyűlölni miatta a muszlimokat</a>, mert nem fogok szélsőségesekből egy egész vallásra általánosítani,</p>
 <p>-&nbsp;mennyire zavar, hogy <a href="http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok" target="_blank">Magyarországon nem lehet mérsékelt véleményt megfogalmazni a migráció kérdésében</a>, mert csak "nácik" és "migránssimogatók" léteznek&nbsp;vagy épp</p>

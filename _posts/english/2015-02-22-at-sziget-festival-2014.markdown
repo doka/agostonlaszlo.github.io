@@ -15,7 +15,7 @@ excerpt: "<p><img style=\"display: block; margin-left: auto; margin-right: auto;
   musicians\" in the Sziget Fesztival with Moltopera in the upcoming week. I do feel
   a certain responsibility on my shoulders. Who knows? Maybe a latin teacher with
   a few teenagers will attend...</p>"
-categories: blog
+# categories: blog
 ---
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://agostonlaszlo.hu/images/blog/Sziget2014.jpg" alt="Sziget2014" width="550" height="309" /></p>
 <p>&nbsp;</p>

@@ -1,22 +1,11 @@
 ---
 layout: post
-title: Zavarban vagyok a Liget-gate miatt
+title: "Zavarban vagyok a Liget-gate miatt"
 joomla_id: 69
 joomla_url: zavarban-vagyok-a-liget-gate-miatt
 date: 2016-07-07 09:02:46.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+VHVkasOhdG9rLCBob2d5IG5lbSB2YWd5b2sgc2UgYSBtb3N0YW5pIHNl
-  IGEga29yw6FiYmkga29ybcOhbnlvayBiYXLDoXRqYSwgZGUgZXogYSBrw6lw
-  IGvDqXQgb2sgbWlhdHQgaG96IHphdmFyYmEuJm5ic3A7RWd5csOpc3p0LCBo
-  b2d5IGLDqWvDqXMgdGlsdGFrb3rDs2thdCBtZWfDvHRoZXRuZWsgKHLDoWFk
-  w6FzdWwgb2xkYWxyw7NsLCBhbWlrb3IgbmVtIGZpZ3llbCksIGVsdMO2cmhl
-  dGlrIGF6IHVqanVrYXQgTWFneWFyb3JzesOhZ29uLiBNw6FzcsOpc3p0LCBt
-  ZXJ0IG5lbSDDqXJ6ZW0gbWFnYW3DqW5hayBhIGxpZ2V0dsOpZMWRayBwcm90
-  ZXN0asOpdC4gTWluZGtldHTFkSBuYWd5b24gemF2YXIuPC9wPg0KPHA+Jm5i
-  c3A7PC9wPg0KPHA+PGltZyBzcmM9Imh0dHA6Ly9hZ29zdG9ubGFzemxvLmh1
-  L2ltYWdlcy9jaWtrZWsvZ3VseWFzLmpwZyIgYWx0PSJndWx5YXMiIC8+PC9w
-  Pg0KPHA+Jm5ic3A7PC9wPg==
+excerpt: "Tudjátok, hogy nem vagyok se a mostani se a korábbi kormányok barátja, de ez a kép két ok miatt hoz zavarba. Egyrészt, hogy békés tiltakozókat megüthetnek (ráadásul oldalról, amikor nem figyel), eltörhetik az ujjukat Magyarországon. Másrészt, mert nem érzem magaménak a ligetvédők protestjét. Mindkettő nagyon zavar."
 categories: blog
 ---
 <p>Tudjátok, hogy nem vagyok se a mostani se a korábbi kormányok barátja, de ez a kép két ok miatt hoz zavarba.&nbsp;Egyrészt, hogy békés tiltakozókat megüthetnek (ráadásul oldalról, amikor nem figyel), eltörhetik az ujjukat Magyarországon. Másrészt, mert nem érzem magaménak a ligetvédők protestjét. Mindkettő nagyon zavar.</p>

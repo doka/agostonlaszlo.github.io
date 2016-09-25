@@ -1,31 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  TmVtIHZhZ3lvayBow7xseWUgYXR0w7NsIG3DqWcsIGhvZ3kgbmVtIGtpYWLD
-  oWxvaw==
-joomla_id: 70
-joomla_url: nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok
+title: Nem vagyok hülye attól még, hogy nem kiabálok
 date: 2016-07-20 06:55:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+VHVkb2QsIGF6IGEgbGVnaWRlZ2Vzw610xZFiYiwgaG9neSBuZW0gZW5n
-  ZWRpayBtZWcsIGhvZ3kgbcOpcnPDqWtlbHQgbWFyYWRqLiBOZWtlbSBpcyB2
-  YW4gYmFqb20gYXogaWxsZWfDoWxpcyBiZXbDoW5kb3Jsw6Fzc2FsLCDDqW4g
-  aXMgaGF0YWxtYXMgdmVzesOpbHl0IGzDoXRvayBhIHZhbMOzYmFuIG3DoXMg
-  a3VsdMO6csOhasO6IGVtYmVyZWsgbmFneSBzesOhbcO6IGJlw6FyYW1sw6Fz
-  w6FiYW4sIGVuZ2VtIGlzIGtpYWthc3p0IGEgdGVycm9yaXptdXMgKMOpcyB2
-  YWzDs2JhbiB0w7ZiYiBtdXN6bGltIHJvYmJhbnQgbWFuYXBzw6FnLCBtaW50
-  IElSQS0gdmFneSBFVEEtdGFnKS4gU29yb2xoYXRuw6FtLjwvcD4NCjxwPiZu
-  YnNwOzwvcD4NCjxwPkRlIGFtaWtvciBmcsO2Y3PDtmd2ZSwgdsOpcmVzIHN6
-  w6FqamFsIG5ldmV6aSAia3V0ecOhbmFrIiDDqXMgImd5aWxrb3NuYWsiIMOp
-  cyAibW9jc29rbmFrIiDDqXMgInRlcnJvcmlzdMOhbmFrIiBlZ3kgbWFqZCcg
-  a8OpdG1pbGxpw6FyZG9zIG7DqXBjc29wb3J0IE1JTkRFTiB0YWdqw6F0LCBh
-  a2tvciBow6FueWluZ2VyZW0gdMOhbWFkLiBKYSBpZ2VuLCBha2tvciwgaGEg
-  YSB2w6FsYXN6dG90dCBrb3Jtw6FueXVuayBheiDDqW4gYWTDs21iw7NsIGV6
-  dCBtw6lnIGhlcmdlbGkgaXMsIGFra29yIGF6dMOhbiBwbMOhbmUuPC9wPg0K
-  PHA+Jm5ic3A7PC9wPg0KPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsi
-  PjxzcGFuPjxpbWcgc3JjPSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9pbWFn
-  ZXMvY2lra2VrLzEwMC5qcGVnIiBhbHQ9IjEwMCIgLz48L3NwYW4+PC9wPg==
+excerpt: "Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám."
 categories: blog
 ---
 <p>Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám.</p>

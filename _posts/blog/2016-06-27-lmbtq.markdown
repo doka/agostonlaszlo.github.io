@@ -1,51 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  QW1pdCBraW1vbmRhc3osIGFubmFrIHPDumx5YSB2YW4hIFR1ZG9kLCBtaXQg
-  dGVzemVsPw==
-joomla_id: 66
-joomla_url: lmbtq
+title: "Amit kimondasz, annak súlya van! Tudod, mit teszel?"
 date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+Jm5ic3A7PC9wPg0KPHA+VGUsIGFraSDDvGxzeiBhIHN6w6Ftw610w7Nn
-  w6lwZWQgZWzFkXR0IMOpcyBlZ3kga2xhdmlhdMO6csOhdCBpZGVnZXNlbiBw
-  w7xmw7ZsdmUsIGEgY2FwcyBsb2Nrb3QgbWVnbnlvbXZhIENTVVBBIE5BR1lC
-  RVTFsFZFTCDDnFbDlkxUw5ZEIEJFTEUgQSBWSUzDgUcgQVJDw4FCQSBBIFbD
-  iUxFTcOJTllFREVUIGEgbWVsZWdla3LFkWwgKMOpcyBiZXbDoW5kb3Jsw7Nr
-  csOzbCDDqXMgY2lnw6FueW9rcsOzbCDDqXMgenNpZMOza3LDs2wgw6lzIG1p
-  bmRlbmtpcsWRbCwgYWtpICJtw6FzIiBtaW50IHRlKSwgdHVkb2QgdmFqb24g
-  bWl0IHRlc3plbD88L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD4iw4l2dGl6ZWRl
-  a2VuIGtlcmVzenTDvGwgdm9sdGFtIHRhbsO6amEgYW5uYWssIGFob2d5IGEg
-  aG9tb2bDs2JpYSBjc2Fsw6Fkb2thdCB2w6FsYXN6dCBzesOpdCwga2Fycmll
-  cmVrZXQgZMO2bnQgcm9tYmEgw6lzIMOpbGV0ZWtldCB0ZXN6IHTDtm5rcmUu
-  IFTDumwgc29rIHTDtnJ0w6luZXRldCBvbHZhc3RhbSAtIMOpcyDDrXJ0YW0g
-  LSBtZWxlZyB0aW7DqWR6c2VyZWtyxZFsLCBha2lrIGEgY2lraXrDqXMgbWlh
-  dHQgYXogw7ZuZ3lpbGtvc3PDoWdiYSBtZW5la8O8bHRlay4gQXogb3N6dMOh
-  bHl0w6Fyc2FpaywgaWRlZ2VuZWssIGtvbW1lbnRlbMWRayBzxZF0IG7DqWhh
-  IGEgc2Fqw6F0IGNzYWzDoWR0YWdqYWlrIGNpa2l6w6lzZSBtaWF0dC4gR3ll
-  cmVrZWsuIE1lZ8O2bHTDqWsgbWFndWthdCwgbWVydCDDumd5IMOpcmV6dMOp
-  aywgPHN0cm9uZz7FkWsgbmVtIG3DqWx0w7NhayBhIHN6ZXJldGV0cmUsIG1p
-  bnQgYXogw7Zzc3plcyB0w7ZiYmkgZW1iZXJpIGzDqW55Ljwvc3Ryb25nPjwv
-  cD4NCjxwPiZuYnNwOzwvcD4NCjxwPkF6IMOpdmVrIGFsYXR0IGFubnlpcmEg
-  c29rIG1lbGVnIGJhcsOhdG9tIMO8bm5lcGVsdGUgdmVsZW0gYSBzesO8bGV0
-  w6lzbmFwasOhdCwgbWVydCBhIHNhasOhdCBjc2Fsw6FkamEgbmVtIGzDoXR0
-  YSDFkWtldCBzemVyZXRldHRlbCBvdHRob24uIFTDumwgc29rIG1lbGVnIGJh
-  csOhdG9tbWFsIHPDrXJ0YW0gZWd5w7x0dCwgYWtpa25layBhIHN6w612w6l0
-  IMO2c3N6ZXTDtnJ0ZSBlbWJlcnTDoXJzYWlrIHZpc2Vsa2Vkw6lzZSB2ZWzD
-  vGsgc3plbWJlbiwgw6lzIGEgc2Fqw6F0IGtvcm3DoW55emF0dWsgbWVsZWct
-  ZWxsZW5lcyB0w7ZydsOpbnllaS48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD5M
-  w6F0dGFtIG1hZ3VrYXQga2VyZXN6dMOpbnlla25layBuZXZlesWRIGVtYmVy
-  ZWtldDxlbT4gPC9lbT48c3Ryb25nPjxlbT5ueWlsdsOhbm9zYW4gYXpvayBo
-  YWzDoWzDocOpcnQgaW3DoWRrb3puaSwgYWtpa2V0IHN6ZXJldGVrLjwvZW0+
-  PC9zdHJvbmc+IEzDoXR0YW0gxZFrZXQgdGVtZXTDqXNlayBrw7Z6ZWzDqWJl
-  biwgYWhvZ3lhbiBhIGtpc2d5ZXJla2VpayB0w6FibMOhdCB0YXJ0b3R0YWsg
-  YSBtYWdhc2JhOiA8c3Ryb25nPiJJU1RFTiBHWcWwTMOWTEkgQSBCVVpJS0FU
-  LiI8L3N0cm9uZz48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD48aW1nIHNyYz0i
-  aHR0cDovL2Fnb3N0b25sYXN6bG8uaHUvaW1hZ2VzL2Npa2tlay9tZWxlZ2d5
-  dWxvbGV0LmpwZyIgYWx0PSJtZWxlZ2d5dWxvbGV0IiBzdHlsZT0iZGlzcGxh
-  eTogYmxvY2s7IG1hcmdpbi1sZWZ0OiBhdXRvOyBtYXJnaW4tcmlnaHQ6IGF1
-  dG87IiAvPjwvcD4=
+excerpt: "Te, aki ülsz a számítógéped előtt és egy klaviatúrát idegesen püfölve, a caps lockot megnyomva CSUPA NAGYBETŰVEL ÜVÖLTÖD BELE A VILÁG ARCÁBA A VÉLEMÉNYEDET a melegekről (és bevándorlókról és cigányokról és zsidókról és mindenkiről, aki 'más' mint te), tudod vajon mit teszel?"
 categories: blog
 ---
 <p>&nbsp;</p>

@@ -1,28 +1,15 @@
 ---
 layout: post
-title: !binary |-
-  TWl0IHRlZ3nDqWwsIGhhIGF6IHTDtnJsaSBiZWzDqWQgYSBsw6Fiw6F0LCBh
-  a2luZWsgc2Vnw610ZW5pIGFrYXJ0w6FsPw==
-joomla_id: 49
-joomla_url: mit-tegyel-ha-az-torli-beled-a-labat-akinek-segiteni-akartal
+title: "Mit tegyél, ha az törli beléd a lábát, akinek segíteni akartál?"
 date: 2016-05-25 17:22:21.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+UmVuZ2V0ZWcgdMOhbW9nYXTDsywgc3plcmV0ZXR0ZWxqZXMgbGV2ZWxl
-  dCBrYXBvayDDqXMgcmVuZ2V0ZWcgYW55w6F6w6FzdC4gVXTDs2JiaSBhIGxl
-  Z2pvYmJhbiBha2tvciBmw6FqLCBoYSBvbHlhbnTDs2wga2Fwb2QsIGFracOp
-  cnQgc3rDs3QgZW1lbHTDqWwuLi48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD48
-  aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25sYXN6bG8uaHUvaW1hZ2VzL2Npa2tl
-  ay9oYXJhZy5KUEciIGFsdD0iaGFyYWciIC8+PC9wPg0KPHA+Jm5ic3A7PC9w
-  Pg==
+excerpt: "Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél..."
 categories: blog
 ---
 <p>Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél...</p>
 <p>&nbsp;</p>
 <p><img src="http://agostonlaszlo.hu/images/cikkek/harag.JPG" alt="harag" /></p>
-<p>&nbsp;</p>
 
-<p>&nbsp;</p>
 <p>Érdekesek vagyunk mi, emberek. Jézus nagy igazságot mondott azzal a szálkával, amit a másik szemében hamarabb észreveszünk, mint a magunkéban a gerendát. Talált már meg homofób muzulmán (akikért számos videót tettem közzé), anti-liberális zsidó és legújabban egy korábbi, a <em>nők egyenjogúságát</em> zászlajára tűző cikkemért (<a href="http://agostonlaszlo.hu/en/blog/46-kedvenc-hasznalati-targyaink-a-nok" target="_blank">Kedvenc használati tárgyaink - a nők</a>) egy csapat harcos feminista, aki egy bekezdést a kontextusából kiemelve "csajozós szövegnek" minősítette a cikket engem pedig nemes egyszerűséggel "faszfejnek" nevezett.</p>
 <p>&nbsp;</p>
 <p>Mit teszel ilyenkor? Dühöngsz? Vitriolos tollal odacsapsz? Mert valahol ez tényleg nagyon tud fájni... Arra fel vagyok készülve, hogy kopaszok (haha) kiteszik előbb-utóbb a nevemet és a címemet valami WANTED-típusú oldalra, ez megszokott. De hogy azok támadjanak, akikért harcolunk?</p>

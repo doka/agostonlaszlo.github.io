@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Isten áldozatai - egy kirúgott keresztény története, II. rész (2)"
-joomla_id: 56
-joomla_url: miert-nincs-isten-ha-van-2
 date: 2016-05-29 06:41:20.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista..."
 categories: blog
 ---
-<p>&nbsp;</p>
+
 <p>“Hónapokra kiborultam (huszonkét&nbsp;évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...&nbsp;“ (<span style="font-size: 12.16px; line-height: 15.808px;">Ez a cikk a&nbsp;</span><a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank" style="font-size: 12.16px; line-height: 15.808px;">Miért nincs Isten, ha van? - egy kirúgott keresztény története</a><span style="font-size: 12.16px; line-height: 15.808px;">&nbsp;című cikk folytatása.)</span></p>
 <p>&nbsp;</p>
 <p>Hihetetlenül felszabadító érzés volt, hogy “már nem vagyok hívő”. Isten parancsainak nem volt többé hatalma felettem. Isten parancsai... Hát kezdjük...</p>

@@ -8,9 +8,9 @@ categories: blog
 ---
 
 <p>Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égből hull alá: senki se érti, hogy mit keres itt, mindenki másra akarja használni és mindenkinek van egy teóriája, hogy mire jó. Elmondom magam.</p>
-<p>&nbsp;</p>
+
 <p><strong>Ki vagyok én?</strong></p>
-<p>&nbsp;</p>
+
 <p>Ágoston László vagyok, harmincéves. Menedzselem a saját operatársulatomat (Moltopera), Magyaróvári Viktor "<a href="https://hu.wikipedia.org/wiki/Magyar%C3%B3v%C3%A1ri_Viktor" target="_blank">Kayamar</a>"-t,&nbsp;<a href="https://www.youtube.com/watch?v=qyXGO3gvgh0" target="_blank" style="font-size: 12.16px; line-height: 15.808px;">iskolai előadásokat tartok a komolyzenéről</a>&nbsp;itthon és külföldön, marketing tanácsadóként dolgozom kis cégeknek előtte évekig az Operaháznak.&nbsp;<a href="http://agostonlaszlo.hu/hu/eletrajz" target="_blank">Bővebben itt olvashatsz az életem szakmai részéről</a>. Apám újságíró volt kisebb lapoknál, szépíróként hamarosan megjelenik a tizenkilencedik kötete. Anyám tanítónő volt nyugdíjba vonulásáig. Öt nyelvem (<em>magyar [anyanyelv], angol [felsőfok], olasz[középfok], latin[középfok], német[alapfok]</em>) és három diplomám (<em>PR-marketing, újságírás [mindkettő BKF] és komolyzenei énekes-előadóművész [Zeneakadémia]</em>) van.&nbsp;</p>
 <p>&nbsp;</p>
 <p><img src="http://agostonlaszlo.hu/images/cikkek/szelim.jpg" alt="szelim" /></p>

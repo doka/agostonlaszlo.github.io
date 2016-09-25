@@ -1,28 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  T3Jiw6FuLCBHeXVyY3PDoW55IMOpcyBhIHRlaGVuZWs=
-joomla_id: 45
-joomla_url: orban-gyurcsany-es-a-tehenek
+title: "Orbán, Gyurcsány és a tehenek"
 date: 2016-05-16 09:18:19.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+w4lww610c8O8bmsgZWd5IHN0YWRpb250ISBIYSBGaWRlc3plcyB2YWd5
-  b2sgLSBqdWjDuiwgZGUgasOzLCBheiBvcnN6w6FnIGpvYmJhbiB0ZWxqZXPD
-  rXQuIEhhIGJhbG9zIC0gbW9jc2tvcyBoYXphw6FydWzDsywgcmFibMOzIGJh
-  bmRhLjwvcD4NCjxwPsOJcMOtdHPDvG5rIE5lbXpldGkgU3rDrW5ow6F6YXQg
-  YXogRXJ6c8OpYmV0IHTDqXJyZSEgSGEgYmFsb3MgdmFneW9rLCBqdWjDuiwg
-  ZGUgasOzLCDDqXDDvGzDvG5rLXN6w6lww7xsw7xuay4gSGEgRmlkZXN6ZXMg
-  LSBtb2Nza29zIG55b2xjw6l2IHJhYmzDs2JhbmRhLjwvcD4NCjxwPiZuYnNw
-  OzxpbWcgc3JjPSJodHRwOi8vYWdvc3Rvbmxhc3psby5odS9pbWFnZXMvY2lr
-  a2VrL3RlaGVuLWQwMDAxQjE1RmRmNjljOTMzYjgxMy5qcGciIGFsdD0idGVo
-  ZW4gZDAwMDFCMTVGZGY2OWM5MzNiODEzIiAvPjwvcD4NCjxwPk5lbSBsZWhl
-  dG5lIGF6w6lydCDDqXDDrXRlbmkgc3RhZGlvbnQsIHN6w61uaMOhemF0LCBh
-  dXTDs3DDoWx5w6F0LCBiYWxhdG9uaSBraWvDtnTFkXQgLSBtZXJ0IHN6w7xr
-  c8OpZyB2YW4gcsOhICh2YWd5IG5lbSDDqXDDrXRlbmksIGhhIG5pbmNzIHZh
-  Z3kgbcOhcyBmb250b3NhYmIpPyBOZW0gbGVoZXRuZSBoYXphw6FydWzDs3rD
-  oXMgw6lzIGfDum55bmV2ZWsgKD8pIG7DqWxrw7xsIGJlc3rDqWxuaSBrw7Z6
-  w6lsZXRpIGvDqXJkw6lzZWtyxZFsPzwvcD4=
+excerpt: "Építsünk egy stadiont! Ha Fideszes vagyok - juhú, de jó, az ország jobban teljesít. Ha balos - mocskos hazaáruló, rabló banda. Építsünk Nemzeti Színházat az Erzsébet térre! Ha balos vagyok, juhú, de jó, épülünk-szépülünk. Ha Fideszes - mocskos nyolcév rablóbanda."
 categories: blog
 ---
 <p>Építsünk egy stadiont! Ha Fideszes vagyok - juhú, de jó, az ország jobban teljesít. Ha balos - mocskos hazaáruló, rabló banda.</p>
@@ -44,12 +25,3 @@ categories: blog
 <p>4, el kell fogadni a sokszínűséget. Hogy lehetnek a vélemények különbözők és nem biztos, hogy a tiéd az igaz. Vagy hogy több is lehet igaz egyszerre. És azt a döntést kell meghozni, ami a legtöbbek érdekét szolgálja.</p>
 <p>Hol kezdjük? Keressük egymást a nagy "értelmiségi szétszóratásban" Babilon falai között és beszélgessünk. Tanuljuk meg úja, milyen meghallgatni a másikat és elismerni az "ellenfél" értékeit.</p>
 <p>Szinte pédátlan itthon. Pedig nem is annyira nehéz.</p>
-<p><strong>Ha tetszett az írás és egy lájkkal feliratkoznál az oldalamra, itt teheted meg:</strong></p>
-<div class="fb-page" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p>&nbsp;</p>
-<p><strong>Ne felejtsd el megosztani, ha értesz és egyetértesz!</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/tehen-d0001B15Fdf69c933b813.jpg} {SCOpenGraph title=Orbán, Gyurcsány és a tehenek}</p>

@@ -6,6 +6,7 @@ author: agoston_laszlo
 excerpt: "Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás."
 categories: blog
 ---
+
 <p>Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás.</p>
 <div>&nbsp;</div>
 <div>Azóta rájöttem, hogy felnőtteknél ez máshogy van - legalábbis Magyarországon biztosan. Szétnézve a környezetemben számtalan szenzációs művészt, tanárt, iskolaigazgatót látok, akit nem ért utól az elismerés. Nem lehet, hogy nálunk a teljesítmény helyett a lojalitást jutalmazzák?</div>

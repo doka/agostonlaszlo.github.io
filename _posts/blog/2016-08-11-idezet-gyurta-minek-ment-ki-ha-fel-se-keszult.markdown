@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "Gyurta minek ment ki, ha fel se készült? - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el. Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (időnként megszakítja egy 'TUDTA?') és álmosan, nyárközepi unalommal arconhányja az olimpiai, háromszoros világ- és kétszeres Európa-bajnok magyar úszót. Úgy kell neki. The winner takes it all."
 categories: blog
 ---
-<p>&nbsp;</p>
+
 <p><em>"Gyurta minek ment ki, ha fel se készült?"</em> - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el.</p>
 <p><br /><br />Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (időnként megszakítja egy "TUDTA?") és álmosan, nyárközepi unalommal arconhányja az olimpiai, háromszoros világ- és kétszeres Európa-bajnok magyar úszót. Úgy kell neki. The winner takes it all.</p>
 

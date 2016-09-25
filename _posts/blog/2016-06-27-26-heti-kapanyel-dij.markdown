@@ -1,32 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  MjYuIGhldGkgS2FwYW55w6lsLWTDrWo6IGEgZm9jaW4ga8OhcsO2cnZlbmTF
-  kWtuZWs=
-joomla_id: 62
-joomla_url: 26-heti-kapanyel-dij
+title: "26. heti Kapanyél-díj: a focin kárörvendőknek"
 date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+QSBtYWd5YXIga8O2emJlc3rDqWQgc3rDrW52b25hbMOhdCBsw6F0dmEg
-  bWVnYWxhcMOtdG90dGFtIGEgS2FwYW55w6lsLWTDrWphdC4gQXpvayBrYXBq
-  w6FrLCBha2lrIG1vbmRhbml2YWzDs2p1a2thbCDDqXMvdmFneSBzdMOtbHVz
-  dWtrYWwgZWx2ZXN6aWsgYSBrZWR2w7xua2V0IGEgYmVzesOpbGdldMOpc3TF
-  kWwuIE1pbmRlbiBkw61qaG96IGrDoXIgcMOpbnpqdXRhbG9tOiBhaMOhbnkg
-  bMOhamtvdCBrYXAgYSBjaWtrLCBhbm55aSBmb3JpbnRvdCBmaXpldGVrIGVn
-  eSBoYWpsw6lrdGFsYW5va2F0IHTDoW1vZ2F0w7Mgc3plcnZlemV0bmVrLiBB
-  eiBlZ8Opc3N6ZWwga8OpdCBjw6lsb20gdmFuOjwvcD4NCjxwPiZuYnNwOzwv
-  cD4NCjxwPkVneXLDqXN6dCBmZWxow612bmkgYSBmaWd5ZWxtZXQgYXJyYSwg
-  aG9neSBhIGfDqXAgInTDumxvbGRhbMOhbiIgaXMgZW1iZXJlayDDvGxuZWss
-  IGFraWsgPHN0cm9uZz48ZW0+dGlzenRlbGV0ZXQgw6lyZGVtZWxuZWs8L2Vt
-  Pjwvc3Ryb25nPiBha2tvciBpcywgaGEgbcOhcyB2w6lsZW3DqW55ZW4gdmFu
-  bmFrLCBtaW50IG1pLiZuYnNwOzwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwPk3D
-  oXNyw6lzenQgbWVnbXV0YXRuaSwgaG9neSA8c3Ryb25nPjxlbT5zb2thbiB2
-  YWd5dW5rPC9lbT48L3N0cm9uZz4sIGFraWsga8OpcGVzZWsgw6lzIHbDoWd5
-  bmFrIGF6IMOpcMOtdMWRLCBpbnRlbGxpZ2VucywgZWzFkXJldml2xZEgZGlz
-  a3VyenVzcmEuJm5ic3A7PC9wPg0KPHA+Jm5ic3A7PC9wPg0KPHA+VGVyZW10
-  c8O8bmsgw6lydGVsbWVzIGvDtnpiZXN6w6lkZXQgTWFneWFyb3JzesOhZ29u
-  ITwvcD4=
+excerpt: "A magyar közbeszéd színvonalát látva megalapítottam a Kapanyél-díjat. Azok kapják, akik mondanivalójukkal és/vagy stílusukkal elveszik a kedvünket a beszélgetéstől. Minden díjhoz jár pénzjutalom: ahány lájkot kap a cikk, annyi forintot fizetek egy hajléktalanokat támogató szervezetnek. Az egésszel két célom van."
 categories: blog
 ---
 <p>A magyar közbeszéd színvonalát látva megalapítottam a Kapanyél-díjat. Azok kapják, akik mondanivalójukkal és/vagy stílusukkal elveszik a kedvünket a beszélgetéstől. Minden díjhoz jár pénzjutalom: ahány lájkot kap a cikk, annyi forintot fizetek egy hajléktalanokat támogató szervezetnek. Az egésszel két célom van:</p>

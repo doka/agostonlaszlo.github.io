@@ -1,35 +1,9 @@
 ---
 layout: post
-title: !binary |-
-  SMOhbnkgdGVycm9yY3NlbGVrbcOpbnkga2VsbCBtw6lnIGFoaG96LCBob2d5
-  IGd5xbFsw7ZsamVtIGEgbXV6dWxtw6Fub2thdD8=
-joomla_id: 57
-joomla_url: fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n
+title: "Hány terrorcselekmény kell még ahhoz, hogy gyűlöljem a muzulmánokat?"
 date: 2016-06-07 09:07:01.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+IkFtaWtvciBheiBlbHPFkSBib21iYSByb2JiYW4gw6lzIGVzZXRsZWcg
-  aG96esOhdGFydG96w7NqYSBsZXN6IGF6IGVtYmVyZWsga8O2enQsIG3DoXNr
-  w6lwcGVuIGZvZyBnb25kb2xrb3puaSDDqXMgYmVzesOpbG5pIiAtIGtvbW1l
-  bnRlbHRlIHZhbGFraSBhJm5ic3A7PGEgaHJlZj0iaHR0cDovL2Fnb3N0b25s
-  YXN6bG8uaHUvaHUvYmxvZy83MC1uZW0tdmFneW9rLWh1bHllLWF0dG9sLW1l
-  Zy1ob2d5LW5lbS1raWFiYWxvayIgdGFyZ2V0PSJfYmxhbmsiPk5lbSB2YWd5
-  b2sgaMO8bHllIGF0dMOzbCBtw6lnLCBob2d5IG5lbSBraWFiw6Fsb2s8L2E+
-  IGPDrW3FsSBwb3N6dCBhbMOhLiBUw6lueWxlZzogbWkgbGVubmUgdmVsZW0s
-  IGEgc29rc3rDrW7FsXPDqWdldCDDqXMgZWxmb2dhZMOhc3QgaGlyZGV0xZEg
-  bGliZXLDoWxpcyBnb25kb2xrb2TDs3ZhbCwgaGEgTWFneWFyb3JzesOhZ29u
-  IGlzIGxlbm5lIHJvYmJhbnTDoXM/IEVsZXZlOiBow6F0IG5lbSBsw6F0b2sg
-  w6luIGEgc3plbWVtdMWRbCwgaG9neSBtaW5kZW4gbmFwcmEganV0IGVneSBi
-  b3J6YWxvbT8gTWVubnlpIHbDqXJuZWsga2VsbCBtw6lnIGtpw7ZtbGVuaWUg
-  YWhob3osIGhvZ3kgZXN6ZW1oZXogdMOpcmplaz88L3A+DQo8cD4mbmJzcDs8
-  L3A+DQo8cD48ZW0+QSBjaWtrIGEga29yw6FiYmkgIkZvZ29tLWUgdsOpZ3Jl
-  IGd5xbFsw7ZsbmkgYSBtdXp1bG3DoW5va2F0LCBoYSByb2JiYW50w6FzIGxl
-  c3ogYXogRUItbj8iIGPDrW3FsSDDrXLDoXMgZnJpc3PDrXRldHQgdsOhbHRv
-  emF0YS48L2VtPjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwIHN0eWxlPSJ0ZXh0
-  LWFsaWduOiBjZW50ZXI7Ij48aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25sYXN6
-  bG8uaHUvaW1hZ2VzL2Npa2tlay9hcmFueWtlei5qcGciIGFsdD0iYXJhbnlr
-  ZXoiIC8+PGJyIC8+PGVtPkF6IEFyYW55a8OpeiB1dGNhIDE5OTguIGrDumxp
-  dXMgMi3DoW48L2VtPjwvcD4NCjxwPiZuYnNwOzwvcD4=
+excerpt: "Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni - kommentelte valaki a Nem vagyok hülye attól még, hogy nem kiabálok című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás?"
 categories: blog
 ---
 <p>"Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni" - kommentelte valaki a&nbsp;<a href="http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok" target="_blank">Nem vagyok hülye attól még, hogy nem kiabálok</a> című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás? Eleve: hát nem látok én a szememtől, hogy minden napra jut egy borzalom? Mennyi vérnek kell még kiömlenie ahhoz, hogy eszemhez térjek?</p>

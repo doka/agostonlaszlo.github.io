@@ -1,26 +1,14 @@
 ---
 layout: post
-title: !binary |-
-  S2VkdmVuYyBoYXN6bsOhbGF0aSB0w6FyZ3lhaW5rIC0gYSBuxZFr
-joomla_id: 46
-joomla_url: kedvenc-hasznalati-targyaink-a-nok
+title: "Kedvenc használati tárgyaink - a nők"
 date: 2016-05-18 09:10:12.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+QSBiYWwgb2xkYWxpIGvDqXAgYSAyMDE0LWVzIEFWTiBwb3Juw7NmaWxt
-  ZXMgZMOtamtpb3N6dMOzbiBrw6lzesO8bHQsIGEgam9iYiBvbGRhbGluIGJl
-  Zm9secOhc29zIGVtYmVyZWsgbMOhdGhhdMOzayBhIE1ldHJvcG9saXRhbiBv
-  cGVyYWLDoWxqw6FuLiBOZW0gdHVkb20sIHRpIG1pdCBsw6F0dG9rIGViYmVu
-  LCDDqW4gYXp0LCBob2d5IGVneSBuxZFuZWsgdMOhcmd5bmFrIGtlbGwgbGVu
-  bmllIGFrw6FyIMOtZ3ksIGFrw6FyIMO6Z3kuPC9wPg0KPHA+Jm5ic3A7PC9w
-  Pg0KPHA+PGltZyBzcmM9Imh0dHA6Ly9hZ29zdG9ubGFzemxvLmh1L2ltYWdl
-  cy9jaWtrZWsvbm9rLkpQRyIgYWx0PSJub2siIHN0eWxlPSJmb250LXNpemU6
-  IDEyLjE2cHg7IGxpbmUtaGVpZ2h0OiAxNS44MDhweDsiIC8+PC9wPg==
+excerpt: "Amikor azt mondom, hogy feminista vagyok, az emberek többsége megdöbben. Egyrészt nem érti, hogy miért akarom eldobni születési előjogomat, amely a péniszemmel együtt érkezett, hogy többet keressek, komolyabban - egyáltalán tárgyalóképesnek - vegyenek."
 categories: blog
 ---
 <p>A bal oldali kép a 2014-es AVN pornófilmes díjkiosztón készült, a jobb oldalin befolyásos emberek láthatók a Metropolitan operabálján. Nem tudom, ti mit láttok ebben, én azt, hogy egy nőnek tárgynak kell lennie akár így, akár úgy.</p>
 <p>&nbsp;</p>
-<p><img src="http://agostonlaszlo.hu/images/cikkek/nok.JPG" alt="nok" style="font-size: 12.16px; line-height: 15.808px;" /></p>
+<p><img src="http://agostonlaszlo.hu/images/nok.jpg" alt="nok" style="font-size: 12.16px; line-height: 15.808px;" /></p>
 
 <p>&nbsp;</p>
 <p>Amikor azt mondom, hogy feminista vagyok, az emberek többsége megdöbben. Egyrészt nem érti, hogy miért akarom eldobni születési előjogomat, amely a péniszemmel együtt érkezett, hogy többet keressek, komolyabban - egyáltalán tárgyalóképesnek - vegyenek, annyi ellentétetes neművel feküdjek le megvetés nélkül, "büntetlenül" ahánnyal csak jól esik és ha megverni vagy megerőszakolni támad kedvem, akkor egy vak komondorral vagy egy jól irányzott "ő volt kihívó"-típusú áldozathibáztatással olcsón jöjjek ki az ügyből. Hát hülye vagyok én, hogy mindezt eldobnám?</p>
@@ -66,12 +54,3 @@ categories: blog
 <p>A probléma rettenetes összetett és egy ekkora - és már így is túl hosszú - írásban csak a felszínét karcolgathatom. &nbsp;De muszáj lesz felszabadítanunk a nőket és a saját gondolkodásunkat is. Különben csak termeljük az erőszakot, a döntésképtelen és önképzavaros lányokat és meghíznak rajtunk a válóperes ügyvédek.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Rajtunk áll.</p>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong><span style="font-size: 12.16px; line-height: 15.808px;">Ez az írás csak a kezdet. Ha érdekel, hogy mit írok az egyes részterületeiről a jövőben,</span>&nbsp;egy lájkkal feliratkozhatsz itt:</strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Ne felejtsd el megosztani, ha értesz és egyetértesz!</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/nok.JPG} {SCOpenGraph title=Kedvenc használati tárgyaink - a nők}</p>

@@ -1,34 +1,11 @@
 ---
 layout: post
-title: !binary |-
-  QXpva25haywgYWtpayBuZW0gw6lydGlrLCBtacOpcnQgw7xubmVwZWwgbW9z
-  dCBheiBvcnN6w6Fn
+title: "Azoknak, akik nem értik, miért ünnepel most az ország"
 joomla_id: 58
 joomla_url: futball-eb
 date: 2016-06-15 06:42:13.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+PGVtPiZuYnNwOzwvZW0+PC9wPg0KPHA+IjIyIG1pbGxpb21vcyBrZXJn
-  ZXQgZWd5IGLFkXJnb2x5w7N0LCBtaXQgdmFneSDDumd5IG9kYT8iIC0gdmV0
-  ZXR0ZSBmZWwgdMO2YmIgaXNtZXLFkXPDtm0uIE5lbSDDqXJkZWtsaSDFkWtl
-  dCBhIGZvY2kgw6lzIGV6IGrDs2wgaXMgdmFuIMOtZ3kuIE3DoXIgw6luIHNl
-  IGvDtnZldGVtIMO6Z3ksIG1pbnQgcsOpZ2VuLi4uIERlIGxlw61ydGFtIG5l
-  a2VkLCBob2d5IMOpbiBww6lsZMOhdWwgbWnDqXJ0IMO8bm5lcGVsZWsuPC9w
-  Pg0KPHA+Jm5ic3A7PC9wPg0KPHA+MTk5OC4gc3plcHRlbWJlciA2LiBJc3pv
-  bnlhdG9zIGVzxZEuIEFraSBvdHQgdm9sdCwgbWVnIHR1ZGphIGVyxZFzw610
-  ZW5pOiBhIE7DqXBzdGFkaW9uIHJlZmxla3RvcsOhdCBuZW0gbGVoZXRldHQg
-  bMOhdG5pIGF6IMOpZ3N6YWthZMOhcyBmw7xnZ8O2bnllIG3DtmfDtnR0LiBU
-  aXplbmvDqXQgw6l2ZXMgdmFneW9rIMOpcyBlZ3kgaWRlZ2VudCDDtmxlbGdl
-  dGVrLCBzw61yb2suIEhvcnbDoXRoIEZlcmVuYyDDqXBwZW4gbW9zdCByw7pn
-  dGEgYmUgYSB2ZXpldMWRIGfDs2x1bmthdCBhIHBvcnR1Z8OhbG9rIGVsbGVu
-  LiDDiWxldGVtIGVsc8WRIG1lY2NzZSBhIGhlbHlzesOtbmVuLjwvcD4NCjxw
-  PiZuYnNwOzwvcD4NCjxwPjxpZnJhbWUgc3JjPSJodHRwczovL3d3dy55b3V0
-  dWJlLmNvbS9lbWJlZC8yWmc4QVNMaGdNMCIgZnJhbWVib3JkZXI9IjAiIHdp
-  ZHRoPSI2NDAiIGhlaWdodD0iNDgwIiBhbGxvd2Z1bGxzY3JlZW49ImFsbG93
-  ZnVsbHNjcmVlbiIgc3R5bGU9ImRpc3BsYXk6IGJsb2NrOyBtYXJnaW4tbGVm
-  dDogYXV0bzsgbWFyZ2luLXJpZ2h0OiBhdXRvOyI+PC9pZnJhbWU+PC9wPg0K
-  PHA+PGVtPkF6IGEgYml6b255b3MgZWxzxZEgbWVjY3MuLi4gYXogZWxlasOp
-  biBsw6F0c3ppaywgbWVra29yYSBlc8WRIHZvbHQhPC9lbT48L3A+
+excerpt: "22 milliomos kerget egy bőrgolyót, mit vagy úgy oda? - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek."
 categories: blog
 ---
 <p><em>&nbsp;</em></p>

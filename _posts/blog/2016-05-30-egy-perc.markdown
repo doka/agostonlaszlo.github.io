@@ -1,59 +1,13 @@
 ---
 layout: post
-title: Egy perc
-joomla_id: 53
-joomla_url: egy-perc
+title: "Egy perc"
 date: 2016-05-30 16:59:17.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+VsOhcnRhbSBhIHJlcHTDqXJpIHRyYW5zemZlcmJ1c3pyYSBMb25kb24g
-  YmVsdsOhcm9zw6FiYW4uIEF6IGVnw6lzeiB2w6Fyb3MgbnnDvHpzZ8O2dHQs
-  IHJvaGFudCDDqXMgYSBidXN6b2sgaXMgw7Zzc3plLXZpc3N6YSBqw7Z0dGVr
-  LiBFZ3kgaG9uZ2tvbmdpIGbDqXJmaXZhbCBwcsOzYsOhbHR1ayBtZWd0YWzD
-  oWxuaSBhIHNhasOhdCBqw6FyYXR1bmthdC4gS2lkZXLDvGx0LCBob2d5IHJl
-  bmTFkXJrw6ludCBkb2xnb3ppaywgbnlvbW96w7MsIGtpZW1lbHQgw7xneWVr
-  a2VsIGZvZ2xhbGtvemlrLiAxMS4gaMOzIDExLWUgdm9sdCwgMTAgw7NyYSA1
-  OC4gT25uYW4gdHVkb20sIGhvZ3kgcsOhbsOpemV0dCBhIHRlbGVmb25qw6Fy
-  YSDDqXMgZWd5c3plciBjc2FrIGF6dCBtb25kdGE6IGF6IMOpZGVzYW55w6Ft
-  IG1hIHJlZ2dlbCBoYWx0IG1lZy4gTmVtIMOpcnRlbSBvZGEsIGhvZ3kgbcOp
-  ZyB1dG9sasOhcmEgYmVzesOpbGplayB2ZWxlLiBTemVyZXRuw6lrIDExIMOz
-  cmFrb3IgKGFtaWtvciBlZ8Opc3ogQW5nbGlhIGF6IGVsc8WRIHZpbMOhZ2jD
-  oWJvcsO6IGJlZmVqZXrDqXPDqXLFkWwgw6lzIGjFkXNpIGhhbG90dGFpcsOz
-  bCBlbWzDqWtlemlrIG1lZykga8OpdCBwZXJjZXMgY3PDtm5kZXQgdGFydGFu
-  aSBheiBlbWzDqWvDqXJlLjwvcD4NCjxwPiZuYnNwOzwvcD4NCjxwPiZuYnNw
-  OzwvcD4NCjxwPjExIMOzcmFrb3IgbsOpbcOhbiDDoWxsdGFtIGVneSByb2hh
-  bsOzIHZpbMOhZ3bDoXJvcyBrw7Z6ZXDDqW4sIGvDqXRzemVyIGjDoXJvbSBz
-  w6F2b3MgYXV0w7N1dGFrIG1lbGxldHQsIGVneSByZXB0w6lycmUgdGFydHZh
-  LCBrZXplbWJlbiBhIGNzb21hZ29tbWFsIGVneSBpc21lcmV0bGVuIGhvbmdr
-  b25naSBhbnnDoXJhIGVtbMOpa2V6dmUgZWd5IGtlbcOpbnkgYXJjw7ogw6F6
-  c2lhaSBkZXRla3TDrXZ2ZWwuPC9wPg0KPHA+Jm5ic3A7PC9wPg0KPHA+Jm5i
-  c3A7Jm5ic3A7PC9wPg0KPHA+PHN0cm9uZyBzdHlsZT0iZm9udC1zaXplOiAx
-  Mi4xNnB4OyBsaW5lLWhlaWdodDogMTUuODA4cHg7Ij5IYSB0ZXRzemVuZWsg
-  YXogw61yw6FzYWltLCBpdHQgbMOhamtvbGhhdG9kIGF6IG9sZGFsYW06PC9z
-  dHJvbmc+PC9wPg0KPGRpdiBjbGFzcz0iZmItcGFnZSIgc3R5bGU9ImZvbnQt
-  c2l6ZTogMTIuMTZweDsgbGluZS1oZWlnaHQ6IDE1LjgwOHB4OyIgZGF0YS1o
-  cmVmPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vYWdvc3Rvbmxhc3psb2Fy
-  dGlzdCIgZGF0YS13aWR0aD0iMjUwIiBkYXRhLWhlaWdodD0iMTAwIiBkYXRh
-  LXNtYWxsLWhlYWRlcj0iZmFsc2UiIGRhdGEtYWRhcHQtY29udGFpbmVyLXdp
-  ZHRoPSJmYWxzZSIgZGF0YS1oaWRlLWNvdmVyPSJ0cnVlIiBkYXRhLXNob3ct
-  ZmFjZXBpbGU9ImZhbHNlIj4NCjxkaXYgY2xhc3M9ImZiLXhmYm1sLXBhcnNl
-  LWlnbm9yZSI+DQo8YmxvY2txdW90ZSBjaXRlPSJodHRwczovL3d3dy5mYWNl
-  Ym9vay5jb20vYWdvc3Rvbmxhc3psb2FydGlzdCI+PGEgaHJlZj0iaHR0cHM6
-  Ly93d3cuZmFjZWJvb2suY29tL2Fnb3N0b25sYXN6bG9hcnRpc3QiPsOBZ29z
-  dG9uIEzDoXN6bMOzPC9hPjwvYmxvY2txdW90ZT4NCjwvZGl2Pg0KPC9kaXY+
-  DQo8cD4mbmJzcDs8L3A+DQo8cCBzdHlsZT0iZm9udC1zaXplOiAxMi4xNnB4
-  OyBsaW5lLWhlaWdodDogMTUuODA4cHg7Ij48c3Ryb25nPk5lIGZlbGVqdHNk
-  IGVsIG1lZ29zenRhbmksIGhhIMOpcnRlc3ogw6lzIGVneWV0w6lydGVzeiE8
-  L3N0cm9uZz48L3A+DQo8cD57U0NPcGVuR3JhcGggaW1hZ2U9aHR0cDovL2Fn
-  b3N0b25sYXN6bG8uaHUvaW1hZ2VzL2Npa2tlay9qZXp1c2ZhY2VwYWxtLmpw
-  Z30ge1NDT3BlbkdyYXBoIHRpdGxlPSJNacOpcnQgbmluY3MgSXN0ZW4sIGhh
-  IHZhbj8gLSBlZ3kga2lyw7pnb3R0IGtlcmVzenTDqW55IHTDtnJ0w6luZXRl
-  IEkuIHLDqXN6In08L3A+
+excerpt: "Vártam a reptéri transzferbuszra London belvárosában. Az egész város nyüzsgött, rohant és a buszok is össze-vissza jöttek. Egy hongkongi férfival próbáltuk megtalálni a saját járatunkat. Kiderült, hogy rendőrként dolgozik, nyomozó, kiemelt ügyekkel foglalkozik."
 categories: blog
 ---
 <p>Vártam a reptéri transzferbuszra London belvárosában. Az egész város nyüzsgött, rohant és a buszok is össze-vissza jöttek. Egy hongkongi férfival próbáltuk megtalálni a saját járatunkat. Kiderült, hogy rendőrként dolgozik, nyomozó, kiemelt ügyekkel foglalkozik. 11. hó 11-e volt, 10 óra 58. Onnan tudom, hogy ránézett a telefonjára és egyszer csak azt mondta: az édesanyám ma reggel halt meg. Nem értem oda, hogy még utoljára beszéljek vele. Szeretnék 11 órakor (amikor egész Anglia az első világháború befejezéséről és hősi halottairól emlékezik meg) két perces csöndet tartani az emlékére.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>11 órakor némán álltam egy rohanó világváros közepén, kétszer három sávos autóutak mellett, egy reptérre tartva, kezemben a csomagommal egy ismeretlen hongkongi anyára emlékezve egy kemény arcú ázsiai detektívvel.</p>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;</p>

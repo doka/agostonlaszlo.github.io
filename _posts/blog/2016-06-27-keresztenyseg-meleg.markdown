@@ -5,45 +5,15 @@ joomla_id: 65
 joomla_url: keresztenyseg-meleg
 date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+PGVtPiZuYnNwOzwvZW0+PC9wPg0KPHA+U3plcmV0bsOpbSwgaGEgdHVk
-  bsOhZCwgaG9neSBuZW0gZWxsZW5lZCB2YWd5b2sgw6lzIG5lbSZuYnNwO25l
-  bSBzemVyZXRuw6ltIGVsdmVubmkmbmJzcDt0xZFsZWQmbmJzcDthIGhpdGVk
-  ZXQgSXN0ZW5iZW4gdmFneSBhIEJpYmxpYSBoaXRlbGVzc8OpZ8OpYmVuPHNw
-  YW4gc3R5bGU9ImZvbnQtc2l6ZTogMTIuMTZweDsgbGluZS1oZWlnaHQ6IDE1
-  LjgwOHB4OyI+LiBOZW0gYXogYSBjw6lsb20sIGhvZ3kgbGVnecWRenplbGVr
-  LCBoYW5lbSBob2d5IG1lZ211dGFzc2FrIGVneSBpZ2F6c8OhZ290Ljwvc3Bh
-  bj48L3A+DQo8cD4mbmJzcDs8L3A+DQo8cD5TemVyZXRuw6ltIGxlw61ybmkg
-  bmVrZWQsIG1pdCBnb25kb2xvayBhcnLDs2wsIGFtaWtvciB2YWxha2kgdMO2
-  cnbDqW55ZWtldCBrZXpkIHNvcm9sbmkgImEgbWVsZWdlayBpc3RlbnRlbGVu
-  c8OpZ2UgZWxsZW4iLiZuYnNwO1N6ZXJldGV0dGVsIMOpcyBiYXLDoXRzw6Fn
-  Z2FsIHN6ZXJldG7DqWxlayBmaWd5ZWxtZXp0ZXRuaSBhcnJhLCBob2d5IHJv
-  c3N6IMO6dG9uIGrDoXJzeiwgYSBmYXJpemV1c29rIMO6dGrDoW4uIMWQayB2
-  b2x0YWsgYXpvaywgYWtpayBzesO2dmVnIMOpcyBuZW0gc3plbGxlbSBzemVy
-  aW50IMOpcnRlbG1lenTDqWsgYXogw61yw6Fzb2thdC4gRW5nZWRkIG1lZywg
-  aG9neSBlbG1hZ3lhcsOhenphbSwgbWnDqXJ0LjwvcD4NCjxwPiZuYnNwOzwv
-  cD4NCjxwPlZvbHQmbmJzcDs8YSBocmVmPSJodHRwOi8vYWdvc3Rvbmxhc3ps
-  by5odS9odS9ibG9nLzUxLW1pZXJ0LW5pbmNzLWlzdGVuLWhhLXZhbiIgdGFy
-  Z2V0PSJfYmxhbmsiPklmaXZlemV0xZFrw6ludCBpc21lcmVtIGEgQmlibGnD
-  oXQ8L2E+LCBuZW0gb2x2YXNvbSBtw6FyIG5hcG9udGEgw6lzIG5lbSB2YWd5
-  b2sgw7pneSBrZXJlc3p0w6lueSwgYWhvZ3lhbiB2YWzDs3N6w61uxbFsZWcg
-  dGUuIERlIGZlbGFqw6FubG9tLCBob2d5IGJlc3rDqWxnZXNzw7xuayBhIHRl
-  IGluZW5jaWFyZW5kc3plcmVkIGFsYXBqw6FuLCBraXrDoXLDs2xhZyBiaWJs
-  aWFpIGlnYXpzw6Fnb2sgbWVudMOpbi4mbmJzcDtBem9rIGEgdmVyc2VrIGlz
-  bWVydGVrLCBhbWVseWVrIGlkw6l6bmVrIHTDtnJ2w6lueWVrZXQsIGlzdGVu
-  aSBzesOhbmTDqWtva2F0IGEgbWVsZWdlayBlbGxlbiwgZXplayBtaWF0dCDD
-  rXLDs2RvdHQgYSBjaWtrLCBlemVrcmUgbmVtIHTDqXJuw6lrIGtpLiBMZSB2
-  YW5uYWsgw61ydmEsIG55aWx2w6FuIGVsZm9nYWRvbSDFkWtldCwgaGlzemVu
-  IG1vc3QgYSBCaWJsaWEgw6lzIGEga2VyZXN6dMOpbnkgdGFuw610w6Fzb2sg
-  YWxhcGrDoW4gYmVzesOpbGdldMO8bmsuPC9wPg==
+excerpt: "Szeretném, ha tudnád, hogy nem ellened vagyok és nem nem szeretném elvenni tőled a hitedet Istenben vagy a Biblia hitelességében. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot."
 categories: blog
 ---
-<p><em>&nbsp;</em></p>
-<p>Szeretném, ha tudnád, hogy nem ellened vagyok és nem&nbsp;nem szeretném elvenni&nbsp;tőled&nbsp;a hitedet Istenben vagy a Biblia hitelességében<span style="font-size: 12.16px; line-height: 15.808px;">. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.</span></p>
-<p>&nbsp;</p>
-<p>Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".&nbsp;Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.</p>
-<p>&nbsp;</p>
-<p>Volt&nbsp;<a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank">Ifivezetőként ismerem a Bibliát</a>, nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.&nbsp;Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.</p>
+
+Szeretném, ha tudnád, hogy nem ellened vagyok és nem&nbsp;nem szeretném elvenni&nbsp;tőled&nbsp;a hitedet Istenben vagy a Biblia hitelességében. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.
+
+Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".&nbsp;Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.
+
+Volt&nbsp;<a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank">Ifivezetőként ismerem a Bibliát</a>, nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.&nbsp;Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.</p>
 
 <p>&nbsp;</p>
 <p>A Biblia végén ez áll:</p>

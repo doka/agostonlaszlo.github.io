@@ -6,6 +6,7 @@ author: agoston_laszlo
 excerpt: "Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy 'velük vagy ellenük' szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!"
 categories: blog
 ---
+
 <p>Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!&nbsp;Korábbi írásaim:</p>
 <p>&nbsp;</p>
 <p>1, <a href="http://agostonlaszlo.hu/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n" target="_blank">Miért a terroristákat gyűlölöm, nem a muszlimokat akárhány robbantás is lesz</a></p>

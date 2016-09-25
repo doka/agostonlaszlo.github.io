@@ -1,32 +1,13 @@
 ---
 layout: post
-title: !binary |-
-  TWVubnlpcmUgc3rDunJqdWsgZWwgYXogdW5va8OhaW5rIMOpbGV0w6l0Pw==
-joomla_id: 48
-joomla_url: atomenergia-vagy-zoldenergia-egy-beszelgetes-margojara
+title: "Mennyire szúrjuk el az unokáink életét?"
 date: 2016-05-21 09:18:55.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+TmVtcsOpZyBqZWxlbnQgbWVnIGEgaMOtcjogTsOpbWV0b3JzesOhZ2Jh
-  biBtZWfDump1bMOzIGVuZXJnaWFmb3Jyw6FzYsOzbCBzaWtlcsO8bHQgZmVk
-  ZXpuaSBheiBvcnN6w6FnIG1hamRuZW0gZWd5IHRlbGplcyBuYXBpIGVuZXJn
-  aWFzesO8a3PDqWdsZXTDqXQgKDg3JSkuIEVneSBrZWR2ZXMgaXNtZXLFkXPD
-  tm1tZWwgdml0YSBhbGFrdWx0IGtpIGvDtnp0w7xuazogxZEgYXp0IGhpc3pl
-  bSwgZWd5ZXTDqXJ0IFBha3MyLXZlbCDDqXMgYSBrb3Jtw6FueSBlbmVyZ2lh
-  cG9saXRpa8OhasOhdmFsIMOpbiB2aXN6b250IMO6Z3kgZ29uZG9sb20sIG5l
-  bSBleiBhIGvDtnZldGVuZMWRIMO6dC4gTWl2ZWwgYSB2w6FsYXN6b20gLSBh
-  bWVseSB2w6lnc8WRIHNvcm9uIGVneSBtYXJrZXRpbmdlcyBvcGVyYcOpbmVr
-  ZXMgbsOpbWkgdXTDoW5hb2x2YXPDoXNvbiBhbGFwdWzDsyBva29za29kw6Fz
-  YSBjc2FrIC0gdGFsw6FuIHN6w6lsZXNlYmIgw6lyZGVrbMWRZMOpc3JlIGlz
-  IHN6w6Ftb3QgdGFydGhhdCwgw7pneSBnb25kb2x0YW0gbWVnb3N6dG9tIHZl
-  bGV0ZWssIGvDrXbDoW5jc2lhbiB2w6FydmEgYXogZWxsZW52w6lsZW3DqW55
-  ZWtldCDDqXMgw6lydmVrZXQuJm5ic3A7PC9wPg==
+excerpt: "Nemrég jelent meg a hír: Németországban megújuló energiaforrásból sikerült fedezni az ország majdnem egy teljes napi energiaszükségletét (87%). Egy kedves ismerősömmel vita alakult ki köztünk: ő azt hiszem, egyetért Paks2-vel és a kormány energiapolitikájával én viszont úgy gondolom, nem ez a követendő út."
 categories: blog
 ---
 <p>Nemrég jelent meg a hír: Németországban megújuló energiaforrásból sikerült fedezni az ország majdnem egy teljes napi energiaszükségletét (87%). Egy kedves ismerősömmel vita alakult ki köztünk: ő azt hiszem, egyetért Paks2-vel és a kormány energiapolitikájával én viszont úgy gondolom, nem ez a követendő út. Mivel a válaszom - amely végső soron egy marketinges operaénekes némi utánaolvasáson alapuló okoskodása csak - talán szélesebb érdeklődésre is számot tarthat, úgy gondoltam megosztom veletek, kíváncsian várva az ellenvéleményeket és érveket.&nbsp;</p>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Kis számháború az elejére: tudható, hogy Magyarországon jelenleg 7,8 % a megújuló energiaforrásokból származó energiamennyiség (2012-es adat), a tervek szerint 2020-ig ez 11 százalékig kéne, hogy felkússzon. Összevetve a kínai 30%-kal vagy a német 33%-kal (most fogtak komoly további bővítésekbe) ez szignifikánsan kevesebb. Miért fontos ez? Mert a zöldenergia ingyen van - így Németország a héten elérte<strong> a tökéletes rezsicsökkentést: </strong>pár óráig<strong> NEGATÍV villanyárral</strong> mentek az órák, azaz a szolgáltatók fizettek a használatért (azért ne sajnáljuk őket nagyon, ez csak egy jelképes, rövid időszak volt.</p>
 <p>&nbsp;</p>
 <p><iframe src="https://www.youtube.com/embed/hRTTi3jVMmc?start=55" frameborder="0" width="560" height="315" allowfullscreen="allowfullscreen"></iframe></p>

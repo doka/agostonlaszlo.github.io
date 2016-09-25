@@ -1,23 +1,14 @@
 ---
 layout: post
-title: !binary |-
-  IkEgZmVtaW5pc3RhIGJAemRtZWcgYmV0w6l2ZWR0IGEgbsWRayBrw7Z6w6ki
-joomla_id: 50
-joomla_url: a-feminista-b-zdmeg-betevedt-a-nok-koze
+title: "A feminista b@zdmeg betévedt a nők közé"
 date: 2016-05-26 07:18:34.000000000 +00:00
 author: agoston_laszlo
-excerpt: !binary |-
-  PHA+RXogbGVubmUgYSBmZW1pbml6bXVzPyBFZ3kgaMOhcm9tZXplcm7DqWwg
-  aXMgdMO2YmIga8O2dmV0xZF0IG1hZ8Ohw6luYWsgdHVkw7MgY3NvcG9ydCBz
-  emVyaW50IGlnZW4uIFN6ZXJpbnRlbSB2aXN6b250IChmw6lyZmkpZ3nFsWzD
-  tmxldGLFkWwgbcOpZyBzb2hhc2VtIHN6w7xsZXRldHQgaWdhemkgc3phYmFk
-  c8OhZy48L3A+DQo8cD48aW1nIHNyYz0iaHR0cDovL2Fnb3N0b25sYXN6bG8u
-  aHUvaW1hZ2VzL2Npa2tlay90ZWhlci5qcGciIGFsdD0idGVoZXJhdXRvIiAv
-  PjwvcD4=
+excerpt: "Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság."
 categories: blog
 ---
+
 <p>Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság.</p>
-<p><img src="http://agostonlaszlo.hu/images/cikkek/teher.jpg" alt="teherauto" /></p>
+<p><img src="http://agostonlaszlo.hu/images/teher.jpg" alt="teherauto" /></p>
 
 <p>Nagy port kavart a nők egyenjogúságát és szabadságát szorgalmazó, <a href="http://agostonlaszlo.hu/en/blog/46-kedvenc-hasznalati-targyaink-a-nok" target="_blank">Kedvenc használati tárgyaink - a nők</a> című cikkem, ami után gyakorlatilag kizárólag elismerő szavakat és rengeteg köszönőlevelet kaptam nőktől. Az is nagyon érdekes volt a számomra, hogy férfiak gyakorlatilag nem foglalkoztak a cikkel..</p>
 <p>&nbsp;</p>
@@ -26,9 +17,7 @@ categories: blog
 <p>De bevallom nagyot csalódtam, sőt elkeseredtem. Ezzel kapcsolatban született meg a <a href="http://agostonlaszlo.hu/hu/blog/49-mit-tegyel-ha-az-torli-beled-a-labat-akinek-segiteni-akartal" target="_blank">Mit tegyél, ha az törli beléd a lábát, akinek segíteni akartá</a>l című poszt. Ebben arról szólok, hogy a gyalázkodással, vehemens támadással, "magas céről" nyitó bármilyen hozzászólót csak radikális kedvességgel lehet/kéne kezelni, felismerve a viselkedése mögött megbújó, azt motiváló frusztrációkat. De mégis... úgy érzem, erről még egyszer - hiszen egy viszonylag népes, háromezer fős csoportról van szó - beszélni kell.</p>
 <p>&nbsp;</p>
 <p>Kedves Hölgyeim! Segítségeteket kérem. Mutatok pár (kiemelt, engem legjobban zavaró) posztot feminista nők tolljából. Tényleg ez az "igazi feminizmus"? (<a href="https://www.facebook.com/permalink.php?story_fbid=984235504995902&amp;id=486052054814252" target="_blank">A thread itt található</a>.)</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p><img src="http://agostonlaszlo.hu/images/cikkek/fem1.jpg" alt="fem1" /></p>
 <p><img src="http://agostonlaszlo.hu/images/cikkek/fem2.jpg" alt="fem2" /></p>
 <p><img src="http://agostonlaszlo.hu/images/cikkek/fem3.jpg" alt="fem3" /></p>
