@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: {}
+categories: blog
 ---
 
 
