@@ -5,6 +5,7 @@ date: 2016-05-20 07:24:52.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Előre leszögezem, hogy - szokásomtól eltérően - most egy olyan témáról fogok írni, amelyben nem merültem el sok órányi kutatással. De messziről is egyértelműnek látszik a képlet."
 categories: blog
+tags: [ÁNTSZ, Illés bácsi]
 ---
 
 <p>Előre leszögezem, hogy - szokásomtól eltérően - most egy olyan témáról fogok írni, amelyben nem merültem el sok órányi kutatással. De messziről is egyértelműnek látszik a képlet.</p>

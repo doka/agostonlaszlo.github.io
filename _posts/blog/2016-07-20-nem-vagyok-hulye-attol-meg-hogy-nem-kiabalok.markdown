@@ -5,6 +5,7 @@ date: 2016-07-20 06:55:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám."
 categories: blog
+tags: [bevándorlás, terrorizmus, muszlim]
 ---
 <p>Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám.</p>
 <p>&nbsp;</p>

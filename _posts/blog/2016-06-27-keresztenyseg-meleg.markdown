@@ -7,6 +7,7 @@ date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Szeretném, ha tudnád, hogy nem ellened vagyok és nem nem szeretném elvenni tőled a hitedet Istenben vagy a Biblia hitelességében. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot."
 categories: blog
+tags: [Isten, hit]
 ---
 
 Szeretném, ha tudnád, hogy nem ellened vagyok és nem&nbsp;nem szeretném elvenni&nbsp;tőled&nbsp;a hitedet Istenben vagy a Biblia hitelességében. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.

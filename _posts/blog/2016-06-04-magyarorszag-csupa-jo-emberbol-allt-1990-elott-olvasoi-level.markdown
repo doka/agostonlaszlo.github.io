@@ -5,6 +5,7 @@ date: 2016-06-04 07:08:28.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem."
 categories: blog
+tags: [empatia, mi történik]
 ---
 <p>Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem.</p>
 <p>&nbsp;</p>

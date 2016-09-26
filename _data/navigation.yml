@@ -6,11 +6,17 @@
 - title: Rólam
   url: /about/
 
-- title: Felvételek
-  url: /felvetelek/
+- title: Moltopera
+  url: /moltopera/
 
 - title: Blog
   url: /blog/
 
+- title: Témakörök
+  url: /tags/
+
 - title: Keresés
   url: /search/
+
+- title: English
+  url: /english/  

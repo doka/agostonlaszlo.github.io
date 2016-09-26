@@ -5,6 +5,7 @@ date: 2016-08-11 08:58:11.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ezt évek óta le akartam írni, mégis nehezen görögnek ki a kezem alól a szavak. Sokan kérdezik, miért nem éneklek csak ritkán, hol változtam meg... A Zeneakadémián is szeretnek címkézni - mint mindenhol. Azt mondják, az első vizsga a legfontosabb, mert ott beáraznak, ott kerül rád, hogy milyen művész vagy. Ha az elsőt elrontod, könnyen rajtad ragadhat, hogy semmit sem érsz. Én elrontottam."
 categories: blog
+tags: [Zeneakadémia, ]
 ---
 
 <p>Ezt évek óta le akartam írni, mégis nehezen görögnek ki a kezem alól a szavak. Sokan kérdezik, miért nem éneklek csak ritkán, hol változtam meg...</p>
@@ -54,14 +55,3 @@ categories: blog
 <p>Ha visszahallgatom a vizsgafelvételeket, van ott rengeteg hiba valóban. Nem tagadom, lehet, hogy a diplomám sem érdemelt ötöst. De ha nem címkéznek fel engem az elején, lehet, hogy most nagyon máshol vagyok.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Éppen ezért a "Sorsnak, Istennek, Allahnak, az Univerzumnak" köszönöm, mert szeretem, akivé mára váltam. Nekik pedig próbálom megbocsátani, mint ahogyan azok bocsánatát kérem, akikre én aggattam valaha hasonlókat.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong style="font-size: 12.16px; line-height: 15.808px;"><br />Ha tetszett és olvasnál még hasonlókat, itt lájkolhatod az oldalam:</strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Ne felejtsd el megosztani, ha értesz és egyetértesz!</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/legyeskep.jpg} {SCOpenGraph title=Te kinek akarsz megfelelni?}</p>
-<p>&nbsp;</p>

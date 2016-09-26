@@ -1,10 +1,12 @@
 ---
-published: false
+title: "Életrajz"
+published: true
 layout: post
-date: {}
-categories: blog
+date: 2015-01-11 22:49:46.000000000 +00:00
+category: about
+tags: [életrajz]
 ---
-Ágoston László értelmiségi szülők gyermekeként(édesanyja tanítónő, édesapja [T. Ágoston László](http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3) író) látta meg a napvilágot 1986-ban Budapesten. 
+Ágoston László értelmiségi szülők gyermekeként(édesanyja tanítónő, édesapja [T. Ágoston László](http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3) író) látta meg a napvilágot 1986-ban Budapesten.
 
 Bár leginkább mindvégig a színpad világa vonzotta, emellett sikerrel vett részt sokféle megmérettetésena tanulmányi versenyektőlaz irodalmi-, forgatókönyvíró- és filmpályázatokig. Tizenhét éves korára Kaleidoszkóp-díjas, Radnóti-diplomás, kétszeres Vörösmarty-emlékérmes előadóművész, de egy váratlan döntéssel mégis a Színház- és Filmművészeti Egyetem - és így a színészi pálya - helyett a Zeneakadémia és az operaéneklés mellett döntött. Ekkor kezdett el mindent alárendelve komolyzenét tanulni H. Németh Lujza (ének) és [Széll Rita](http://lfze.hu/oktatok/-/asset_publisher/exVsliQos2qD/content/szell-rita/10192) (szolfézs-zeneelmélet) tanítványaként.
 
@@ -29,7 +31,7 @@ A 2010/11-es tanévben a Hallgatói Önkormányzat elnökeként tevékenykedett.
 
 A Hallgatói Önkormányzat közgyűlésén 2011-ben (fotó: Herman Péter)
 
-Egyetemi tanulmányai befejeztével kezdett a [Moltopera](http://www.moltopera.hu) szervezésébe, azzal a céllal, hogy fiatal énekesekkel vigye közel az opera műfaját a fiatal korosztályhoz- akár korábban elképzelhetetlen helyszíneken is. Emellett fiatal tehetségek személyes menedzsmentjébe is kezdett, közülük Kayamar már több hazai és nemzetközi sikereket is elért. A Moltopera kommunikációs sikerei nyomán került a Magyar Állami Operaház látókörébe, 2012 és 2015 között volt a legnagyobb magyar kulturális intézmény online marketing tanácsadója. 2014 óta a ## Budapesti Kommunikációsés Üzleti Főiskola rendszeres óraadója. 
+Egyetemi tanulmányai befejeztével kezdett a [Moltopera](http://www.moltopera.hu) szervezésébe, azzal a céllal, hogy fiatal énekesekkel vigye közel az opera műfaját a fiatal korosztályhoz- akár korábban elképzelhetetlen helyszíneken is. Emellett fiatal tehetségek személyes menedzsmentjébe is kezdett, közülük Kayamar már több hazai és nemzetközi sikereket is elért. A Moltopera kommunikációs sikerei nyomán került a Magyar Állami Operaház látókörébe, 2012 és 2015 között volt a legnagyobb magyar kulturális intézmény online marketing tanácsadója. 2014 óta a ## Budapesti Kommunikációsés Üzleti Főiskola rendszeres óraadója.
 
 ![marketing-agoston-laszlo.jpg]({{site.baseurl}}/_posts/marketing-agoston-laszlo.jpg)
 

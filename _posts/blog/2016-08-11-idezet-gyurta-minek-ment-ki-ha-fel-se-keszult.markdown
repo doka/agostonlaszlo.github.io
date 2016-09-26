@@ -5,6 +5,7 @@ date: 2016-08-11 06:38:53.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Gyurta minek ment ki, ha fel se készült? - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el. Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (időnként megszakítja egy 'TUDTA?') és álmosan, nyárközepi unalommal arconhányja az olimpiai, háromszoros világ- és kétszeres Európa-bajnok magyar úszót. Úgy kell neki. The winner takes it all."
 categories: blog
+tags: [Olimpia, Gyurta]
 ---
 
 <p><em>"Gyurta minek ment ki, ha fel se készült?"</em> - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el.</p>

@@ -5,8 +5,9 @@ date: 2016-06-22 14:57:40.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával?"
 categories: blog
+tags: [Isten, hit]
 ---
-<p>&nbsp;</p>
+
 <p>“Hónapokra kiborultam (huszonkét&nbsp;évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“&nbsp;(Ez a cikk a <a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank">Miért nincs Isten, ha van? - egy kirúgott keresztény története </a>című cikk folytatása.)</p>
 <p>&nbsp;</p>
 <p>Hihetetlenül felszabadító érzés volt, hogy “már nem vagyok hívő”. Isten parancsainak nem volt többé hatalma felettem. Isten parancsai... Hát kezdjük...</p>

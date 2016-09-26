@@ -5,6 +5,7 @@ date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A magyar közbeszéd színvonalát látva megalapítottam a Kapanyél-díjat. Azok kapják, akik mondanivalójukkal és/vagy stílusukkal elveszik a kedvünket a beszélgetéstől. Minden díjhoz jár pénzjutalom: ahány lájkot kap a cikk, annyi forintot fizetek egy hajléktalanokat támogató szervezetnek. Az egésszel két célom van."
 categories: blog
+tags: [Foci EB, kapanyél, stadionok]
 ---
 <p>A magyar közbeszéd színvonalát látva megalapítottam a Kapanyél-díjat. Azok kapják, akik mondanivalójukkal és/vagy stílusukkal elveszik a kedvünket a beszélgetéstől. Minden díjhoz jár pénzjutalom: ahány lájkot kap a cikk, annyi forintot fizetek egy hajléktalanokat támogató szervezetnek. Az egésszel két célom van:</p>
 <p>&nbsp;</p>

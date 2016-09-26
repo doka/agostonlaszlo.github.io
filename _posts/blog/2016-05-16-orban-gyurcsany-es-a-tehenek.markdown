@@ -5,7 +5,9 @@ date: 2016-05-16 09:18:19.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Építsünk egy stadiont! Ha Fideszes vagyok - juhú, de jó, az ország jobban teljesít. Ha balos - mocskos hazaáruló, rabló banda. Építsünk Nemzeti Színházat az Erzsébet térre! Ha balos vagyok, juhú, de jó, épülünk-szépülünk. Ha Fideszes - mocskos nyolcév rablóbanda."
 categories: blog
+tags: [Fidesz, Gyurcsány]
 ---
+
 <p>Építsünk egy stadiont! Ha Fideszes vagyok - juhú, de jó, az ország jobban teljesít. Ha balos - mocskos hazaáruló, rabló banda.</p>
 <p>Építsünk Nemzeti Színházat az Erzsébet térre! Ha balos vagyok, juhú, de jó, épülünk-szépülünk. Ha Fideszes - mocskos nyolcév rablóbanda.</p>
 <p>&nbsp;<img src="http://agostonlaszlo.hu/images/cikkek/tehen-d0001B15Fdf69c933b813.jpg" alt="tehen d0001B15Fdf69c933b813" /></p>

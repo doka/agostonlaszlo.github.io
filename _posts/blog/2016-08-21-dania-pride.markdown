@@ -5,6 +5,7 @@ date: 2016-08-21 10:31:47.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Korábban már leírtam az élményeimet a budapesti prideról is (Melegfelvonulás - a pokol tornácán? címmel itt érhető el) és szóltam arról, miért lenne fontos, hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá illetve miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim."
 categories: blog
+tags: [Dánia, Budapest Pride]
 ---
 
 Korábban már leírtam az élményeimet a budapesti prideról is (<a href="http://agostonlaszlo.hu/hu/blog/44-budapestpride" target="_blank">Melegfelvonulás - a pokol tornácán? címmel itt érhető el</a>) és szóltam arról, miért lenne fontos, <a href="http://agostonlaszlo.hu/hu/blog/66-lmbtq" target="_blank">hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá</a>&nbsp;illetve <a href="http://agostonlaszlo.hu/hu/blog/65-keresztenyseg-meleg" target="_blank">miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen...</a>&nbsp;Most egy külföldi utamon a<span style="font-size: 12.16px; line-height: 15.808px;">&nbsp;Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim.

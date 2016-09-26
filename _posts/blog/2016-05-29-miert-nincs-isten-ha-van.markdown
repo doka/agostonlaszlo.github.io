@@ -5,6 +5,7 @@ date: 2016-05-29 06:41:20.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét."
 categories: blog
+tags: [Isten, hit]
 ---
 
 <p>Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét.</p>

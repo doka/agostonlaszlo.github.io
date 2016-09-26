@@ -5,6 +5,7 @@ date: 2016-05-21 09:18:55.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Nemrég jelent meg a hír: Németországban megújuló energiaforrásból sikerült fedezni az ország majdnem egy teljes napi energiaszükségletét (87%). Egy kedves ismerősömmel vita alakult ki köztünk: ő azt hiszem, egyetért Paks2-vel és a kormány energiapolitikájával én viszont úgy gondolom, nem ez a követendő út."
 categories: blog
+tags: [megújuló energia, Paks]
 ---
 <p>Nemrég jelent meg a hír: Németországban megújuló energiaforrásból sikerült fedezni az ország majdnem egy teljes napi energiaszükségletét (87%). Egy kedves ismerősömmel vita alakult ki köztünk: ő azt hiszem, egyetért Paks2-vel és a kormány energiapolitikájával én viszont úgy gondolom, nem ez a követendő út. Mivel a válaszom - amely végső soron egy marketinges operaénekes némi utánaolvasáson alapuló okoskodása csak - talán szélesebb érdeklődésre is számot tarthat, úgy gondoltam megosztom veletek, kíváncsian várva az ellenvéleményeket és érveket.&nbsp;</p>
 

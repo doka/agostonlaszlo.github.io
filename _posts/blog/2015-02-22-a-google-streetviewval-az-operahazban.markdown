@@ -3,8 +3,9 @@ layout: post
 title: A Google Streetviewval az Operaházban
 date: 2015-02-22 11:08:05.000000000 +00:00
 author: agoston_laszlo
-excerpt: "E.T.-vel (a Google Streetviet 130 kilós kamerája) járjuk körbe az Operaházat."
+excerpt: "E.T.-vel (a Google Streetview 130 kilós kamerája) járjuk körbe az Operaházat."
 categories: blog
+tags: [Operaház, Google Streetview]
 ---
 
 E.T.-vel (a Google Streetviet 130 kilós kamerája) járjuk körbe az Operaházat.

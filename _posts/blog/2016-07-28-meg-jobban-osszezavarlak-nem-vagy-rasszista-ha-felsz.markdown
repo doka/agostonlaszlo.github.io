@@ -5,6 +5,7 @@ date: 2016-07-28 08:02:02.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Most végképp össze foglak zavarni. Olvashattad már a cikkemet arról, hogy akárhány terrorcselekmény is lesz a világban, nem fogom meggyűlölni miatta a muszlimokat, mert nem fogok szélsőségesekből egy egész vallásra általánosítani."
 categories: blog
+tags: [bevándorlás, migráció, muszlim, gyűlölet]
 ---
 
 <p>Most végképp össze foglak zavarni. Olvashattad már a cikkemet arról, hogy</p>

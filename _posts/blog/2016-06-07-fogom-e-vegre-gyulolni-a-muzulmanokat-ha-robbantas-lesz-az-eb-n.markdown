@@ -5,6 +5,7 @@ date: 2016-06-07 09:07:01.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni - kommentelte valaki a Nem vagyok hülye attól még, hogy nem kiabálok című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás?"
 categories: blog
+tags: [robbantás, muszlim, gyűlölet]
 ---
 <p>"Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni" - kommentelte valaki a&nbsp;<a href="http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok" target="_blank">Nem vagyok hülye attól még, hogy nem kiabálok</a> című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás? Eleve: hát nem látok én a szememtől, hogy minden napra jut egy borzalom? Mennyi vérnek kell még kiömlenie ahhoz, hogy eszemhez térjek?</p>
 <p>&nbsp;</p>

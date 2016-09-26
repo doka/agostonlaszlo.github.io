@@ -5,6 +5,7 @@ date: 2016-07-27T13:27:02.000Z
 author: agoston_laszlo
 excerpt: "Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista?"
 categories: blog
+tags: [gyűlölet, hit, muszlim, rasszista]
 ---
 "Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista?" - írt rám a magánban egy srác, akit a fájdalmasan rasszista kijelentései miatt korábban töröltem az oldalamról. "Válaszodat izgatottan várom! (és örülnék ha tényleg válaszolnál, nem tiltanál, mert számomra az azt jelenti, hogy nincsenek érveid, és megfutamodsz)" - zárja. Rendben. Tájékozódom helyetted és segítek, hogy eligazodj a világban - mert attól félek, nem te vagy az egyetlen, akinek erre szüksége lesz...
 

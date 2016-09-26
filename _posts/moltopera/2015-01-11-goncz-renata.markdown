@@ -1,8 +1,10 @@
 ---
-published: false
 layout: post
-date: {}
-categories: blog
+title: "Göncz Renáta"
+date: 2015-01-11 22:53:22.000000000 +00:00
+author: agoston_laszlo
+excerpt: "A csillogó hangú szoprán énekes 1991-ben született, 7 éves korától tanult zongorázni, a Lantos Magda Zongoraversenyen többször kapott bronz, ezüst és arany fokozatot, 2006-ban fődíjas. 15 éves korában fedezték fel énekhangját, 2006-ban vette fel első CD-jét, ekkor felhagyott a zongorázással és kizárólagosan az éneklésre kezdett koncentrálni."
+category: moltopera
 ---
 
 

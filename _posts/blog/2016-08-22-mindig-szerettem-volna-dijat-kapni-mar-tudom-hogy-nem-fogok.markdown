@@ -5,6 +5,7 @@ date: 2016-08-22 11:00:10.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás."
 categories: blog
+tags: [Lovagkereszt, elismerés]
 ---
 
 <p>Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás.</p>

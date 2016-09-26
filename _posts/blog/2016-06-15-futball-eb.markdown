@@ -7,6 +7,7 @@ date: 2016-06-15 06:42:13.000000000 +00:00
 author: agoston_laszlo
 excerpt: "22 milliomos kerget egy bőrgolyót, mit vagy úgy oda? - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek."
 categories: blog
+tags: [Foci EB, ünnep]
 ---
 <p><em>&nbsp;</em></p>
 <p>"22 milliomos kerget egy bőrgolyót, mit vagy úgy oda?" - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek.</p>
@@ -41,14 +42,3 @@ categories: blog
 <p>Utazom éppen Dániába. És kiderült, hogy pontosan akkor indult volna a gépem, amikor a válogatott játszik. Azt hittem, meghülyülök, hogy pont akkor... Úgy döntöttem, veszek egy másik repülőjegyet és a hetvennégy éves apámmal megnézem ezt a meccset! Ugyanúgy, mint a BL-t húsz éve minden szerdán... Ott a "Gabi" a kapuban (negyven évesen az Európa bajnokság legidősebb játékosa lettél, mackógatyás!) és "a Zoli"... igen "a Zoli"! Megadta neki az ő Istene, hogy kései hattyúdalként megélhesse, megtapasztalhassa. És megadta nekem is, hogy lássam.</p>
 <p>&nbsp;</p>
 <p>Hát ezért volt annyira fontos. Túl minden undoron, minden stadionépítő néprabláson, túl a rengeteg csalódáson, túl a huszonnégy csapatosra bővített EB-n. Az én generációm első ilyen élménye. Megölelve a sokat csalódott gyereket. Megköszönve a csapatnak. Megszorítva apám kezét a második gól után.</p>
-<p>&nbsp;</p>
-<p><strong style="font-size: 12.16px; line-height: 15.808px;">Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:</strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>És ne felejtsd el megosztani, ha értesz és egyetértesz! :)</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/focistak.jpg} {SCOpenGraph title=Azoknak, akik nem értik, miért ünnepel most az ország}</p>

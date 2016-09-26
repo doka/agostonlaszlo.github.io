@@ -3,7 +3,7 @@ layout: post
 title: 'Gioacchino Rossini - Cat duett (Duetto buffo di due gatti ) '
 date: 2015-02-17 20:09:23.000000000 +00:00
 author: agoston_laszlo
-category: felvetelek
+category: moltopera
 ---
 
 Sung by Renata Göncz and László Ágoston (2011)

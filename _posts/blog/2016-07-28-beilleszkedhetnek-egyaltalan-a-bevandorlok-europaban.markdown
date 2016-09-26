@@ -5,6 +5,7 @@ date: 2016-07-28 10:07:21.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy 'velük vagy ellenük' szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!"
 categories: blog
+tags: [bevándorlás, migráció]
 ---
 
 <p>Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!&nbsp;Korábbi írásaim:</p>

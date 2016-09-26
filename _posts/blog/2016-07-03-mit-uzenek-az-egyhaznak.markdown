@@ -5,6 +5,7 @@ date: 2016-07-03 09:57:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez a cikk a Miért nincs Isten, ha van? - egy kirúgott keresztény története és az Isten áldozatai című cikkek folytatása."
 categories: blog
+tags: [Isten, hit]
 ---
 
 <p>Ez a cikk a <a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank" style="font-size: 12.16px; line-height: 1.3em;">Miért nincs Isten, ha van? - egy kirúgott keresztény története&nbsp;</a>és az <a href="http://agostonlaszlo.hu/hu/blog/59-isten-aldozatai-egy-kirugott-kereszteny-tortenete-ii-resz" target="_blank" style="font-size: 12.16px; line-height: 1.3em;">Isten áldozatai</a> című cikkek folytatása.</p>

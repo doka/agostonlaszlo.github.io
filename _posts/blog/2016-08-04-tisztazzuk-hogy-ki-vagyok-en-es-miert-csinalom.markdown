@@ -5,6 +5,7 @@ date: 2016-08-04 09:40:44.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égből hull alá: senki se érti, hogy mit keres itt, mindenki másra akarja használni és mindenkinek van egy teóriája, hogy mire jó. Elmondom magam. Ki vagyok én?"
 categories: blog
+tags: [Moltopera, Facebook]
 ---
 
 <p>Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égből hull alá: senki se érti, hogy mit keres itt, mindenki másra akarja használni és mindenkinek van egy teóriája, hogy mire jó. Elmondom magam.</p>
@@ -67,14 +68,3 @@ categories: blog
 <p><strong>Mit kérek, ha ezt elolvastad?</strong></p>
 <p>&nbsp;</p>
 <p>Semmit. Megtiszteltél. Nincsenek elvárásaim feléd. Lehetsz meleg, muszlim, cigány, zsidó vagy éppen piréz, engem a jellemed fog érdekelni és a szándékaid. Ha egyetértesz velem, lájkolhatod az oldalamat, csatlakozhatsz és megpróbálhatunk összetartani ebben a tomboló butaság-, kétségbeesés- és gyűlölet-cunamiban. Ha nem, akkor vitatkozhatunk szép szóval, érvekkel, értelmesen. Ha csak pampogni szeretnél, akkor köszönöm, hogy ennyi időt szántál rám-ránk és békesség veled.</p>
-<p>&nbsp;</p>
-<p><strong style="font-size: 12.16px; line-height: 15.808px;">Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:</strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>És ne felejtsd el megosztani, ha értesz és egyetértesz! :)</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/piton.JPG} {SCOpenGraph title=Tisztázzuk, hogy ki vagyok én és miért csinálom}</p>

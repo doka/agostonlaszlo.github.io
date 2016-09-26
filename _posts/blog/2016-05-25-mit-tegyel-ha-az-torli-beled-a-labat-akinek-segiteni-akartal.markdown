@@ -5,6 +5,7 @@ date: 2016-05-25 17:22:21.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél..."
 categories: blog
+tags: [megértés, anyázás]
 ---
 <p>Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél...</p>
 <p>&nbsp;</p>
@@ -43,12 +44,3 @@ categories: blog
 <p>De a szándékom tiszta. És ezt kérem Tőled is, hogy így olvasd, így értelmezd és így szólj hozzá, ha megteszed. Gyűlölködni mindenki tud, ráadásul most divatos is. Próbáljuk meg itt "nálam" tisztelni a másikat. Nehezebb, néha vérnyomásemelő, de csak ez épít.</p>
 <p>&nbsp;</p>
 <p>És állít helyre lelkeket.<br /><br /><br /></p>
-<p><strong><span style="font-size: 12.16px; line-height: 15.808px;">Ha tetszik, amit olvastál egy&nbsp;</span></strong><strong style="font-size: 12.16px; line-height: 15.808px;">lájkkal feliratkozhatsz itt az oldalamra:</strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Ne felejtsd el megosztani, ha értesz és egyetértesz!</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/harag.JPG} {SCOpenGraph title=Mit tegyél, ha az törli beléd a lábát, akinek segíteni akartál?}</p>

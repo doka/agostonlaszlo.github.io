@@ -5,6 +5,7 @@ date: 2015-02-22 11:13:21.000000000 +00:00
 author: agoston_laszlo
 excerpt: Már vagy tizenöt éve, hogy pár kiválasztott diákja egyikeként elvitt magával a Művészetek Völgyébe középiskolai latintanárom. Most mi leszünk a fellépők a Sziget Fesztiválon a MoltOpera Társulattal...
 categories: blog
+tags: [Sziget, MoltOpera]
 ---
 
 ![]({{ site.baseurl }}/images/Sziget2014.jpg")

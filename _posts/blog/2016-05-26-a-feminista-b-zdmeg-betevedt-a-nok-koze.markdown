@@ -5,6 +5,7 @@ date: 2016-05-26 07:18:34.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság."
 categories: blog
+tags: [feminista, gyűlölet]
 ---
 
 <p>Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság.</p>
@@ -40,12 +41,3 @@ categories: blog
 <p>&nbsp;</p>
 <p>Hiszek benne, hogy a feminizmus, a női egyenjogúság iszonyúan fontos. Hiszek benne, hogy amit fentebb láttál nem az. Hiszek benne, hogy meg fogod tudni te is különböztetni majd, ha hasonló helyzetbe kerülsz és nem söpröd le az egyébként életbevágó eszmét hirdetőinek tökéletlensége miatt. Kár lenne, nagyon.</p>
 <p>&nbsp;</p>
-<p><strong><span style="font-size: 12.16px; line-height: 15.808px;">Ha tetszik, amit olvastál egy&nbsp;</span></strong><strong style="font-size: 12.16px; line-height: 15.808px;">lájkkal feliratkozhatsz itt az oldalamra:</strong></p>
-<div class="fb-page" style="font-size: 12.16px; line-height: 15.808px;" data-href="https://www.facebook.com/agostonlaszloartist" data-width="250" data-height="100" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false">
-<div class="fb-xfbml-parse-ignore">
-<blockquote cite="https://www.facebook.com/agostonlaszloartist"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote>
-</div>
-</div>
-<p>&nbsp;</p>
-<p style="font-size: 12.16px; line-height: 15.808px;"><strong>Ne felejtsd el megosztani, ha értesz és egyetértesz!</strong></p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/images/cikkek/teher.jpg} {SCOpenGraph title="A feminista b@zdmeg betévedt a nők közé"}</p>

@@ -5,6 +5,7 @@ date: 2015-01-26 15:08:31.000000000 +00:00
 author: agoston_laszlo
 excerpt: "1996 őszén történt, hogy egy irodalomórán memoritereket kellett felmondanunk. Felálltam és belekezdtem Kosztolányi Dezső 'Mostan színes tintákról álmodom' című versébe. 10 éves voltam, a szemben ülő tanár 29. Elképzeltem a 'kislányt, akit szeretek' és mire a vers végére értem, éreztem, hogy másként figyelnek rám."
 categories: blog
+tags: [életrajz, Szabó Zoltán]
 ---
 
 ![](http://www.moltopera.hu/tar/SzaboZoltan3.jpg)

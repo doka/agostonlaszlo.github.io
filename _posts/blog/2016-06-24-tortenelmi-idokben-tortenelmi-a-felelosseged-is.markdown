@@ -5,6 +5,7 @@ date: 2016-06-24 19:40:58.000000000 +00:00
 author: agoston_laszlo
 excerpt: "18 éves voltam, amikor az a megtiszteltetés ért, hogy énekelhettem a Notre-Dameban a gimnáziumi kórusunkkal. Csodálatos élmény volt a hatalmas rózsaablakkal szemben állva zenélni. Még egy dolog miatt emlékezetes ez az út: ekkor mehettem először külföldre útlevél nélkül."
 categories: blog
+tags: [Európa, Notre-Dame, útlevél]
 ---
 <p>18 éves voltam, amikor az a megtiszteltetés ért, hogy énekelhettem a Notre-Dameban a gimnáziumi kórusunkkal. Csodálatos élmény volt a hatalmas rózsaablakkal szemben állva zenélni. Még egy dolog miatt emlékezetes ez az út: ekkor mehettem először külföldre útlevél nélkül.</p>
 <p>&nbsp;</p>

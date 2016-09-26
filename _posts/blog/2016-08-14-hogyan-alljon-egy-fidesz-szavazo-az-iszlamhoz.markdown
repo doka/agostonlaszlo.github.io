@@ -5,6 +5,7 @@ date: 2016-08-14 17:04:03.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Végeztem egy kísérletet. Orbán Viktor iszlám- és a más kultúrákat támogató szavait, amelyet gazdag arab bankároknak mondott, a sajátomnak tüntettem fel és meghirdettem a Fidesz és/vagy Orbán Viktor követői között."
 categories: blog
+tags: [Fidesz, muszlim]
 ---
 
 <p>Végeztem egy kísérletet. Orbán Viktor iszlám- és a más kultúrákat támogató szavait, amelyet gazdag arab bankároknak mondott, a sajátomnak tüntettem fel és meghirdettem a Fidesz és/vagy Orbán Viktor követői között. Az eredmények.</p>
