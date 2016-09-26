@@ -18,8 +18,8 @@ search: true
 # URLs
 baseurl: "" # not used
 # url: "http://agostonlaszlo.hu"       # live
-# url: "https://doka.github.io/altest" # test on github
-url: "http://localhost:4000"           # development
+url: "https://doka.github.io/altest" # test on github
+# url: "http://localhost:4000"           # development
 
 # Jekyll configuration
 permalink:   /:categories/:title/
