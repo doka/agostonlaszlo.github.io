@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Nyitólap
+  url: /
+
+- title: Rólam
+  url: /about/
+
+- title: Moltopera
+  url: /moltopera/
+
+- title: Blog
+  url: /blog/
+
+- title: Témakörök
+  url: /tags/
+
+- title: Keresés
+  url: /search/
+
+- title: English
+  url: /english/  

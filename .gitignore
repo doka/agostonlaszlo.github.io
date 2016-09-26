@@ -1,7 +1,15 @@
 _site/
 .sass-cache/
+node_modules/
 .jekyll-metadata
+.DS_Store
 
 # dev
 Vagrantfile
 .vagrant/
+.bundle/
+.cache/
+.config/
+.local/
+.jshintrc
+.bash_history
