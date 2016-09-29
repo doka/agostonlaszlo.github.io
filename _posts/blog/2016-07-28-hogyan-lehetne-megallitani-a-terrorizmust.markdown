@@ -10,9 +10,13 @@ tags: [bevándorlás, migráció, muszlim]
 Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!Korábbi írásaim:
 
 1, [Miért a terroristákat gyűlölöm, nem a muszlimokat akárhány robbantás is lesz](http://agostonlaszlo.hu/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n)
+
 2, [Magyarországon nem lehet mérsékeltnek lenni migrációs kérdésekben?](http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok)
+
 3, [Bocsánat, összezavarhatlak?](http://agostonlaszlo.hu/hu/blog/72-bocsanat-megzavarhatlak-a-gyuloletben-egy-pillanatra)
+
 4, [Nem vagy attól rasszista, ha félsz](http://agostonlaszlo.hu/hu/blog/73-meg-jobban-osszezavarlak-nem-vagy-rasszista-ha-felsz)
+
 5, [Beilleszkedhetnek a bevándorlók egyáltalán Európában?](http://agostonlaszlo.hu/hu/blog/74-beilleszkedhetnek-egyaltalan-a-bevandorlok-europaban)
 
 Mindenek előtt szögezzünk le valamit: én ehhez nem értek. És te se. Ami azért nem baj, mert nem a mi dolgunk. Addig, amíg nem ismerek titkosszolgálati jelentéseket, pontos - és valós - számadatokat, nem beszéltem valakivel, aki értője a muszlim vallásnak, amíg nem ismertem meg a Közel-Kelet politikai erővonalait - és természetesen az orosz, amerikai, arab stb. szándékokat - és nem látom Európa pontos potenciálját, mindez csak kocsmai csacsogás. De ha annyit megértesz, hogy te se értesz hozzá, már sokat elértem...
