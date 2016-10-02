@@ -7,4 +7,4 @@ excerpt:
 categories: blog
 ---
 
-![]({{ site.baseurl }}/images/forditonagy.jpg")
+![]({{ site.baseurl }}/images/forditonagy.jpg)
