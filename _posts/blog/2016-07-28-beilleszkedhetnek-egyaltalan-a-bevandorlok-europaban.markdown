@@ -63,6 +63,6 @@ c, az integrációt neked is segítened kell. Olcsó dolog kirekeszteni, aztán 
 Létezik működő együttélés. A multikulturalizmus működő dolog és baromira semmi köze a terroristákhoz. Azt jelenti, hogy különböző emberek együtt adják össze, amijük van a jobb boldogulás reményében. Például te nem dolgozol Karácsonykor és kisegíted őt Ramadánkor. Például a gyereked az óvodában megtanul három nyelven anyanyelvi szinten és az egész világ megnyílik a számára. Például megismerkedsz más hitekkel, művészetekkel, kultúrákkal és a legjobb, legizgalmasabb részei beépülnek a te kultúrádba is. És. Így. Tovább. Meg nem zárkózik be a társadalom egy évszázadok óta érlelt fájú koporsóba. Persze, amíg nálunk, a [népek olvasztótégelyében](http://modoros.blog.hu/2015/02/08/karpat-medence_a_nepek_valodi_olvasztotegelye) " a kormányfő szerint, [sose volt multikulturális társadalom](http://index.hu/kulfold/eurologus/2015/05/19/orban_sosem_voltunk_multikulturalis_tarsadalom/), addig baromi nehéz lesz... De lehetünk nála okosabbak, nem?
 
 **Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:**
-<[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
+[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
 
 **Ne felejtsd el megosztani, ha értesz és egyetértesz!**
