@@ -9,112 +9,37 @@ excerpt: "Tudjátok, hogy nem vagyok se a mostani se a korábbi kormányok bará
 categories: blog
 tags: [Liget]
 ---
-**Szeretném, ha tudnád, hogy nem ellened vagyok és nemnem szeretném elvennitőleda hitedet Istenben vagy a Biblia hitelességében.** Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.
+Tudjátok, hogy nem vagyok se a mostani se a korábbi kormányok barátja, de ez a kép két ok miatt hoz zavarba.Egyrészt, hogy békés tiltakozókat megüthetnek (ráadásul oldalról, amikor nem figyel), eltörhetik az ujjukat Magyarországon. Másrészt, mert nem érzem magaménak a ligetvédők protestjét. Mindkettő nagyon zavar.
 
-Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.
+![]({{ site.baseurl }}/images/gulyas.jpg)
 
-Volt [Ifivezetőként ismerem a Bibliát](http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van), nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.
+"A tegnapi nap folyamán a Liget Budapest. vagyonőr munkatársainak egyike megtámadott a Ligetben, miközben a Ligetvédőkkel próbáltuk megakadályozni a park elpusztítását. A munkavédelmi sisakjával olyan erős ütést mért a kezemre, aminek következtében a bal kisujjamból egy csontdarab levált, amit az éjjel meg kellett műteni. Ezúton is köszönöm az Országos Baleseti és Sürgősségi Központ orvosainak és nővéreinek a professzionális, emberséges ellátást, illetve a kedvességüket, amivel a bent tartózkodásom alatt segítették a gyógyulásom. Oszd meg ezt a posztot minél többekkel, ne azért, hogy engem sajnáljanak, hanem azért, hogy mindenki számára nyilvánvaló legyen: a magyar állam ma így valósítja meg önös és antidemokratikus terveit Magyarországon - erőszakkal. " (forrás: [Gulyás Márton](https://www.facebook.com/slejmpolitika/posts/1635619293432641))
 
+Az első szerintem tök egyértelmű: egy a mi pénzünkből fenntartott állam ELKÉPZELHETETLEN kéne, hogy legyen, hogy tűzön-vizen vigyen át egy projektet, amit ekkora szakmai és társadalmi ellenkezés övez. A mi pénzünkből élnek és a mi pénzünkből építkeznek - nem tehetik _ellenünk_. Ráadásul már a [BBC is tudósít](http://24.hu/belfold/2016/07/06/a-bbc-is-beszamolt-arrol-hogy-rendorok-raktak-ki-a-ligetvedoket/) az eseményekről, ami országimázs szempontból... na... értesz... És közben Lázár János saját maga paródiájaként olyat nyilatkozik, hogy "Nem is értem, mi ellen tiltakoznak" (_"I fail to understand what they are protesting about"_ - BBC. Érted, bele a világ arcába, hogy ezek mind hülyék, nincs itt semmi látnivaló, kéremszépen... Miközben van itt egy mindenki számára egyértelmű ellentmondás: a kormány szerint a terület nem fogja elveszteni közpark-jellegét, ugyanakkor haa mostani 4 millióról tényleg 6,2 millióra ugrana a Ligetbe látogatók száma, azzal teljesen száműznék a nyugalmat a parkból.
 
-A Biblia végén ez áll:
+De tegyük fel, hogy itt egy jól átgondolt koncepcióról van szó - mint olyan sok esetben kormányaink nagyberuházásai esetében -, ami ellen tényleg nincs értelme tüntetni: akkor miért nem győznek meg erről? Egy pofátlan "Nem is értem, mi ellen tiltakoznak" nem elég nekem akkor, amikor közpénzből élő, közpénzt költő emberek közügyekről beszélnek. Pont annyira olcsó, mint amilyen drága a beruházás maga...
 
-"Ha valaki ezekhez hozzátesz, azt Isten e könyvben megírt csapásokkal sújtja; és ha valaki elvesz e prófétai könyv beszédeiből, annak Isten elveszi az osztályrészét az élet fájából, a szent városból és azokból, amik e könyvben megírattak.." (Jel 22, 18-19)
+És itt jön a második zavar: a srácok, akikkel egyébként szimpatizálok, egy olyan ügyben, amiben nekik adok igazat úgy érzem, hogy értelmetlenül cselekszenek. Azért vagyok zavarban, mert úgy érzem, ott lenne a helyem, de mégsem vonz. Nem azért, mert félek eltöretni az ujjamat, hanem mert nem látom értelmét. Mind tudjuk, hogy a beruházás meg fog valósulni, akárhányan ülnek oda, de azt érzem, mintha egy új 2006-ot próbálnának kreálni abból, ahogy a hatalom felszámolja az ellenállásukat. Ne érts félre: az aktivistát gyomorba vágó egybites biztonsági vagy a nem intézkedő rendőr vagy a hatalom egész hozzáállása mérhetetlenül felbosszant. De mégis azt érzem, hogy a tüntetők most széleskörű társadalmi érdeket, de csak egy nagyon kis társadalmi rétegetképviselnek.
 
-Tehát a Bibliának minden verse** egyaránt** fontos és időtálló. Igaz? Akkor az alábbiak is pontosan **ugyanannyira** igazak és érvényesek, mint amiket te idéznél.
+Azt látom - és ez lehet a kommunikáció hibája -, hogy kierőszakolják az intézkedést maguk ellen, majd kiabálnak, hogy "jogtalanság", "támadás", "erőszak".
 
-"Örök rendtartás legyen ez nemzedékről nemzedékre minden lakóhelyeteken: **semmi kövérjét és semmi vért meg ne egyetek!"**(a zsíroskenyér és a véreshurka off  javasolt idézés: disznótoron  3Mózes 3,17)
+És itt jövök zavarba, amikor egyébként egyetértek velük.
 
-**Istentelen utálatosság!**
-![]({{site.baseurl}}/images/disznotor.JPG)
+Illene alternatívát is ajánlanom. Nehéz lesz, de megpróbálom.
 
-"Vagy **ha valaki bármely tisztátalan dolgot érint**, akár tisztátalan vadnak, akár tisztátalan állatnak, akár tisztátalan féregnek a tetemét, de nem vette észre, hogy tisztátalanná lett, és úgy vétkezik"(egy nyúl megsimogatása Isten elleni vétek  javasolt idézés: gyereknapon  5Mózes 5,2)
+<iframe width="1366" height="638" src="https://www.youtube.com/embed/9-nXT8lSnPQ" frameborder="0" allowfullscreen></iframe>
 
-**Megkövezzük vagy elég az engesztelő áldozat?**
-![]({{site.baseurl}}/images/nyuszi.jpg)
+Azt hiszem, a szimbolikus aktus felé kéne eltolni a tiltakozást. Mind tudjuk, hogy a tienanmen téri tüntető sem állította meg örökre a tankokat - de egy hihetetlen erős "NEM"-et jelentett a kiállása, ami aztán bejárta a világot. A fehér ruhás férfit tettéért aztán a Life magazina 20. század legfontosabb száz embere közé sorolta 1998-ban, azzal együtt, hogy Kínában a problémák továbbra sem oldódtak meg persze...<br /><br />
+A karhatalom vagy éppen a biztonsági cégek kopaszai arra vannak kitalálva, hogy teljesítsék a parancsot. Nincs azon mit csodálkozni, ha meg is teszik. (Mondjuk azért [a pszichiátriára vitetni egy tüntetőt]("http://24.hu/belfold/2016/06/29/ligetvedo-folyamatosan-osztottak-hogy-vegem-van-honapokra-kivonnak-a-forgalombol/) vagy [lesből gyomorszájon vágni](ttps://www.facebook.com/magyarinfo/videos/10154219976238467/) a putyini oroszországot idézi...) Azt nagyon kétlem, hogy minden eljáró rendőr egyetért a paranccsal - dehát.. ez a dolguk... Akkor viszont a ligetvédőknek se arra kéne hegyezniük a kommunikációt, hogy mennyire erőszakos, ami történik, sőt, talán hamarabb is cselekedhetnének, mint hogy eltörik "intézkedés közben az ujjukat". A protest nem attól lesz sikeres, hogy addig húzzuk, amíg bele nem halunk (lásd a fenti videón se várta meg a tüntető, hogy mártírrá tegyék). Attól, hogy jó ügy érdekében jól kommunikálva látványos gesztusokat teszünk. Szerintem. Sajnos egyszerűen nincs több eszköz a kezünkben, mint hogy rámutassunk a hajmersztő tényekre. Például, hogy a miniszterelnök falujában kisvasút viszi a háza végében álló stadionhoz az embereket a hatmilliárdos most épülő sportcsarnoktól. Akinek van két agysejtje, az látja, hogy itt óriási a szerep- és aránytévesztés...
 
-"A fejeteket ne hagyjátok fedetlenül, **ruháitokat meg ne szaggassátok**, hogy meg ne haljatok, és haragra ne gerjedjen az ÚR az egész gyülekezet ellen" (templomba innentől csak kipában mehetünk javasolt idézés: istentiszteleten  3Mózes 10,6)
-
-**Megszaggatta a ruháit... Meg kell halnia?**
-![]({{site.baseurl}}/images/szakadt.jpg)
-
-Disznó, nyúl, csiga -&gt;Ezek mind utálatosak nektek. **Húsukból ne egyetek, és tetemüket is utáljátok.** (ha ettél már disznó-, nyúlhúst esetleg csigát, tartasz bűnbánatot?  javasolt idézés: étteremben  3Mózes 11)
-
-**Isten gyűlöli a gourmandokat?**
-![]({{site.baseurl}}/images/csiga.JPG)
-
-"A nyolcadik napon pedig **metéljék körül** a fiú férfitestének bőrét." (Körül vagy metélve?  javasolt idézés: férfiak kötében  3Mózes 12,3)
-
-**Nem fog fájni...**
-![]({{site.baseurl}}/images/korulmeteles.jpg)
-
-"Ne legyen rajtad **kétféle szövetű ruha**." (ezt nehéz lesz betartani, de elszántsággal sikerülhet  javasol idézés: fiatal lányok körében  3Mózes 19,19 )
-
-**Tisztelem az igyekezetüket, de ez még mindig két féle "szövet", Isten ebből csak egyet tolerál... Melyiket vegyék le**
-![]({{site.baseurl}}/images/esokabat.jpg)
-
-"**Hajatokat ne nyírjátok kerekdedre, szakállad végét ne csúfítsd el.**" (bubifrizura off  javasolt idézés: fodrásznál  3Mózes 19,27)
-
-**Csináld csak... maj lesz fogcsikorgatás a pokolban a frizurádért...**
-![]({{site.baseurl}}/images/haj.jpg)
-
-**Kezeld a migránsokat saját gyermekedként**
-
-"Ha jövevény tartózkodik nálatok, a ti földeteken, ne nyomorgassátok őt. **Olyan legyen nektek a jövevény, aki nálatok tartózkodik, mintha közületek való bennszülött volna, és szeressétek őt, mint magatokat**, mert jövevények voltatok Egyiptom földjén. Én vagyok az ÚR, a ti Istenetek." (hát igen...  javasolt idézés: Jobbik-gyűlésen, CÖF-felvonuláson  3Mózes 19,33-34 )
-
-**Ugye kimész ide is tüntetni és kommenteled, hogy Isten ellen való?**
-![]({{site.baseurl}}/images/gyoda.JPG)
-
-"Hat napon át munkálkodjatok, a hetedik napon a nyugalomnak, a **szent gyülekezésnek szombatja van, semmi munkát ne végezzetek**. Az ÚR szombatja legyen az mindenütt, ahol laktok." (nem, kertimunkát se!  javasolt idézés: vasárnaponként - vagy szombaton?  3Móz 23,3 )
-
-**Ha ez vasárnap történt, súlyos bűne neki!**
-![]({{site.baseurl}}/images/kertimunka.jpg)
+UPDATE
 
 
-Nincs kedvem többet írni erről. Akkor fogom elfogadni, hogy kiemeled a melegek ellen szóló részt, ha ezeket is kiemeled a fenti alkalmakkor. Akkor vagy önmagaddal koherens. Megjegyzem Isten ilyet nem akar... de _ha törvénykezel, tartsd meg az összes törvényt, ne szemezgesd ki azokat, amelyeket a mondanivalóddal egy irányba mutatónak látsz. Ha idézel az Ószövetségből, légy konzisztens és a megfelelő helyeken idézd is a fentieket, ha a melegekkel kapcsolatban kommenten vagy transzparensen idézed! És ha lehet, tartsd is be. Különben önellentmondásba keverednél._
+Ez az ügy már polgári engedetlenség helyett a polgári elkeseredésről szól, sok kommentet kapok, hogy mit kéne tenni. Valóban baromi nehéz egy olyan országban, ahol a kormányt nem érdekli a tiltakozók hangja (vö "megunják a tüntetést és hazamennek"), de a mostani kommunikáció - legalábbis ami hozzám eljutott - sok esetben inkább az aktivistákról, mint az ügyről szól. Kit vertek meg, kinek tekerték ki a karját. Ez botrányos, gyalázatos és nem európai - de nem a ligetről szól. Mint ahogy az egész protest is inkább egy kormány vs szélsőséges balliberálisok (lehet, hogy én is azt vagyok :) ) - csata képét mutatja, amihez a "nép" nagy része nem tud hozzászólni.
 
-Mondhatod, hogy ez mind régi, ószövetségi... Nézzünk bele az **Újszövetségbe!**
+Ismétlem, tisztelem és támogatom a törekvést, legkevésbé sem szeretnék beállni [a ligetvédőket karaktergyilkoló undorító lejáratókampányba](http://pestisracok.hu/drogtanyat-hagytak-maguk-utan-ligetvedok/). Viszont hangot akartam adni azoknak az embereknek, akik szeretnének kapcsolódni, de nem találják a kapcsolódási pontot. Kérem a segítségeteket!
 
-"Hasonlóképpen az asszonyok tisztességes öltözetben, szemérmetesen és mértékletesen ékesítsék magukat, nem hajfonatokkal és arannyal, gyöngyökkel vagy drága ruhával," (ékszerek, szép ruhák viszlát  javasolt idézés: fiatal lányoknak  1 Timóteus 2,9)
-
-**Akkor ez most istentelen vagy ez még oké?**
-![]({{site.baseurl}}/images/no.jpg)
-
-"Mert a férfinak nem kell befednie a fejét, mivel ő az Isten képe és dicsősége, de az asszony a férfi dicsősége. Mert nem a férfi van az asszonyból, hanem az asszony a férfiból. Mert nem is a férfi teremtetett az asszonyért, hanem az asszony a férfiért.." (nők, tudjátok a helyetek!  javasolt idézés: otthon abúzált aszonyoknak  1Kor 11,7-9)
-
-**Ez ellen is harcolok...**
-![]({{site.baseurl}}/images/noferfi.JPG)
-
-"Nemde maga a természet is arra tanít-e titeket, hogy szégyen a férfinak, ha hosszú hajat növeszt?" (hosszú hajú férfiak, számíthattok a megítélésünkre!)  javasolt idézés: északi népek férfiainak  1Kor 11,14)
-
-**Ki akarna magának egy ilyen szégyenletes pasit???**
-![]({{site.baseurl}}/images/hosszuhaj.JPG)
-
-És ezt is meguntam most. Ismétlem, nem elvenni akarom tőled a hited Istenben és a Bibliában! De ezek egy Isteni szellem szerint, egy jézusi szeretet nevében egy bizonyos kor és kultúra szerint íródtak. A fentiek mutatják, hogy nem azonos a két kultúra. És egyébként eltelt kétezer év... Ne érts félre! Ettől még az Isteni szellem és a jézusi szeretet ugyanaz maradt! De gondolj bele: Jézus maga is ment az ószövetségi törvények ellen, például gyúgyított vasárnap. És a farizeusok voltak, akik ezért számon kérték. Sőt... Keresztre feszítették... Jó, ha megérted, hogy Isten magának akarja az imádatot, nem a könyvnek, amit róla írtak. Ő pedig szerető isten, nem pedig a kirekesztés istene, nem igaz?
-
-Amikor erre azt mondanád, hogy igen, de Ő gyűlöli a bűnt! Akkor tudd, hogy a te bűnödet is ugyanúgy gyűlöli... Arról pedig, hogy Isten teremt-e valakit a saját képmására és ad belé kívánságokat, majd mondja, hogy "ezért bűnös vagy!" - nos ezt erősen kétlem... Arról, hogy a[homoszexualitás veleszületett tulajdonság, már megegyeztek az kutatók, az orvosok negyven éve](http://index.hu/tudomany/2013/07/05/igy_lett_nem_betegseg_a_homoszexualitas/), de a kirekesztés ellen - ami biztosan bűn - tudnál tenni...
-
-## Ilyeneket is mond a Biblia, ezeket is vegyük számításba:
-
-"**Ne ítéljetek, hogy ne ítéltessetek!**" (Máté 7,1)
-
-"**Miért nézed a szálkát a te atyádfia szemében, és nem látod a gerendát a magadéban?**" (Máté 7,3)
-
-**"A törvény van az emberért és nem az ember a törvényért!"** " (Márk 2,27)
-
-Volt egy nő, aki ugyanúgy megszegett egy törvényt, mint ahogy te mondod - én nem hiszem - a melegekre. Jézus ezt válaszolta: "**Aki közületek nem bűnös, az vesse rá először a követ.**" (János 8,7)
-
-És a lényeg: "Jézus pedig [arra a kérdésre, hogy mi a legfőbb törvény, hogyan írná le az egész tanítását egy mondatban] így válaszolt: Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és teljes elmédből. Ez az első és nagy parancsolat. Ehhez hasonló a második: Szeresd felebarátodat, mint magadat. **E két parancsolattól függ az egész törvény és a próféták.**"
-
-Nem a Bibliát akarom megkérdőjelezni. Mert ez egy _szent_írás_. De ha soronként, nem szellem szerint értelmezed bele fogsz zavarodni és az értelme ellen fogsz fordulni... Jézus maga mondta, hogy a szeretet parancsa a legfontosabb, ez a parancsolat vezette a prófétákat és az írások íróit. Mindent amit leírtak, ennek a mentén írták le. Így értelmezd! Vagy szerinted az alábbi a jézusi szeretet?
-
-**Orosz Mihály, Érpatak polgármestere a 2014-es Prideon, kezében egy bibliai idézettel, amikor egy csapat kopasszal próbált bejutni.**
-![]({{site.baseurl}}/images/oroszm.JPG)
-
-Ha tényleg szeretnéd Jézust követni, akkor hallgass rá. Ő az elesettek, az elnyomottak és hátrányos helyzetűek pártján állt. Soha nem hallottam olyat, hogy szeretetlen lett volna, ítélkező vagy törvény-párti.
-Isten úgy szerette a világot, hogy egyszülött fiát adta érte. Igaz? De a melegeket gyűlölte? Ha ő a melegeket is szerette, milyen alapon ítélkezel felettük? Milyen alapon szólsz ellenük? Milyen alapon idézed Istent ennek a megerősítésére?
-Vigyázz, hogy ne légy farizeus.
-
-**Itt lájkolhatod az oldalam, ha egyetértesz!**
+**Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:**
 [Ágoston László](https://www.facebook.com/agostonlaszloartist) 
 
 **Ne felejtsd el megosztani, ha értesz és egyetértesz!**
