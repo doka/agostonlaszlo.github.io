@@ -12,6 +12,7 @@ tags: [robbantás, muszlim, gyűlölet]
 A cikk a korábbi _"Fogom-e végre gyűlölni a muzulmánokat, ha robbantás lesz az EB-n?"_ című írás frissített változata.
 
 ![]({{ site.baseurl }}/images/aranykez.jpg)
+
 _Az Aranykéz utca 1998. július 2-án_
 
 Gondolatkísérletünket kezdjük azzal, hogy megvizsgáljuk, mi történne, ha Magyarországon is robbantanának.
@@ -19,6 +20,7 @@ Gondolatkísérletünket kezdjük azzal, hogy megvizsgáljuk, mi történne, ha 
 1, Orbán Viktor személyesen irányítaná a magyar intézkedéseket a repülőtér és a közlekedési csomópontok védelmére (azaz LÁTVÁNYOSAN kiszállna a TEK oda, ahol JÓL LÁTSZIK).
 
 ![]({{site.baseurl}}/images/tek.JPG)
+
 _A TEK hihetelenül hasznos felvonulása villogó fényhíddal a Ferihegyi Repülőtérnél_
 
 2, Még mélyebben kezdenék el a plakátkampányra fogékony emberek hajtani a gyűlölet-mókuskereket és felhangzana a "mi megmondtuk előre!" még sohasem hallott mantrája.
@@ -55,6 +57,7 @@ Csak lássunk tisztán most, amikor elindult az új gyűlöletkampány. Lássuk,
 Még egy érdekesség valamint válasz arra a kommentre, amely szerint "csak a rohadt muzulmánok robbantgatnak, láttál te már buddhista terroristát?": a Time magazin címlapja.
 
 ![]({{site.baseurl}}/images/aldozatok.jpg)
+
 _http://fra.europa.eu/sites/default/files/fra-2014-vaw-survey-factsheet_hu.pdf_
 
 Összegezve: akármi történik (ne történjen semmi!), nem fogok egy relatíve kis csoport miatt megítélni egy egész kultúrát. A magyart se és az amerikait se, a pirézeket se. Sokan mondták, hogy 2001. szeptember 12-én elmentek dolgozni Amerikában oda, ahova már évek óta jártak és ahol szerették őket - de másnaptól már nem kollégaként, hanem muzulmánként tekintettek rájuk. (Egy olyan terrortámadás után, amit rengetegen kérdőjeleznek meg azóta, hogy létrejöhetett-e az amerikai kormány tudta és támogatása nélkül BTW.) Én elítélem és gyűlölöm a terroristákat. A bal- és jobboldali és vallási- és minden terroristát egyként és tisztelem azt a kultúrát, amelyet ők hibásan képviselnek, legyen bár kereszténység, iszlám vagy buddhizmus.
