@@ -23,7 +23,7 @@ After Moltopera's debut in the Hungarian State Opera singing Enrico's role in an
 
 In the academic year of 2010-2011 he was elected as head of the students’ representative council and changed profoundly its operational methods. The university’s monthly paper ‘Figaro’ appeared for the first time during his leadership. During 2012 and 2013 he was the secretary general of Jeunesses Musicales Hungary, and he has been the president of the [PerspektivArt Association](http://www.perspektivart.hu/) since its founding in 2013.
 
-![]({{ site.baseurl }}/images/hok-agoston-laszlo.jpg")
+![hok-agoston-laszlo.jpg]({{ site.baseurl }}/images/hok-agoston-laszlo.jpg")
 
 At the general assembly of the students’ council in 2011 (by Péter Herman)
 
