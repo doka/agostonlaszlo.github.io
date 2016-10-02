@@ -9,7 +9,7 @@ tags: [a nők, feminista]
 ---
 A bal oldali kép a 2014-es AVN pornófilmes díjkiosztón készült, a jobb oldalin befolyásos emberek láthatók a Metropolitan operabálján. Nem tudom, ti mit láttok ebben, én azt, hogy egy nőnek tárgynak kell lennie akár így, akár úgy.
 
-![]({{site.baseurl}}/images/nok.jpg)
+![]({{site.baseurl}}/images/nok.JPG)
 
 
 Amikor azt mondom, hogy feminista vagyok, az emberek többsége megdöbben. Egyrészt nem érti, hogy miért akarom eldobni születési előjogomat, amely a péniszemmel együtt érkezett, hogy többet keressek, komolyabban - egyáltalán tárgyalóképesnek - vegyenek, annyi ellentétetes neművel feküdjek le megvetés nélkül, "büntetlenül" ahánnyal csak jól esik és ha megverni vagy megerőszakolni támad kedvem, akkor egy vak komondorral vagy egy jól irányzott "ő volt kihívó"-típusú áldozathibáztatással olcsón jöjjek ki az ügyből. Hát hülye vagyok én, hogy mindezt eldobnám?
