@@ -6,7 +6,8 @@ author: agoston_laszlo
 excerpt: "We are taking photos in the Hungarian State Opera with E. T. (the camera of Google Streetview pounding 130 kilos. I think it succeeded well - what do you think?"
 categories: english
 ---
+![]({{site.baseurl}}/images/ET.jpg)
 
 We are taking photos in the Hungarian State Opera with E. T. (the camera of Google Streetview pounding 130 kilos. I think it succeeded well - what do you think?
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1474813212684!6m8!1m7!1sfL7B6H3p4wNo_QiaP8IYDQ!2m2!1d47.50271082430854!2d19.05833914724568!3f320.29!4f-14.420000000000002!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+[Check it out on this link here!](https://www.google.com/maps/@47.5027108,19.0583391,3a,75y,320.29h,75.58t/data=!3m7!1e1!3m5!1sfL7B6H3p4wNo_QiaP8IYDQ!2e0!3e5!7i13312!8i6656)
