@@ -24,15 +24,15 @@ Történelmi időkben történelmi a felelősségünk is: hangos akarok lenni! A
 
 Én egy olyan Európát akarok a gyerekeimre hagyni, ahol nem az számít honnan jöttél, hanem, hogy ki vagy.
 
-Ahol az emberek az összefogást keresik az elhatárolódás helyett.
+- Ahol az emberek az összefogást keresik az elhatárolódás helyett.
 
-Ahol szabadon lehet tanulni, dolgozni, élni bármely országban.
+- Ahol szabadon lehet tanulni, dolgozni, élni bármely országban.
 
-Ahol a hagyományok és múlt is fontos és értékes, de a jövőt építjük.
+- Ahol a hagyományok és múlt is fontos és értékes, de a jövőt építjük.
 
-Ahol a süllyedő hajót inkább megjavítjuk a vízbe ugrás helyett.
+- Ahol a süllyedő hajót inkább megjavítjuk a vízbe ugrás helyett.
 
-Ahol az angliai barátaim teljes jogú európai állampolgárok.
+- Ahol az angliai barátaim teljes jogú európai állampolgárok.
 
 **Itt lájkolhatod az oldalam, ha egyetértesz:**
 [Ágoston László](https://www.facebook.com/agostonlaszloartist) 
