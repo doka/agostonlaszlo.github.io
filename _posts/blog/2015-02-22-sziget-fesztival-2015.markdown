@@ -8,7 +8,7 @@ categories: blog
 tags: [Sziget, MoltOpera]
 ---
 
-![]({{ site.baseurl }}/images/Sziget2014.jpg")
+![]({{ site.baseurl }}/images/Sziget2014.jpg)
 
 Már vagy tizenöt éve, hogy pár kiválasztott diákja egyikeként elvitt magával a Művészetek Völgyébe középiskolai latintanárom, egy igazi nagy formátumú tanáregyéniség Kaszab László.
 
