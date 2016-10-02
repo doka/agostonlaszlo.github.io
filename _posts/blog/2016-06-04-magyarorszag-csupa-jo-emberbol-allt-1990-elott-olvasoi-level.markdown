@@ -13,8 +13,8 @@ Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte n
 
 Szeretném a tiszteletemet, köszönetemet kinyilvánítani azért amit teszel. A magam módján én is mindent megtettem az embertársaim megsegítése érdekében és ugyanúgy élveztem ezt, ahogyan szerintem te is élvezed. Ma is igyekszem megtenni, ami tőlem telik, de sajnos már elvesztettem a hitemet ebben a világban, ebben az országban, ebben a népben.
 
-![A vasfüggöny szimbolikus átvágása 1989-ben]({{ site.baseurl }}/images/vasfuggony.JPG)
-
+![]({{ site.baseurl }}/images/vasfuggony.JPG)
+A vasfüggöny szimbolikus átvágása 1989-ben
 
 Ahogy olvasom a Facebook-oldaladon a kommenteket, szomorúság tölt el. Amikor bármi jót is felraksz, arra legalább egy, de inkább több gonosz megjegyzés a válasz, ráadásul mi, magyarok,**mindig valaki mást hibáztatunk**. Most éppen Sorost és az USA-t vádolják minden rosszért, az USA okozta a világ problémáit. Döbbenetes! Én zsidó vagyok, mondhatom, hogy magyar zsidó. Tudom, hogy ha nincs az USA, nincsenek a nyugati hatalmak, akkor most én nem írogatnék neked, mégha közvetlenül a szovjet csapatok is voltak azok, akiknek hatására kiszabadították édesanyámat a csehek egy női lágerből és persze a társait is (ugye mennyire összetett csak ez az "apróság" is?)
 
@@ -24,8 +24,8 @@ Talán pont ezért is az első perctől kedve vagy 40-50 címre irkáltam a mene
 
 Tudom, legalábbis a környezetemről biztosan. Ezen a településen ahol egész életem majd' hetven évében éltem, ahol munkámból adódóan szinte minden házban jártam akár többször is: itt 99%-ban jó emberek éltek. Majd jött a rendszerváltás és mintha megbolondultak volna, egyre inkább a gyűlölködés lett a jellemző, mert "ugye az a másik nem azzal a párttal szimpatizál mint én"...
 
-![**"Aki otthon marad, a múltra szavaz"- egy 1989-es szavazásra buzdító plakát (forrás: [retropol](http://retropol.blog.hu/2009/04/27/aki_otthon_marad_az_a_multra_szavaz_1989))**]({{site.baseurl}}/images/szavaz.JPG)
-
+![]({{site.baseurl}}/images/szavaz.JPG)
+**"Aki otthon marad, a múltra szavaz"- egy 1989-es szavazásra buzdító plakát (forrás: [retropol](http://retropol.blog.hu/2009/04/27/aki_otthon_marad_az_a_multra_szavaz_1989))**
 
 Valahogy azt érzem, hogy a magyar nép többségének nem való a demokrácia, nem tud vele élni, legfeljebb visszaélni. Az irigykedés, az ősi magyar betegség lett ismét a jellemző ránk, pedig megférnénk egymás mellett... Attól, hogy a másiknak több jutott, mert ügyesebb, tehetségesebb, attól mi még nem leszünk kevesebbek! A 80-as években jártam többször is az NSZK-ban. Sok embert ismertem meg ott, köztük svábokat, akiket a második világháború után a városomból telepítettek ki. Ők még akkor is a hazájuknak tekintették Magyarországot.
 
@@ -33,7 +33,8 @@ Valahogy azt érzem, hogy a magyar nép többségének nem való a demokrácia, 
 
 Én igazából nagyon pesszimista vagyok. Remélem, hogy tévedni fogok, de nem látom a kivezető utat, éppen azt látom, hogy egy szűk réteget leszámítva, itt mindenki csak gyűlölködni tud, abban éli ki a saját tehetetlenségét. A többség mindig másokra fogja a problémáit, a másikat hibáztatja a bajaiért.
 
-![A szabadság téri sokat vitatott emlékmű, amely sokak szerint a "német sasra keni" Magyarország második világháborús szerepvállalásának következményeit]({{site.baseurl}}/images/emlekmu.JPG)
+![]({{site.baseurl}}/images/emlekmu.JPG)
+A szabadság téri sokat vitatott emlékmű, amely sokak szerint a "német sasra keni" Magyarország második világháborús szerepvállalásának következményeit
 
 Ahogy olvastam az oldaladon: a németek nem elhallgatni akarják a problémákat, hanem éppen ellenkezőleg nem hergelik feleslegesen a népüket. Amivel én 100%-ig egyetértek és nem véletlenül írkáltam szinte mindenütt, hogy én lennék a világon a legboldogabb, ha nekünk is egy Angela Merkel lenne a miniszterelnökünk. Pedig most éppen, a menekültkérdésben elfoglalt álláspontja miatt nagyot zuhant a népszerűsége, de ahogy mondani szokták: egy igazi államférfi nem a következő választásra gondol, hanem a következő generációkra (elnézést ha rosszul idéztem, de a lényeget fedi). Angela Merkel pedig szerintem ilyen, sőt a németek többsége is ilyen, amikor ők szembe mertek nézni az elődeik által elkövetett bűnökkel. Ezzel szemben a magyarság, de főleg a mai hatalom, éppen ellenkezőleg Horthy-t és azt a korszakot tekinti példaképének, amelyben lágerbe küldték a családomat. Csodálkozunk azokon a kommenteken, amiket nálad is olvastam? Csodálkozunk, hogy ennyire kivetkőzött magából ez a nép, a nép nagy többsége?
 
