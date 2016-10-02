@@ -9,6 +9,7 @@ excerpt: "Szeretném, ha tudnád, hogy nem ellened vagyok és nem nem szeretném
 categories: blog
 tags: [Isten, hit]
 ----
+
 **Szeretném, ha tudnád, hogy nem ellened vagyok és nemnem szeretném elvennitőleda hitedet Istenben vagy a Biblia hitelességében.** Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.
 
 Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.
