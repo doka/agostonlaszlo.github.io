@@ -29,7 +29,7 @@ Ezzel együtt van pár ötletem, ami biztosan kivitelezhető lenne, mégsem tesz
 
 a, Internet. Adj három embert és két hét alatt feltérképezzük az összes olyan szervert a világon, amelyiken bombakészítéshez való leírások találhatók. Ezeket kormányközi szinten letiltani, hackerekkel szétszedni, elérhetetlenné tenni, vagy ami még aljasabb, olyan szinten beleírni, hogy ne vegyék észre, de a bombák besüljenek. Szerintem egyetlen rakéta árából meg lehet csinálni. Főleg, hogy össze lehetne fogni például az Anonimusszal vagy hozzáértő magánszemélyekkel... ez a 21. század!
 
-![]({{ site.baseurl }}/images/haacker.jpg)
+![]({{ site.baseurl }}/images/hacker.jpg)
 
 b, Közösségi média. Ne röhögtessetek, hogy egy Facebook, egy Twitter, egy Youtube ki tudja szűrni, ha én feltettem egy videófordítást, ami jogdías, de az ISIS propaganda-anyagait nem sikerül leszedniük. Ha elvennénk a láthatóságukat, nem lenne kedve senkinek se támogatni őket. Eljelentéktelenednének. Ja igen, ha valaki feltesz egy ISIS-éltető videót azonnal nyomozást indítanék ( srácok, ezek nem profi hackerek, aki VPN-nel, fejlett titkosítással kommunikálnak...) és törölném az accountot.
 
