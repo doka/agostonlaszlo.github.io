@@ -48,7 +48,8 @@ Ezek után kíváncsian vártam, hogy mik lesznek a reakciók. Öt csoportba osz
 
 A típusválaszokra engedjétek meg, hogy most itt reagáljak.
 
-![]({{site.baseurl}}/https://drive.google.com/open?id=0B8_GBDEhwDIvczJBRDdWN2JlaW8)([forrás](https://www.facebook.com/magyarinfo/photos/a.10150201675448467.330467.85568463466/10154313478633467/?type=3&amp;theater))
+![]({{ site.baseurl }}/images/nemigaz.jpg)
+([forrás](https://www.facebook.com/magyarinfo/photos/a.10150201675448467.330467.85568463466/10154313478633467/?type=3&amp;theater))
 
 - **1.** Ha újraolvasod a szöveget, csak arról van szó, hogy tiszteljünk egy másik kultúrát és ne szégyelljünk akár tanulni is tőlük. Én ezt nem hiszem őrültségnek, akármelyik más kultúráról is beszélnénk.
 
