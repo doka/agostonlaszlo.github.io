@@ -18,7 +18,7 @@ A 2015-ös Prideon már menetkísérő, "szervező" voltam az első élményei u
 **Rengeteget köszönhetek Érpatak polgármesterének**
 
 "Odabent" egy fal mellé húzódtam és elkezdtem félni. Mit teszek, ha odajön hozzám egy... izé... és rámnyomul? Mi lesz, ha valaki megfogja a seggem? Leütöm? Én a nagy emberjogi harcos, nagy széplélek nagyon zavarban voltam. Ekkor lettem figyelmes egy csoport fekete ruhás férfira, aki a beengedőpontnál hőbörgött. Egy Lúdas Matyinak öltözött figura vezette őket és nagyban rohadtbuzizva próbáltak bejutni, a rendezők meg próbálták kint tartani őket. Egyszerre volt vicces és szánalmas látvány. És ekkor, miattuk jöttem rá, hogy mit is keresek itt igazából (máig köszönöm a Lúdas Matyinak öltözött Orosz Mihály Zoltánnak ezt). Megértettem általuk, hogy miért, ha úgy tetszik kikért és kik ellen vagyok itt. Hogy nem fog senki rám mozdulni, senki se fogja megfogni a seggemet és nem kell melegnek lennem ahhoz, hogy "valid módon" részt vehessek. Azért jöttünk össze, hogy megünnepeljük az emberek különbözőségét: van, aki a mákos gubát, van, aki a diós gubát, van, aki a férfiakat és van, aki a nőket szereti. És azért van erre szükség, mert sokak számára ez indok lenne a savval locsolásra (!)...
-![]({{site.baseurl}}/images/oroszm.jpg)
+![]({{site.baseurl}}/images/oroszm.JPG)
 Orosz Mihály Zoltán, "(...) ez utálatosság (...) ezért meg kell halniuk (...)"-táblájával
 
 **A meztelenül az utcán szeretkező férfiak...**
@@ -37,7 +37,7 @@ Végül egy egy finn diáklánnyal zártam a menetet, akivel aztán még összef
 **Az ellentüntetők**
 
 Miattuk kellett sokmillió forintért körbekordonozni a Belvárost. Mármint hermetikusan, két utca mélységben, hogy ne tudjanak megint követ vagy hanggránátot (???) dobni közénk, mint 2013-ban. Ők anyázással, rohadtbuzizással próbálták megvédeni a kultúránkat, némelyek bibliai idézeteket írtak lepedőkre és a "bűneid zsoldja a halál" és hasonló feliratokkal, valamint síppal és kereplővel próbálták a szeretet vallására téríteni a mocskos melegeket. Jézus bizonyosan büszke volt rájuk. Az igazi kellemetlen meglepetés akkor ért, amikor a rendőrség a menet végeztével nem engedett hazamenni minket. CSAK a földalattin lehetett kijutni a kordonok közül (hiába laktál a szomszéd utcában), mert csak így tudták szavatolni a biztonságunkat a kulúravédők és a keresztények bunkósbotjaival szemben. Körülbelül egy órát vártunk, amíg a kisföldalatti el tudta vinni a tömeget (főleg, hogy **a tüntetésen kívülről érkezőkkel** "kevert" szerelvényeket indítottak, hogy ne lehessen kiszűrni, ki járókelő és ki felvonuló).
-![]({{site.baseurl}}/images/toma.jpg)
+![]({{site.baseurl}}/images/toma.JPG)
 A képen olvasható idézet a melegfelvonulás korábbi ellenzőjétől származik. Tomanovics Gergely videósként csak a tojásdobálós balhét akarta fényképezni, de a menettel haladva rájött: a felvonuló emberek nem másoknak akarnak rosszat. Azóta pedig már a Fidesszel is keményen szembefordult. [forrás](http://greyhound.blog.hu/2015/07/08/melegfelvonulas_hideg_fejjel_avagy_egy_egykori_pride-ellenzo_gondolatai_a_rendezvenyrol_ujratoltve)
 
 **A visszhang**
@@ -57,22 +57,22 @@ A mi felelősségünk, a többségi társadalom felelőssége, hogy biztosítsuk
 A melegfelvonulás nem az, aminek mondják. A legtöbben, akik először jönnek, meglepődnek, hogy mennyire "nem durva" ahhoz képest, amit a média hazudik róla. Ne érts félre: a katolikus cserkészlányok teaköre nem mi vagyunk. De tudod mit? Válogatok ide pár képet. Három a melegfelvonulásról, négy nyári "heteró" fesztiválokról származik. Találd ki melyik melyik!
 
 **1.**
-![]({{site.baseurl}}/images/parade5.jpg)
+![]({{site.baseurl}}/images/parade5.JPG)
 
 **2.**
-![]({{site.baseurl}}/images/pride3.jpg)
+![]({{site.baseurl}}/images/pride3.JPG)
 
 **3.**
-![]({{site.baseurl}}/images/parade6.jpg)
+![]({{site.baseurl}}/images/parade6.JPG)
 
 **4.**
-![]({{site.baseurl}}/images/pride7.jpg)
+![]({{site.baseurl}}/images/pride7.JPG)
 **5.**
 ![]({{site.baseurl}}/images/pride1.jpg)
 **6.**
-![]({{site.baseurl}}/images/pride4.jpg)
+![]({{site.baseurl}}/images/pride4.JPG)
 **7.**
-![]({{site.baseurl}}/images/pride8.jpg)
+![]({{site.baseurl}}/images/pride8.JPG)
 
 A helyes megfejtés:
 1. Budapest Parádé 2005
