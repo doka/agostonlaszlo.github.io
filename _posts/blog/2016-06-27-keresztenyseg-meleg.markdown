@@ -76,7 +76,7 @@ Mondhatod, hogy ez mind régi, ószövetségi... Nézzünk bele az **Újszövets
 "Nemde maga a természet is arra tanít-e titeket, hogy szégyen a férfinak, ha hosszú hajat növeszt?" (hosszú hajú férfiak, számíthattok a megítélésünkre!)  javasolt idézés: északi népek férfiainak  1Kor 11,14)
 
 **Ki akarna magának egy ilyen szégyenletes pasit???**
-![]({{site.baseurl}}/images/hosszuhaj.JPG)
+![]({{site.baseurl}}/images/hosszuhaj.JPG) 
 
 És ezt is meguntam most. Ismétlem, nem elvenni akarom tőled a hited Istenben és a Bibliában! De ezek egy Isteni szellem szerint, egy jézusi szeretet nevében egy bizonyos kor és kultúra szerint íródtak. A fentiek mutatják, hogy nem azonos a két kultúra. És egyébként eltelt kétezer év... Ne érts félre! Ettől még az Isteni szellem és a jézusi szeretet ugyanaz maradt! De gondolj bele: Jézus maga is ment az ószövetségi törvények ellen, például gyúgyított vasárnap. És a farizeusok voltak, akik ezért számon kérték. Sőt... Keresztre feszítették... Jó, ha megérted, hogy Isten magának akarja az imádatot, nem a könyvnek, amit róla írtak. Ő pedig szerető isten, nem pedig a kirekesztés istene, nem igaz?
 
