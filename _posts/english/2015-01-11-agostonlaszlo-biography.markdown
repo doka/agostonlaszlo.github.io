@@ -36,7 +36,7 @@ After the season opening press conference of the Hungarian State Opera
 László often holds informative presentations about the opera, his series of classes have been advertised at in such prestigious universites as the Semmelweis University of Medicine, Eötvös Loránd University, Budapest University of Technologies and Corvinus University of Economy. He is a regular lecturer at the Budapest University of Applied Sciences.
 
 
-![]({{ site.baseurl }}/images/Norbert-Lammert.JPG)
+![]({{ site.baseurl }}/images/norbert-lammert.jpg)
 
 With Norbert Lammert (President of the Bundestag, the German parliament) in Moltopera's debut in Dresden (photo:Martin Ksienzyk)
 
