@@ -11,14 +11,15 @@ tags: [robbantás, muszlim, gyűlölet]
 
 A cikk a korábbi _"Fogom-e végre gyűlölni a muzulmánokat, ha robbantás lesz az EB-n?"_ című írás frissített változata.
 
-![]({{site.baseurl}}/![]({{ site.baseurl }}/images/aranykez.jpg))
+![]({{ site.baseurl }}/images/aranykez.jpg))
 _Az Aranykéz utca 1998. július 2-án_
 
 Gondolatkísérletünket kezdjük azzal, hogy megvizsgáljuk, mi történne, ha Magyarországon is robbantanának.
 
 1, Orbán Viktor személyesen irányítaná a magyar intézkedéseket a repülőtér és a közlekedési csomópontok védelmére (azaz LÁTVÁNYOSAN kiszállna a TEK oda, ahol JÓL LÁTSZIK).
 
-![A TEK hihetelenül hasznos felvonulása villogó fényhíddal a Ferihegyi Repülőtérnél]({{site.baseurl}}/https://drive.google.com/open?id=0B8_GBDEhwDIvY213d0c2VHc2Z2M)
+![]({{site.baseurl}}/images/tek.JPG)
+_A TEK hihetelenül hasznos felvonulása villogó fényhíddal a Ferihegyi Repülőtérnél_
 
 2, Még mélyebben kezdenék el a plakátkampányra fogékony emberek hajtani a gyűlölet-mókuskereket és felhangzana a "mi megmondtuk előre!" még sohasem hallott mantrája.
 
