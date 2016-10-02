@@ -8,7 +8,7 @@ categories: blog
 tags: [Polgár László]
 ---
 
-![]({{ site.baseurl }}/images/polgar.jpg")
+![]({{ site.baseurl }}/images/polgar.jpg)
 
 Mielőtt a Zeneakadémiára kerültem, az egyik kedvenc énekesemnek tartottam Polgár Lászlót. Ő volt az igazi lírai basszus. A "legnehézkesebb" hangfajban tudott éterien könnyed lenni és elképesztő muzikalitással énekelt például egy teljes Winterreiset, amit otthon elkoptattam a CD-lejátszómban. Az egyik legnagyobb akadémiai élményem is Hozzá kötődik.
 
