@@ -8,7 +8,7 @@ category: english
 ---
 "What a voice! What a harmonist! What a humorist! Very funny and quite beautiful too. A lovely layering of voices and eclectic in it’s references. Outstanding." - (Brian Eno producer of U2, Coldplay, Talking Heads and many more, about Kayamar [on the official page of Noise Festival](http://www.noisefestival.com/user/kayamar/work/kayamar-wind-song-medley)) 
  
-![]({{site.baseurl}}/images/viktor.jpg)
+![]({{site.baseurl}}/images/viktor.JPG)
 
 Viktor Magyaróvári (alias Kayamar) is a very talented musician. Not only he has perfect pitch, but he can also determine how much Herz is the sound he emits. With these special abilities to became a real musical chameleon, he is able to produce a million of different tones. Moreover, he has a vocal range of five octaves from Ab0 to C6 and he can sing every choir part from basso profondo to countertenor. 
  
