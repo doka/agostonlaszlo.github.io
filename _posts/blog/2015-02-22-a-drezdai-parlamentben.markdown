@@ -10,7 +10,7 @@ categories: blog
 tags: [életrajz, Kodály]
 ---
 
-![]({{ site.baseurl }}/https://github.com/agostonlaszlo/agostonlaszlo.github.io/blob/master/images/DrezdaiParlament.jpg?raw=true)
+![]({{ site.baseurl }}/images/DrezdaiParlament.JPG)
 
 Ha a Zeneakadémián csináltam volna meg ezt, valszeg elkaszálnak...
 
