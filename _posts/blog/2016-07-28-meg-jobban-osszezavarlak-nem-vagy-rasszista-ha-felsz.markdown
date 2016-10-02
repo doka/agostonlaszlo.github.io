@@ -34,9 +34,9 @@ Ilyen az, amikor egy megtámadott közösség körbeüli a tábortüzet és öss
 A demagóg kérdés itt az lenne: akarjuk mi ezt? A helyes kérdés (amit nem is tesznek fel népszavazáson...) viszont, hogy hogyan kezeljük ezt. Azt, hogy a beáramló néptömegek között valóban vannak tolvajok, terroristák és bajkeverő söpredék (a jobboldal kedvenc vesszőparipája) és valóban vannak orvosok, tanárok, tolmácsok, utolsó értékként is könyveket cipelő értelmiségiek (a baloldal vesszőparipája). De egyik sem, pontosabban mindkettő igaz. Ezért hibás mindkét oldal sarkítása. Ezért ne álljon Gyurcsány a kerítés túloldalára és ezért ne kampányolgasson undorító politikai haszonszerzésből Orbán. Hanem - ahogy mindig mondom - kezdjünk végre higgadtan gondolkodni.
 Egyetlen cikkbe túl sok lenne leírni, amit most mondani szeretnék, ezért három további témára bontom és további három cikkben fogok vele részletesen foglalkozni:
 
-1, [Beilleszkedhetnek egyáltalán a bevándorlók Európában?](http://agostonlaszlo.hu/hu/blog/74-beilleszkedhetnek-egyaltalan-a-bevandorlok-europaban)
-2, [Hogyan lehetne megállítani a terrorizmust?](http://agostonlaszlo.hu/hu/blog/75-hogyan-lehetne-megallitani-a-terrorizmust)
-3, Kik vagyunk mi, Európaiak
+- 1, [Beilleszkedhetnek egyáltalán a bevándorlók Európában?](http://agostonlaszlo.hu/hu/blog/74-beilleszkedhetnek-egyaltalan-a-bevandorlok-europaban)
+- 2, [Hogyan lehetne megállítani a terrorizmust?](http://agostonlaszlo.hu/hu/blog/75-hogyan-lehetne-megallitani-a-terrorizmust)
+- 3, Kik vagyunk mi, Európaiak
 
 Odáig egyetlen üzenetet hallj meg: mind félünk. Van, aki erre azzal válaszol, hogy üvöltözni és gyalázkodni kezd, van, aki nem veszíti el az emberségét, de mind félünk akkor, amikorszinte minden egyes nap robban egy bomba vagy elvágják egy idős pap torkát. Ettől még nem vagy(ok) rasszista és ettől még nem szabad teret engedni a gyűlöletnek. Ez nem ad felmentést vagy felhatalmazást mások bőrszín, nem, vallás vagy bármi más alapú kirekesztésére. De egyre sürgősebb lenne, hogy ezt meg tudd élni, ki tudd fejezni és a közösség át tudjon ölelni. Mert ilyenkor van igazán jogod átélni a saját közösséged, nemzeted össze- és megtartó szeretetét.
 
