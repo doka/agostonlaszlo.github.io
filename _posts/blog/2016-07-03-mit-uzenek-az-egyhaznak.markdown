@@ -27,10 +27,8 @@ Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története
 - Felolvastam nekik prófétád ítéletes szavát, megmutattam nekik a Törvényt és a parancsolatokat, hogy tudják: megtérésre van szükségük. Megmutattam nekik a Te igazságodat és elhatárolódtam tőlük, Uram!
 - Szeretsz engem és törekszel a jóra, de nem ismersz engem, fiam. Kár, hogy letelt így életed ideje és most kell csak meglátnod, hányszor buktál el, amikor győzedelmesnek hitted magad. Tiéd a Kegyelem, de gyere, tartsunk együtt bűnbánatot, hogy tisztán ülhess asztalomhoz!
 
-Arra a kérdésre - amit tegnap tett fel nekem egy aktivista -, hogy mit kérnék és üzennék az egyháznak.
-
 ![]({{ site.baseurl }}/images/isten.JPG)
-
+*Arra a kérdésre - amit tegnap tett fel nekem egy aktivista -, hogy mit kérnék és üzennék az egyháznak.*
 
 **II. gondolatom**
 
@@ -43,7 +41,7 @@ Lájkoltam egy balliberális középkorú zsidó fickót, aki feladta a rendes m
 Ugye tudod, hogy ez irónia? Vagy a farizeusoknak ne lett volna szükségük orvosra, akik aztán keresztre adták Jézust?
 
 ![]({{ site.baseurl }}/images/horthy.jpg)
-**A vitatott történelmi megítélésű Horthy Miklós mellszobra a Szabadság téri templom előtt (eddig az épületben volt)**
+*A vitatott történelmi megítélésű Horthy Miklós mellszobra a Szabadság téri templom előtt (eddig az épületben volt)*
 
 Én melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ülök asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljünk. A Szabadság téri református templomban [Wass Albert-, Szabó Dezső- és Horthy-szobrot is avattak](http://www.168ora.hu/itthon/horthy-miklos-ifj-hegedus-lorant-jobbik-reformatus-egyhaz-tiltakozas-palastjog-120457.html). A hivatalban lévő szeged-csanádi megyéspüsök szerint a menekülteket nem kell befogadni és [a pápa nem tudja miről beszél](http://index.hu/belfold/2015/09/08/kiss-rigo_a_papa_nem_tudja_mirol_beszel/).
 
