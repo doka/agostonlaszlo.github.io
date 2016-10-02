@@ -1,14 +1,3 @@
----
-layout: post
-title: Ha Istenre hivatkozol, amikor a melegek ellen hangolsz...
-joomla_id: 65
-joomla_url: keresztenyseg-meleg
-date: 2016-06-27 08:30:31.000000000 +00:00
-author: agoston_laszlo
-excerpt: "Szeretném, ha tudnád, hogy nem ellened vagyok és nem nem szeretném elvenni tőled a hitedet Istenben vagy a Biblia hitelességében. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot."
-categories: blog
-tags: [Isten, hit]
----
 **Szeretném, ha tudnád, hogy nem ellened vagyok és nemnem szeretném elvennitőleda hitedet Istenben vagy a Biblia hitelességében.** Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.
 
 Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.
@@ -22,49 +11,49 @@ A Biblia végén ez áll:
 
 Tehát a Bibliának minden verse** egyaránt** fontos és időtálló. Igaz? Akkor az alábbiak is pontosan **ugyanannyira** igazak és érvényesek, mint amiket te idéznél.
 
-"Örök rendtartás legyen ez nemzedékről nemzedékre minden lakóhelyeteken: **semmi kövérjét és semmi vért meg ne egyetek!"**(a zsíroskenyér és a véreshurka off | javasolt idézés: disznótoron | 3Mózes 3,17)
+"Örök rendtartás legyen ez nemzedékről nemzedékre minden lakóhelyeteken: **semmi kövérjét és semmi vért meg ne egyetek!"**(a zsíroskenyér és a véreshurka off  javasolt idézés: disznótoron  3Mózes 3,17)
 
 **Istentelen utálatosság!**
 ![]({{site.baseurl}}/images/disznotor.JPG)
 
-"Vagy **ha valaki bármely tisztátalan dolgot érint**, akár tisztátalan vadnak, akár tisztátalan állatnak, akár tisztátalan féregnek a tetemét, de nem vette észre, hogy tisztátalanná lett, és úgy vétkezik"(egy nyúl megsimogatása Isten elleni vétek | javasolt idézés: gyereknapon | 5Mózes 5,2)
+"Vagy **ha valaki bármely tisztátalan dolgot érint**, akár tisztátalan vadnak, akár tisztátalan állatnak, akár tisztátalan féregnek a tetemét, de nem vette észre, hogy tisztátalanná lett, és úgy vétkezik"(egy nyúl megsimogatása Isten elleni vétek  javasolt idézés: gyereknapon  5Mózes 5,2)
 
 **Megkövezzük vagy elég az engesztelő áldozat?**
 ![]({{site.baseurl}}/images/nyuszi.jpg)
 
-"A fejeteket ne hagyjátok fedetlenül, **ruháitokat meg ne szaggassátok**, hogy meg ne haljatok, és haragra ne gerjedjen az ÚR az egész gyülekezet ellen" (templomba innentől csak kipában mehetünk |javasolt idézés: istentiszteleten | 3Mózes 10,6)
+"A fejeteket ne hagyjátok fedetlenül, **ruháitokat meg ne szaggassátok**, hogy meg ne haljatok, és haragra ne gerjedjen az ÚR az egész gyülekezet ellen" (templomba innentől csak kipában mehetünk javasolt idézés: istentiszteleten  3Mózes 10,6)
 
 **Megszaggatta a ruháit... Meg kell halnia?**
 ![]({{site.baseurl}}/images/szakadt.jpg)
 
-Disznó, nyúl, csiga -&gt;Ezek mind utálatosak nektek. **Húsukból ne egyetek, és tetemüket is utáljátok.** (ha ettél már disznó-, nyúlhúst esetleg csigát, tartasz bűnbánatot? | javasolt idézés: étteremben | 3Mózes 11)
+Disznó, nyúl, csiga -&gt;Ezek mind utálatosak nektek. **Húsukból ne egyetek, és tetemüket is utáljátok.** (ha ettél már disznó-, nyúlhúst esetleg csigát, tartasz bűnbánatot?  javasolt idézés: étteremben  3Mózes 11)
 
 **Isten gyűlöli a gourmandokat?**
 ![]({{site.baseurl}}/images/csiga.JPG)
 
-"A nyolcadik napon pedig **metéljék körül** a fiú férfitestének bőrét." (Körül vagy metélve? | javasolt idézés: férfiak kötében | 3Mózes 12,3)
+"A nyolcadik napon pedig **metéljék körül** a fiú férfitestének bőrét." (Körül vagy metélve?  javasolt idézés: férfiak kötében  3Mózes 12,3)
 
 **Nem fog fájni...**
 ![]({{site.baseurl}}/images/korulmeteles.jpg)
 
-"Ne legyen rajtad **kétféle szövetű ruha**." (ezt nehéz lesz betartani, de elszántsággal sikerülhet | javasol idézés: fiatal lányok körében | 3Mózes 19,19 )
+"Ne legyen rajtad **kétféle szövetű ruha**." (ezt nehéz lesz betartani, de elszántsággal sikerülhet  javasol idézés: fiatal lányok körében  3Mózes 19,19 )
 
 **Tisztelem az igyekezetüket, de ez még mindig két féle "szövet", Isten ebből csak egyet tolerál... Melyiket vegyék le**
 ![]({{site.baseurl}}/images/esokabat.jpg)
 
-"**Hajatokat ne nyírjátok kerekdedre, szakállad végét ne csúfítsd el.**" (bubifrizura off | javasolt idézés: fodrásznál | 3Mózes 19,27)
+"**Hajatokat ne nyírjátok kerekdedre, szakállad végét ne csúfítsd el.**" (bubifrizura off  javasolt idézés: fodrásznál  3Mózes 19,27)
 
 **Csináld csak... maj lesz fogcsikorgatás a pokolban a frizurádért...**
 ![]({{site.baseurl}}/images/haj.jpg)
 
 **Kezeld a migránsokat saját gyermekedként**
 
-"Ha jövevény tartózkodik nálatok, a ti földeteken, ne nyomorgassátok őt. **Olyan legyen nektek a jövevény, aki nálatok tartózkodik, mintha közületek való bennszülött volna, és szeressétek őt, mint magatokat**, mert jövevények voltatok Egyiptom földjén. Én vagyok az ÚR, a ti Istenetek." (hát igen... | javasolt idézés: Jobbik-gyűlésen, CÖF-felvonuláson | 3Mózes 19,33-34 )
+"Ha jövevény tartózkodik nálatok, a ti földeteken, ne nyomorgassátok őt. **Olyan legyen nektek a jövevény, aki nálatok tartózkodik, mintha közületek való bennszülött volna, és szeressétek őt, mint magatokat**, mert jövevények voltatok Egyiptom földjén. Én vagyok az ÚR, a ti Istenetek." (hát igen...  javasolt idézés: Jobbik-gyűlésen, CÖF-felvonuláson  3Mózes 19,33-34 )
 
 **Ugye kimész ide is tüntetni és kommenteled, hogy Isten ellen való?**
 ![]({{site.baseurl}}/images/gyoda.JPG)
 
-"Hat napon át munkálkodjatok, a hetedik napon a nyugalomnak, a **szent gyülekezésnek szombatja van, semmi munkát ne végezzetek**. Az ÚR szombatja legyen az mindenütt, ahol laktok." (nem, kertimunkát se! | javasolt idézés: vasárnaponként - vagy szombaton? | 3Móz 23,3 )
+"Hat napon át munkálkodjatok, a hetedik napon a nyugalomnak, a **szent gyülekezésnek szombatja van, semmi munkát ne végezzetek**. Az ÚR szombatja legyen az mindenütt, ahol laktok." (nem, kertimunkát se!  javasolt idézés: vasárnaponként - vagy szombaton?  3Móz 23,3 )
 
 **Ha ez vasárnap történt, súlyos bűne neki!**
 ![]({{site.baseurl}}/images/kertimunka.jpg)
@@ -74,17 +63,17 @@ Nincs kedvem többet írni erről. Akkor fogom elfogadni, hogy kiemeled a melege
 
 Mondhatod, hogy ez mind régi, ószövetségi... Nézzünk bele az **Újszövetségbe!**
 
-"Hasonlóképpen az asszonyok tisztességes öltözetben, szemérmetesen és mértékletesen ékesítsék magukat, nem hajfonatokkal és arannyal, gyöngyökkel vagy drága ruhával," (ékszerek, szép ruhák viszlát | javasolt idézés: fiatal lányoknak | 1 Timóteus 2,9)
+"Hasonlóképpen az asszonyok tisztességes öltözetben, szemérmetesen és mértékletesen ékesítsék magukat, nem hajfonatokkal és arannyal, gyöngyökkel vagy drága ruhával," (ékszerek, szép ruhák viszlát  javasolt idézés: fiatal lányoknak  1 Timóteus 2,9)
 
 **Akkor ez most istentelen vagy ez még oké?**
 ![]({{site.baseurl}}/images/no.jpg)
 
-"Mert a férfinak nem kell befednie a fejét, mivel ő az Isten képe és dicsősége, de az asszony a férfi dicsősége. Mert nem a férfi van az asszonyból, hanem az asszony a férfiból. Mert nem is a férfi teremtetett az asszonyért, hanem az asszony a férfiért.." (nők, tudjátok a helyetek! | javasolt idézés: otthon abúzált aszonyoknak | 1Kor 11,7-9)
+"Mert a férfinak nem kell befednie a fejét, mivel ő az Isten képe és dicsősége, de az asszony a férfi dicsősége. Mert nem a férfi van az asszonyból, hanem az asszony a férfiból. Mert nem is a férfi teremtetett az asszonyért, hanem az asszony a férfiért.." (nők, tudjátok a helyetek!  javasolt idézés: otthon abúzált aszonyoknak  1Kor 11,7-9)
 
 **Ez ellen is harcolok...**
 ![]({{site.baseurl}}/images/noferfi.JPG)
 
-"Nemde maga a természet is arra tanít-e titeket, hogy szégyen a férfinak, ha hosszú hajat növeszt?" (hosszú hajú férfiak, számíthattok a megítélésünkre!) | javasolt idézés: északi népek férfiainak | 1Kor 11,14)
+"Nemde maga a természet is arra tanít-e titeket, hogy szégyen a férfinak, ha hosszú hajat növeszt?" (hosszú hajú férfiak, számíthattok a megítélésünkre!)  javasolt idézés: északi népek férfiainak  1Kor 11,14)
 
 **Ki akarna magának egy ilyen szégyenletes pasit???**
 ![]({{site.baseurl}}/images/hosszuhaj.JPG)
@@ -118,3 +107,4 @@ Vigyázz, hogy ne légy farizeus.
 [Ágoston László](https://www.facebook.com/agostonlaszloartist) 
 
 **Ne felejtsd el megosztani, ha értesz és egyetértesz!**
+
