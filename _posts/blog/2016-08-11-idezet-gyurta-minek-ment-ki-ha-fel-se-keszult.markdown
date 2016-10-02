@@ -16,6 +16,7 @@ Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (
 "Ha valaki aranyérmet szerez, akkor az folyamatosan kokszol, ha valaki ezüstérmet szerez, akkor az hogy rontotta el a döntőt, ha valaki kiesik, akkor... Hallottam olyat, hogy csak súly a repülőn, akkor meg minek jön ki..." - fakadt ki.
 
 ![]({{ site.baseurl }}/images/olimpikonunk.jpg)
+
 A kép illusztráció
 
 "Otthon senkinek nem felel meg semmi. Nem tudom, hogy ez minek köszönhető. Mi az országot képviseljük, tudása legjavát szeretné szerintem mindenki kiadni, aki itt van. Nyilván van, akinek ez arra elég, hogy három-négy olimpiai bajnoki címet szerezzen, van akinek arra, hogy kijutott..." - fogalmazott.
@@ -27,6 +28,7 @@ A kép illusztráció
 Százhúsz éve egy bajszos francia, valami Pierre de Coubertin mondta ezt és a "gyorsabban, magasabban, erősebben" mellett ez lett az olimpia másik jelmondata. Utóbbit Béla a kávézóban nagyon jól ismeri. Baromi büszke arra, hogy Magyarország ötödik az éremtáblán, nálunk tízszer nagyobb országok között állunk. De az elsőt nem értette meg. Hogy ez az egész elsősorban arról szólna, hogy országok képviselői (igen, még a Menekült-válogatott is!) részt vesznek együtt egy közös versengésen és a győztesek gratulálnak a veszteseknek, a vesztesek pedig emelt fővel térnek haza. **Ez nem VB, nem EB, nem Roland Garros. Ez az Oliimpia.** Ez lenne a lényege.
 
 _Mi az Olimpia? Ez._
+
 ![]({{ site.baseurl }}/images/koreai2.jpg)
 
 Béla azon csámcsog, ha valaki győz, hogy ő [35 milliót és életjáradékot kap](http://www.origo.hu/olimpia-2016/hirek/20160728-rioi-olimpia-dijazas-eletjaradek-olimpia-mob-penzdij.html), amíg Gizi néninek nincsen pénze csirkefarhátra. Ha nem győz, akkor cserbenhagyta a szurkolókat, azt gondolja, csak magáért indult? Azt számolgatja, hogy **hányan ünnepelték a focistákat** és milyen egy szar nemzet ez a magyar, mert most nincsen karnevál az utcákon (ha lenne, az lenne a baj, hogy nem tud aludni és Fifikét, a kutyáját zavarja az óbégatás).
@@ -36,6 +38,7 @@ Béla azon csámcsog, ha valaki győz, hogy ő [35 milliót és életjáradékot
 **Mohamed Aidának** szurkol, de minden muszlimot terroristának tart. Az ötszörös bajnok **Keleti** (született: **Klein**) **Ágnes** rekordját döntheti meg Katinka - micsoda sportolók! -, de képes a **Hajós Alfréd**ról (született:**Guttmann Arnold**) elnevezett uszodában magyarázni a mocskos zsidókról.
 
 _A Google kereső kiadja a leggyakoribb korábbi kereséseket egy adott kifejezésre_
+
 ![]({{ site.baseurl }}/images/shane.jpg)
 
 És így tovább. Az a baj, hogy **az a társadalom, amelyikben hétköznapi a gyűlölet, az Olimpiát se tudja máshogy megélni.**
