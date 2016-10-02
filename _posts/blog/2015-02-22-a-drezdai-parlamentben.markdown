@@ -10,7 +10,7 @@ categories: blog
 tags: [életrajz, Kodály]
 ---
 
-![]({{ site.baseurl }}/images/DrezdaiParlament.JPG)
+![]({{ site.baseurl }}/images/DrezdaiParlament.jpg)
 
 Ha a Zeneakadémián csináltam volna meg ezt, valszeg elkaszálnak...
 
