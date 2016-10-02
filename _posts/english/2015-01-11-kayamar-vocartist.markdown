@@ -6,8 +6,7 @@ author: agoston_laszlo
 excerpt: "'What a voice! What a harmonist! What a humorist! Very funny and quite beautiful too. A lovely layering of voices and eclectic in it’s references. Outstanding.' (Brian Eno producer of U2, Coldplay, Talking Heads and many more, about Kayamar on the official page of Noise Festival) "
 category: english
 ---
-"What a voice! What a harmonist! What a humorist! Very funny and quite beautiful too. A lovely layering of voices and eclectic in it’s references. Outstanding."
-(Brian Eno producer of U2, Coldplay, Talking Heads and many more, about Kayamar href="http://www.noisefestival.com/user/kayamar/work/kayamar-wind-song-medley">on the official page of Noise Festival) 
+"What a voice! What a harmonist! What a humorist! Very funny and quite beautiful too. A lovely layering of voices and eclectic in it’s references. Outstanding." - (Brian Eno producer of U2, Coldplay, Talking Heads and many more, about Kayamar href="http://www.noisefestival.com/user/kayamar/work/kayamar-wind-song-medley">on the official page of Noise Festival) 
  
 ![]({{site.baseurl}}/images/viktor.jpg)
 
