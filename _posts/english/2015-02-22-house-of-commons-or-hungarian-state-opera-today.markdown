@@ -6,6 +6,6 @@ author: agoston_laszlo
 excerpt: "Today I'd have had to attend two very important events at the same time. My client, Kayamar (Viktor Magyaróvári), has been highly rated as a Curator Choice by Brian Eno for NOISE Festival 2014. This is being announced in London, the House of Commons right now. Unfortunately I couldn't make it out as the Hungarian State Opera announced our series from Haydn's L'isola disabitata at 11 am in Budapest. This autumn starts well"
 category: english
 ---
-![]({{ site.baseurl }}/images/house_of_commons.jpg")
+![]({{ site.baseurl }}/images/house_of_commons.jpg)
 
 Today I'd have had to attend two very important events at the same time. My client, Kayamar (Viktor Magyaróvári), "has been highly rated as a Curator Choice by Brian Eno for NOISE Festival 2014". Mr. Eno has already worked with such renowned artists as David Bowie, David Byrne, the Talking Heads, the U2-va (produced 7 albums), the Coldplay, the Depeche Mode or Paul Simon. This is being announced in London, the House of Commons right now. Unfortunately I couldn't make it out as the Hungarian State Opera announced our series from Haydn's "L'isola disabitata" at 11 am in Budapest. This autumn starts well.
