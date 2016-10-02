@@ -11,7 +11,7 @@ tags: [robbantás, muszlim, gyűlölet]
 
 A cikk a korábbi _"Fogom-e végre gyűlölni a muzulmánokat, ha robbantás lesz az EB-n?"_ című írás frissített változata.
 
-![]({{ site.baseurl }}/images/aranykez.jpg))
+![]({{ site.baseurl }}/images/aranykez.jpg)
 _Az Aranykéz utca 1998. július 2-án_
 
 Gondolatkísérletünket kezdjük azzal, hogy megvizsgáljuk, mi történne, ha Magyarországon is robbantanának.
