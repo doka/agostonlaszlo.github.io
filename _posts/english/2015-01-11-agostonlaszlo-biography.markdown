@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "László Ágoston was born in 1986 in Budapest. His parents are intellectuals: his mother is a teacher, his father (László T. Ágoston) is a writer. Although he has always been attracted by the theatre, he obtained a lot of prizes in various school competitions of literature or script- and film-writing. At the age of 17, he was..."
 category: english
 ---
-ászló Ágoston was born in 1986 in Budapest. His parents are intellectuals: his mother is a teacher, his father ( [László T. Ágoston](http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3) is a writer. 
+László Ágoston was born in 1986 in Budapest. His parents are intellectuals: his mother is a teacher, his father ( [László T. Ágoston](http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3) is a writer. 
 Although he has always been attracted by the theatre, he obtained a lot of prizes in various school competitions of literature or script- and film-writing. At the age of 17, he was already given a Kaleidoscope Prize, a Radnóti Diploma (both for declamation) and two Vörösmarty Medals (for performer’s excellence). However, instead of pursuing his studies at the University of Theatre and Film Arts and becoming an actor, unexpectedly he decided to study opera singing at Franz Liszt Academy of Music. At this very moment he started to study classical with full energy with the vocal coach Lujza H. Németh and [Rita Széll](http://lfze.hu/oktatok/-/asset_publisher/exVsliQos2qD/content/szell-rita/10192")(solfege and music theory).
 
 ![]({{ site.baseurl }}/images/bkf-agoston-laszlo.jpg)
@@ -23,7 +23,7 @@ After Moltopera's debut in the Hungarian State Opera singing Enrico's role in an
 
 In the academic year of 2010-2011 he was elected as head of the students’ representative council and changed profoundly its operational methods. The university’s monthly paper ‘Figaro’ appeared for the first time during his leadership. During 2012 and 2013 he was the secretary general of Jeunesses Musicales Hungary, and he has been the president of the [PerspektivArt Association](http://www.perspektivart.hu/) since its founding in 2013.
 
-![hok-agoston-laszlo.jpg]({{ site.baseurl }}/images/hok-agoston-laszlo.jpg")
+![]({{ site.baseurl }}/images/hok-agoston-laszlo.jpg")
 
 At the general assembly of the students’ council in 2011 (by Péter Herman)
 
