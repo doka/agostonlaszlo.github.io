@@ -8,7 +8,7 @@ categories: blog
 tags: [Rákóczi Balázs, Operaház, évadkampány]
 ---
 
-![]({{ site.baseurl }}/images/aliya.jpg)
+![]({{ site.baseurl }}/images/aliya.JPG)
 
 Rákóczi Balázs kollégámmal azt a feladatot kaptuk, hogy készítsünk valami igazán szép online aktivitást az Operaház 2015-ös évadkampányára. Azt találtuk ki, hogy a hagyományosan gyönyörű plakátokat próbáljuk meg jobban bemutatni és az értelmezésükhöz - egyben a jövő évad megismeréséhez - is segítséget nyújtunk egy játékkal. Így született meg az [elso.opera.hu](http://elso.opera.hu) illetve a játék folytatásaként az [elsosorban.opera.hu](http://elsosorban.opera.hu)
 
