@@ -33,6 +33,7 @@ Mi a megoldás?
 
 Hol kezdjük? Keressük egymást a nagy "értelmiségi szétszóratásban" Babilon falai között és beszélgessünk. Tanuljuk meg úja, milyen meghallgatni a másikat és elismerni az "ellenfél" értékeit.
 Szinte pédátlan itthon. Pedig nem is annyira nehéz.
+
 **Ha tetszett az írás és egy lájkkal feliratkoznál az oldalamra, itt teheted meg:**
 [Ágoston László](https://www.facebook.com/agostonlaszloartist)
 
