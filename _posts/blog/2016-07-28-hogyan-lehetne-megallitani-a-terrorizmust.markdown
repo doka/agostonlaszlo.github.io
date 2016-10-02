@@ -29,7 +29,7 @@ Ezzel együtt van pár ötletem, ami biztosan kivitelezhető lenne, mégsem tesz
 
 a, Internet. Adj három embert és két hét alatt feltérképezzük az összes olyan szervert a világon, amelyiken bombakészítéshez való leírások találhatók. Ezeket kormányközi szinten letiltani, hackerekkel szétszedni, elérhetetlenné tenni, vagy ami még aljasabb, olyan szinten beleírni, hogy ne vegyék észre, de a bombák besüljenek. Szerintem egyetlen rakéta árából meg lehet csinálni. Főleg, hogy össze lehetne fogni például az Anonimusszal vagy hozzáértő magánszemélyekkel... ez a 21. század!
 
-![]({{site.baseurl}}/https://drive.google.com/open?id=0B8_GBDEhwDIvZnFNaU54V1BLQ1E)
+![]({{ site.baseurl }}/images/haacker.jpg)
 
 b, Közösségi média. Ne röhögtessetek, hogy egy Facebook, egy Twitter, egy Youtube ki tudja szűrni, ha én feltettem egy videófordítást, ami jogdías, de az ISIS propaganda-anyagait nem sikerül leszedniük. Ha elvennénk a láthatóságukat, nem lenne kedve senkinek se támogatni őket. Eljelentéktelenednének. Ja igen, ha valaki feltesz egy ISIS-éltető videót azonnal nyomozást indítanék ( srácok, ezek nem profi hackerek, aki VPN-nel, fejlett titkosítással kommunikálnak...) és törölném az accountot.
 
@@ -43,17 +43,18 @@ Sok pénzt nekik. Mármint [nem a vicces-látszat TEK-nek](http://index.hu/belfo
 
 Az EU-nak ha lenne értelmes vezetése, most megláthatná a politikai potenciált a közös ellenségben. Ennek a fenyegetésnek a mentén be lehetne vezetni olyan az egységet növelő reformokat, amiket "békehelyzetben" nem. Ehelyett most üt vissza, hogy nemzetközi politikustemetőnek használták az Európai Parlamentet, ahová lejárt szavatosságú pártkatonák kerültek. A fene se csodálkozik, hogy nem tudnak mit kezdeni a dologgal, sőt... túl vagyunk egy Brexit-szavazáson és elkezdtünk szétesni. Putyin meg töltött még egy pohárral...
 
-![Politikustemető...]({{site.baseurl}}/https://drive.google.com/open?id=0B8_GBDEhwDIvTEdxM1V6ZzE3SzA)
+![]({{ site.baseurl }}/images/juncker.JPG)
+_Politikustemető..._
 
 **4, Katonai megoldás - béketeremtés**
 
 Ehhez aztán végképp nem értek. Szíriában több az erővonal, mint egy szabásmintán az öltés... De azt mindenki tudja, hogy a "menekültből" akkor lesz legegyszerűbben "polgár", ha visszatérhet a hazájába. Ha ezt nem tudjuk megcsinálni, oszlassuk már fel az ENSZ-t, mert egy vicces kis kiáltvány-fogalmazó homokozóvá vált... Európa pedig legyen olyan drága és találja meg elveszett férfiasságát.
 
-![]({{site.baseurl}}/https://drive.google.com/open?id=0B8_GBDEhwDIvbk5CZDMxMEljTEU)
+![]({{ site.baseurl }}/images/plakat4.JPG)
 
 **5, Hagyjuk már a rövidtávú politikai haszonszerzést!**
 
-Addig, amíg európai/amerikai politikusok kampányokban tudják hülyíteni a népet és a saját szavazataik gyűjtésére / botrányaik takargatására használják a terrorizmust, ne számítsunk jobbra. Orbánnak érdeke, hogy legyenek robbantások és ő csinálhasson szép kamuképeket, ahogy összeül a válságstábbal, kivezényli a TEK-es harckocsit a reptérre (milyen bölcs és hasznos!) és kemény kézzel védi a Hazát az<span style="text-decoration: line-through;"> imperialista sötétben bújkáló ellenforradalmárok migránssimogató liberális ellenség ellen, egyenes vérvonalat teremtve valahogy maga és Szent István valamint Hunyadi János közöttl. Amíg ez így van, ne csodálkozzunk, ha nem történnek meg az előbbiek.
+Addig, amíg európai/amerikai politikusok kampányokban tudják hülyíteni a népet és a saját szavazataik gyűjtésére / botrányaik takargatására használják a terrorizmust, ne számítsunk jobbra. Orbánnak érdeke, hogy legyenek robbantások és ő csinálhasson szép kamuképeket, ahogy összeül a válságstábbal, kivezényli a TEK-es harckocsit a reptérre (milyen bölcs és hasznos!) és kemény kézzel védi a Hazát az *imperialista sötétben bújkáló ellenforradalmárok migránssimogató liberális ellenség* ellen, egyenes vérvonalat teremtve valahogy maga és Szent István valamint Hunyadi János közöttl. Amíg ez így van, ne csodálkozzunk, ha nem történnek meg az előbbiek.
 
 De mi ettől még maradhatnánk emberek...
 
