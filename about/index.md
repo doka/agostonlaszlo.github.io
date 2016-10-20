@@ -1,38 +1,52 @@
 ---
-layout: post
 title: "Életrajz"
-date: 2015-01-11 22:33:07.000000000 +00:00
-author: agoston_laszlo
-excerpt: "Ágoston László értelmiségi szülők gyermekeként (édesanyja tanítónő, édesapja T. Ágoston László író) látta meg a napvilágot 1986-ban Budapesten. Bár leginkább mindvégig a színpad világa vonzotta, emellett sikerrel vett részt sokféle megmérettetésen a tanulmányi versenyektől az irodalmi-, forgatókönyvíró- és filmpályázatokig. Tizenhét éves korára ..."
+published: true
+layout: post
+date: 2015-01-11 22:49:46.000000000 +00:00
 category: about
 tags: [életrajz]
 ---
-<p>Ágoston László értelmiségi szülők gyermekeként&nbsp;(édesanyja tanítónő, édesapja <a href="http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3" target="_blank">T. Ágoston László</a>&nbsp;író) látta meg a napvilágot 1986-ban Budapesten. Bár leginkább mindvégig a színpad világa vonzotta, emellett sikerrel vett részt sokféle megmérettetésen&nbsp;a tanulmányi versenyektől&nbsp;az irodalmi-, forgatókönyvíró- és filmpályázatokig. Tizenhét éves korára Kaleidoszkóp-díjas, Radnóti-diplomás, kétszeres Vörösmarty-emlékérmes előadóművész, de egy váratlan döntéssel mégis a Színház- és Filmművészeti Egyetem - és így a színészi pálya - helyett a Zeneakadémia és az operaéneklés mellett döntött. Ekkor kezdett el mindent alárendelve komolyzenét tanulni H. Németh Lujza (ének) és <a href="http://lfze.hu/oktatok/-/asset_publisher/exVsliQos2qD/content/szell-rita/10192" target="_blank">Széll Rita </a>(szolfézs-zeneelmélet) tanítványaként.&nbsp;</p>
-<p>&nbsp;</p>
-<p style="text-align: center;"><img src="http://agostonlaszlo.hu/kepek/bkf-agoston-laszlo.jpg" alt="" style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;" /><em style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;">A Don Giovanni - avagy kivel fekszel le című egyetemi előadáson (fotó: Benkő Molnár Fanni)</em></p>
-<p style="text-align: center;">&nbsp;</p>
-<p>A művészeti képzés mellett párhuzamosan a Budapesti Kommunikációs és Üzleti Főiskolán tanult újságírás-marketing, PR szakpáron, ahova az elérhető maximális pontszámmal vették fel. Itt a két diploma mellett Tudományos Diákkonferencia-győzelmet és Országos Tudományos Diákkonferencia - különdíjat szerzett "Zene a reklámban - reklám a zenében" című tanulmányával, amelyet később a Média és Kommunikáció című szakmai folyóirat is közölt. Elnyerte a&nbsp;Köztársasági ösztöndíjat, tanulmányai végeztével képe felkerült a <a href="http://www.bkf.hu/okisbkfesek/agoston-laszlo" target="_blank">főiskola dicsőségfalára</a>.&nbsp;</p>
-<p>&nbsp;</p>
-<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"><img src="http://agostonlaszlo.hu/images/Norbert-Lammert.JPG" alt="Norbert Lammert" style="display: block; margin-right: auto;" /></p>
-<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;"><em>Norbert Lammerttel, a Bundestag elnökével&nbsp;<em style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;">a drezdai parlamentben, a</em>&nbsp;Moltopera németországi debütálása után&nbsp;</em></p>
-<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;">&nbsp;</p>
-<p>2008-ban elsőre sikerrel felvételizett a Liszt Ferenc Zeneművészeti Egyetem magánének tanszakára, ahol diplomájáig <a href="http://opera.hu/hu/koncert/tarsulat/szemely/Solyom-Nagy_Sandor" target="_blank">Sólyom-Nagy Sándor</a> tanítványa volt. Részt vett <a href="http://www.martoneva.hu/" target="_blank">Marton Éva</a> workshopján és <a href="http://hu.wikipedia.org/wiki/Polg%C3%A1r_L%C3%A1szl%C3%B3_%28opera%C3%A9nekes%29" target="_blank">Polgár László</a> kurzusán is.&nbsp;Az egyetemi évek alatt számos koncerten vett részt szólistaként, többek közt az Új Liszt Ferenc Kamarakórus és az Alma Mater kórus hangversenyein <a href="http://www.bacstudastar.hu/erdei-peter" target="_blank">Erdei Péter</a>,&nbsp;a grazi kórusolimpián aranyéremmel jutalmazott Kocsis-Holper Zoltán vagy a Lantos Rezső-díjas Tőri Csaba vezényletével. Több alkalommal kérték fel közreműködésre az Operavizsgákon.</p>
-<p>&nbsp;</p>
-<p>A 2010/11-es tanévben a Hallgatói Önkormányzat elnökeként tevékenykedett. Ebben az évben alapjaiban változtatta meg a hallgatói érdekképviselet rendszerét és nevéhez fűződik az azóta is havi rendszerességgel megjelenő <a href="http://agostonlaszlo.hu/tar/figaro-2010-11.pdf" target="_blank" title="A Figaro első száma"><em>Figaro</em></a> című lap elindítása. 2011-2013 közt töltötte be a Jeunesses Musicales Hungary főtitkári pozícióját, 2013-as alapítása óta a <a href="http://www.perspektivart.hu" target="_blank">PerspektivArt Egyesület</a>&nbsp;elnöke.</p>
-<p>&nbsp;</p>
-<p style="text-align: center;"><img src="http://agostonlaszlo.hu/kepek/hok-agoston-laszlo.jpg" alt="" /><br /><em>A Hallgatói Önkormányzat közgyűlésén 2011-ben (fotó: Herman Péter)</em></p>
-<p>&nbsp;</p>
-<p>Egyetemi tanulmányai befejeztével kezdett a <a href="http://www.moltopera.hu" target="_blank">Moltopera</a>&nbsp;szervezésébe,&nbsp;azzal a céllal, hogy fiatal énekesekkel vigye közel az opera műfaját a fiatal korosztályhoz&nbsp;- akár korábban elképzelhetetlen helyszíneken is. Emellett fiatal tehetségek személyes menedzsmentjébe is kezdett, közülük Kayamar már több hazai és nemzetközi sikereket is elért. A Moltopera kommunikációs sikerei nyomán került a Magyar Állami Operaház látókörébe, 2012 és 2015 között volt a legnagyobb magyar kulturális intézmény online marketing tanácsadója. 2014 óta&nbsp;<span style="font-size: 12.16px; line-height: 15.808px;">a Budapesti Kommunikációs&nbsp;és Üzleti Főiskola rendszeres óraadója.</span></p>
-<p>&nbsp;</p>
-<p style="text-align: center;"><img src="http://agostonlaszlo.hu/kepek/marketing-agoston-laszlo.jpg" alt="" /><em>Az Operaház évadnyitó sajtótájékoztatója után (fotó: Operaház)</em></p>
-<p>&nbsp;</p>
-<p>Rendszeresen tart gimnáziumi és&nbsp;egyetemi előadásokat a komolyzene megismertetésére,&nbsp;sorozatát Magyarországon meghirdette már többek közt a Semmelweis Orvostudományi Egyetem, az Eötvös Loránd Tudományegyetem, a Budapesti Műszaki Egyetem és a Budapesti Corvinus Egyetemis , <a href="http://moltopera.hu/hu/zerlina-meglovagolja-giovannit" target="_blank">külföldön Európai Uniós finanszírozással a Moltopera Németország szervezésében Görlitz környéki iskolákban</a>, 2015 októberében Angliában a nagy hírű durhami egyetemen és Manchesterben mutatta be fiatalok százai előtt. 2012 óta rendszeres fellépője a Sziget Fesztiválnak.</p>
-<p>&nbsp;<span style="font-size: 12.1599998474121px; line-height: 1.3em;"></span></p>
-<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"><img src="http://agostonlaszlo.hu/kepek/moltopera-agoston-laszlo.jpg" alt="" /></p>
-<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;"><em>A Moltopera operaházi debütálásakor Enrico szerepében (fotó: Angeles Parrinello)</em></p>
-<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px; text-align: center;">&nbsp;</p>
-<p>A Moltoperában <strong>énekesként</strong> a védjegyévé vált különleges konferálás-moderálás mellett legtöbbször csak kisebb szerepeket vállal (J. Strauss: A denevér - Blind; G. Puccini: Bohémélet - Alcindoro; G. Menotti: A telefon - Ben), de különleges bravúr volt és a kritikusok egyöntetű elismerését érdemelte ki 2014. november 23-i beugrása az Operaházban Haydn A lakatlan sziget című operájában, amelyre Enrico szerepét a megbetegedő énekes helyett kevesebb mint 36 óra alatt tanulta meg. <strong>Rendezőként</strong> jegyzi a Bohémélet, A denevér, A telefon és a Parasztbecsület című ifjúsági előadásokat a Pécsi Nemzeti Színházban illetve számos gálakoncertet különböző helyszíneken. Jellegzetes, interaktív, összekacsintós, meghökkentő-provokatív <strong>konferanszai</strong> a Moltopera&nbsp;előadásainak elmaradhatatlan elemei.</p>
-<p>&nbsp;</p>
-<p style="text-align: center;"><img src="http://agostonlaszlo.hu/kepek/konferalas-agoston-laszlo.jpg" alt="" /><em>Ágoston László interaktív konferansza A lakatlan sziget előadásán az Operaházban (fotó: Mike Deere)</em></p>
-<p style="text-align: center;">&nbsp;</p>
-<p>{SCOpenGraph image=http://agostonlaszlo.hu/kepek/bkf-agoston-laszlo.jpg} {SCOpenGraph title=Ágoston László életrajza}&nbsp;</p>
+Ágoston László értelmiségi szülők gyermekeként(édesanyja tanítónő, édesapja [T. Ágoston László](http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3) író) látta meg a napvilágot 1986-ban Budapesten.
+
+Bár leginkább mindvégig a színpad világa vonzotta, emellett sikerrel vett részt sokféle megmérettetésena tanulmányi versenyektőlaz irodalmi-, forgatókönyvíró- és filmpályázatokig. Tizenhét éves korára Kaleidoszkóp-díjas, Radnóti-diplomás, kétszeres Vörösmarty-emlékérmes előadóművész, de egy váratlan döntéssel mégis a Színház- és Filmművészeti Egyetem - és így a színészi pálya - helyett a Zeneakadémia és az operaéneklés mellett döntött. Ekkor kezdett el mindent alárendelve komolyzenét tanulni H. Németh Lujza (ének) és [Széll Rita](http://lfze.hu/oktatok/-/asset_publisher/exVsliQos2qD/content/szell-rita/10192) (szolfézs-zeneelmélet) tanítványaként.
+
+![bkf-agoston-laszlo.jpg]({{site.baseurl}}/images/bkf-agoston-laszlo.jpg)
+
+
+A Don Giovanni - avagy kivel fekszel le című egyetemi előadáson (fotó: Benkő Molnár Fanni)
+
+A művészeti képzés mellett párhuzamosan a Budapesti Kommunikációs és Üzleti Főiskolán tanult újságírás-marketing, PR szakpáron, ahova az elérhető maximális pontszámmal vették fel. Itt a két diploma mellett Tudományos Diákkonferencia-győzelmet és Országos Tudományos Diákkonferencia - különdíjat szerzett "Zene a reklámban - reklám a zenében" című tanulmányával, amelyet később a Média és Kommunikáció című szakmai folyóirat is közölt. Elnyerte aKöztársasági ösztöndíjat, tanulmányai végeztével képe felkerült a [főiskola dicsőségfalára](http://www.bkf.hu/okisbkfesek/agoston-laszlo).
+
+![Norbert-Lammert.JPG]({{site.baseurl}}/_posts/Norbert-Lammert.JPG)
+
+
+Norbert Lammerttel, a Bundestag elnökével a drezdai parlamentben, a Moltopera németországi debütálása után
+
+2008-ban elsőre sikerrel felvételizett a Liszt Ferenc Zeneművészeti Egyetem magánének tanszakára, ahol diplomájáig [Sólyom-Nagy Sándor](http://opera.hu/hu/koncert/tarsulat/szemely/Solyom-Nagy_Sandor) tanítványa volt. Részt vett  [Marton Éva](http://www.martoneva.hu/) workshopján és [Polgár László](http://hu.wikipedia.org/wiki/Polg%C3%A1r_L%C3%A1szl%C3%B3_%28opera%C3%A9nekes%29) kurzusán is.
+Az egyetemi évek alatt számos koncerten vett részt szólistaként, többek közt az Új Liszt Ferenc Kamarakórus és az Alma Mater kórus hangversenyein [Erdei Péter](http://www.bacstudastar.hu/erdei-peter) a grazi kórusolimpián aranyéremmel jutalmazott Kocsis-Holper Zoltán vagy a Lantos Rezső-díjas Tőri Csaba vezényletével. Több alkalommal kérték fel közreműködésre az Operavizsgákon.
+
+A 2010/11-es tanévben a Hallgatói Önkormányzat elnökeként tevékenykedett. Ebben az évben alapjaiban változtatta meg a hallgatói érdekképviselet rendszerét és nevéhez fűződik az azóta is havi rendszerességgel megjelenő [Figaro](http://agostonlaszlo.hu/tar/figaro-2010-11.pdf) című lap elindítása. 2011-2013 közt töltötte be a Jeunesses Musicales Hungary főtitkári pozícióját, 2013-as alapítása óta a [PerspektivArt Egyesület](http://www.perspektivart.hu) elnöke.
+
+![hok-agoston-laszlo.jpg]({{site.baseurl}}/_posts/hok-agoston-laszlo.jpg)
+
+A Hallgatói Önkormányzat közgyűlésén 2011-ben (fotó: Herman Péter)
+
+Egyetemi tanulmányai befejeztével kezdett a [Moltopera](http://www.moltopera.hu) szervezésébe, azzal a céllal, hogy fiatal énekesekkel vigye közel az opera műfaját a fiatal korosztályhoz- akár korábban elképzelhetetlen helyszíneken is. Emellett fiatal tehetségek személyes menedzsmentjébe is kezdett, közülük Kayamar már több hazai és nemzetközi sikereket is elért. A Moltopera kommunikációs sikerei nyomán került a Magyar Állami Operaház látókörébe, 2012 és 2015 között volt a legnagyobb magyar kulturális intézmény online marketing tanácsadója. 2014 óta a ## Budapesti Kommunikációsés Üzleti Főiskola rendszeres óraadója.
+
+![marketing-agoston-laszlo.jpg]({{site.baseurl}}/_posts/marketing-agoston-laszlo.jpg)
+
+
+Az Operaház évadnyitó sajtótájékoztatója után (fotó: Operaház)
+
+Rendszeresen tart gimnáziumi ésegyetemi előadásokat a komolyzene megismertetésére,sorozatát Magyarországon meghirdette már többek közt a Semmelweis Orvostudományi Egyetem, az Eötvös Loránd Tudományegyetem, a Budapesti Műszaki Egyetem és a Budapesti Corvinus Egyetemis , külföldön [Európai Uniós finanszírozással a Moltopera Németország szervezésében Görlitz környéki iskolákban](http://moltopera.hu/hu/zerlina-meglovagolja-giovannit), 2015 októberében Angliában a nagy hírű durhami egyetemen és Manchesterben mutatta be fiatalok százai előtt. 2012 óta rendszeres fellépője a Sziget Fesztiválnak.
+
+![moltopera-agoston-laszlo.jpg]({{site.baseurl}}/_posts/moltopera-agoston-laszlo.jpg)
+
+A Moltopera operaházi debütálásakor Enrico szerepében (fotó: Angeles Parrinello)
+
+A Moltoperában **énekesként** a védjegyévé vált különleges konferálás-moderálás mellett legtöbbször csak kisebb szerepeket vállal (J. Strauss: A denevér - Blind; G. Puccini: Bohémélet - Alcindoro; G. Menotti: A telefon - Ben), de különleges bravúr volt és a kritikusok egyöntetű elismerését érdemelte ki 2014. november 23-i beugrása az Operaházban Haydn A lakatlan sziget című operájában, amelyre Enrico szerepét a megbetegedő énekes helyett kevesebb mint 36 óra alatt tanulta meg. **Rendezőként** jegyzi a Bohémélet, A denevér, A telefon és a Parasztbecsület című ifjúsági előadásokat a Pécsi Nemzeti Színházban illetve számos gálakoncertet különböző helyszíneken. Jellegzetes, interaktív, összekacsintós, meghökkentő-provokatív **konferanszai** a Moltoperaelőadásainak elmaradhatatlan elemei.
+
+![konferalas-agoston-laszlo.jpg]({{site.baseurl}}/_posts/konferalas-agoston-laszlo.jpg)
+
+
+Ágoston László interaktív konferansza A lakatlan sziget előadásán az Operaházban (fotó: Mike Deere)
