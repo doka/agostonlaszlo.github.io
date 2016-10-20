@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Rólam"
 search_omit: true
 ---
