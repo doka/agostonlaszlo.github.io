@@ -10,7 +10,7 @@ tags: [életrajz]
 
 Bár leginkább mindvégig a színpad világa vonzotta, emellett sikerrel vett részt sokféle megmérettetésena tanulmányi versenyektőlaz irodalmi-, forgatókönyvíró- és filmpályázatokig. Tizenhét éves korára Kaleidoszkóp-díjas, Radnóti-diplomás, kétszeres Vörösmarty-emlékérmes előadóművész, de egy váratlan döntéssel mégis a Színház- és Filmművészeti Egyetem - és így a színészi pálya - helyett a Zeneakadémia és az operaéneklés mellett döntött. Ekkor kezdett el mindent alárendelve komolyzenét tanulni H. Németh Lujza (ének) és [Széll Rita](http://lfze.hu/oktatok/-/asset_publisher/exVsliQos2qD/content/szell-rita/10192) (szolfézs-zeneelmélet) tanítványaként.
 
-![bkf-agoston-laszlo.jpg]({{site.baseurl}}/_posts/bkf-agoston-laszlo.jpg)
+![bkf-agoston-laszlo.jpg]({{site.baseurl}}/images/bkf-agoston-laszlo.jpg)
 
 
 A Don Giovanni - avagy kivel fekszel le című egyetemi előadáson (fotó: Benkő Molnár Fanni)
