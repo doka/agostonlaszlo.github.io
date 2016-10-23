@@ -10,7 +10,7 @@ categories: blog
 tags: [homoszexualitás, balkezesség, egyház]
 ---
 
-![](http://www.agostonlaszlo.hu/images/konyv-valasz.jpg)
+![]({{site.baseurl}}/images/konyv-valasz.jpg)
 
 Hír: "Darázsfészekbe nyúlt a Szent István Társulat: kiadta azt a könyvet, amelynek szerzője szerint a homoszexualitás nem egyirányú utca." [(valasz.hu)] (http://valasz.hu/itthon/megelozni-a-homoszexualitast-a-magyar-katolikus-kiado-tabudonto-konyve-120970)
 
