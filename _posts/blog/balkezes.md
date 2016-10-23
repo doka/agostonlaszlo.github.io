@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Azok a fránya balkezesek
-date: 2015-01-26 15:08:31.000000000 +00:00
+date: 2016-10-21 15:08:31.000000000 +00:00
 author: agoston_laszlo
-excerpt: ""
+excerpt: " Felőlem bárki lehet balkezes a négy fal között. De ne neveljen két mocskos balkezes gyereket és pláne a közelébe ne menjen az én szép, egészséges jobbkezes gyerekemnek, mert ő is balkezes lesz tőle! Pfuj... Ha a gyerekem bevallaná, hogy balkezes, kitagadnám..."
 categories: blog
 # image:
 # feature: konyv-valasz.jpg
-tags: [életrajz, Szabó Zoltán]
+tags: [homoszexualitás, balkezesség, egyház]
 ---
 
 ![](http://www.moltopera.hu/tar/konyv-valasz.jpg)
