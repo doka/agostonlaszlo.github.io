@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Blog
 search_omit: true
 ---
