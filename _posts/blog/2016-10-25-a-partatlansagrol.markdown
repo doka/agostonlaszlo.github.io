@@ -10,6 +10,8 @@ tags: [demokrácia] [pártatlanság]
 
 Azt mondják, már én se vagyok pártatlan. Képzeld el, hogy látsz két kisfiút, akik közül a nagyobbik leköpi és bántalmazza a kisebbet. Nyilván odamész és helyreteszed a nagyobbikat, igaz? Akkor te melyik gyereknek vagy a kedvelője? Kinek vagy a barátja? A nagyobb azzal védekezik, hogy "De hát évekkel ezelőtt, az óvodában, amikor még ugyanakkorák voltak, a másik kisgyerek köpdöste és rúgdosta őt." Akkor, abban az esetben mit csináltam volna? Akkor is az aggresszort akartam volna megállítani. Az, hogy a másik gyerek bántott valaha, nem jogosít fel, hogy én is szar alak legyek.
 
+![]({{ site.baseurl }}/images/gyerekek.jpg)
+
 Borzasztó, hogy emberek azt hiszik, ha felháborít az egyik kisgyerek viselkedése, azzal elismerem a másikat. Pedig nem. 
 
 Nem pártpreferenciáim, hanem elveim vannak
