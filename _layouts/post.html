@@ -24,7 +24,7 @@
         {% else %}
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
-      </header>
+      </header>  <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
       <footer class="entry-meta">
         {% if page.author %}
           {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
@@ -41,6 +41,9 @@
         {% if page.share %}{% include social-share.html %}{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
       </footer>
+  <p><strong> Tetszett a cikk? Itt lájkolhatod az oldalamat, hogy a következőről se maradj le!</strong></p>
+  <div class="fb-page" data-href="https://www.facebook.com/agostonlaszloartist" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/agostonlaszloartist" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/agostonlaszloartist">Ágoston László</a></blockquote></div>
+
       <div class="entry-content">
         {{ content }}
         {% if site.owner.disqus-shortname and page.comments or site.comments %}
