@@ -25,8 +25,7 @@
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
       </header> 
-      <div class=entry-content> {% include fb-like.html %} <br /></div>
-      <footer class="entry-meta">
+       <footer class="entry-meta">
         {% if page.author %}
           {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
         {% endif %}
@@ -43,6 +42,7 @@
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
       </footer> 
       <div class="entry-content">
+         {% include fb-like.html %} <br />
         {{ content }}
                 {% if site.owner.disqus-shortname and page.comments or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
