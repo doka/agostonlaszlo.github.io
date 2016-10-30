@@ -5,7 +5,7 @@ date: 2016-09-07 15:17:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: Hát milyen Supermant, Batmant vagy Megváltót vár ez az ország, amikor először neki magának kéne megváltoznia? A fejekben, a lelkekben, az elvárásoknak, a másikhoz való viszonyunknak. Ki tehet a többség beidegződése és akarata ellenére?
 categories: blog
-tags: [demokrácia][pártalapítás]
+tags: [demokrácia, pártalapítás]
 ---
 
 Mi mindig mástól várjuk a megoldást. A szovjet/amerikai filmek és a vallásunk is arra nevelt minket, hogy hősökre, megváltókra várjunk. Jön egy ember, egy Batman, egy Superman, egy Katniss vagy várjuk a Messiást, aki majd legyőzi a gonoszt és megharcol értünk, aztán leül Gotham, New York, a Kapitólium vagy Dávid trónjára és igazságos uralmat hoz el.
