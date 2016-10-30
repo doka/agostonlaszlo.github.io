@@ -25,7 +25,7 @@
           <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
       </header> 
-      {% include fb-like.html %} 
+      {% include fb-like.html %} <br />
       <footer class="entry-meta">
         {% if page.author %}
           {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
@@ -48,6 +48,7 @@
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
         {% endif %}
+        {% include fb-like.html %}
         <p><strong> Tetszett a cikk? Itt lájkolhatod az oldalamat, hogy a következőről se maradj le!</strong></p>
   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist&tabs&width=340&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=1705794036358179" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
