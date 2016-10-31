@@ -15,7 +15,7 @@ Sokat gondolkodtam azon, hogy lefordítsam-e ezt a videót. Szerintem van gondol
 
 De ha ezek tanult dolgok, akkor tudatosan lehet tenni is ellene, nem?
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist%2Fvideos%2F887316128039153%2F&show_text=0" width="100%" height="315"  style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist%2Fvideos%2F887316128039153%2F&show_text=0" width="100%" height="100%"  style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Másrészt ezt a lelket egy olyan testbe zárta a teremtő, amit nem sokan irigyelnének el tőle. Ő mégsem kesereg és azt mondja, hogy bármit meg tud oldani. Van ennek egy nagy üzenete, a 102 kilós, harmincéves, egészséges férfi számára is, aki nagyon el tud kenődni olyan dolgokon, amikért viszonylag könnyen tehetne...
 
