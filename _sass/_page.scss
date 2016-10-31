@@ -101,7 +101,7 @@ span + .entry-title {
 	@include font-size(20,yes,20);
 	font-weight: 400;
 	line-height: 1;
-	letter-spacing: -3px;
+	/*letter-spacing: -3px;*/
 
 	a {
 		color: $black;
