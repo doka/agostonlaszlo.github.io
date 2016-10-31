@@ -69,16 +69,25 @@
   }
 
   li {
-    display: inline-block;
+    display: block;
     margin-bottom: 0;
 
-  
+    &:before {
+      content: "";
+    }
+
+    &:first-child {
+
+      &:before {
+        content: "";
+      }
 
       a {
         padding-left: 0;
       }
     }
   }
+}
 
 /* page title */
 
