@@ -1,6 +1,0 @@
----
-layout: none
-permalink: .htaccess
----
-RewriteEngine On
-Redirect 301 http://www.agostonlaszlo.hu/hu/blog/44-budapestpridel.html http://www.agostonlaszlo.hu/blog/budapestpride
