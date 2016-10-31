@@ -30,6 +30,7 @@ sass:
   style: compressed
 gems:
   - github-pages
+  - jekyll-redirect-from
 
 kramdown:
   input: GFM
