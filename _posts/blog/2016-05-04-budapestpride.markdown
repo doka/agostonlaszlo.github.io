@@ -6,6 +6,7 @@ author: agoston_laszlo
 excerpt: "2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla."
 categories: blog
 tags: [Budapest Pride, LMBTQ]
+redirect_from: "http://agostonlaszlo.hu/hu/blog/44-budapestpride"
 ---
 2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla.
 
