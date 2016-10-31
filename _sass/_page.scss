@@ -70,17 +70,17 @@
 
   li {
 	  
-    /*display: inline-block;
+    display: inline-block;
     margin-bottom: 0;
 
-    /*&:before {
+     *&:before {
       content: "\2022";
     }
 
     &:first-child {
 
       &:before {
-        content: "";*/
+        content: "";
       }
 
       a {
@@ -363,4 +363,9 @@ span + .entry-title {
 	tr, td, th {
 		vertical-align: middle;
 	}
+}
+
+.kepala {
+   text-align: middle;
+   font-style: italic;
 }
