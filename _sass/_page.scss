@@ -98,7 +98,7 @@ span + .entry-title {
 .entry-title {
 	font-family: $alt-font;
 	font-style: italic;
-	@include font-size(20,yes,20);
+	@include font-size(25,yes,30);
 	font-weight: 400;
 	line-height: 1;
 	/*letter-spacing: -3px;*/
@@ -109,7 +109,7 @@ span + .entry-title {
 	}
 
 	@include media($medium) {
-		@include font-size(30,yes,34);
+		@include font-size(35,yes,38);
 	}
 
 	@include media($large) {
