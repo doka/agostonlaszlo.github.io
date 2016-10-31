@@ -16,4 +16,4 @@ Borzasztó, hogy emberek azt hiszik, ha felháborít az egyik kisgyerek viselked
 
 Nem pártpreferenciáim, hanem elveim vannak
 
-Ezt a cikket eredetileg a Facebookon írtam meg egy posztban. Az eredeti bejegyzés [itt található] (https://facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/947268432043922/?type=3&theater)
+Ezt a cikket eredetileg a Facebookon írtam meg egy posztban. Az eredeti bejegyzés [itt található](https://facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/947268432043922/?type=3&theater)
