@@ -72,22 +72,14 @@
     display: inline-block;
     margin-bottom: 0;
 
-    &:before {
-      content: "";
-    }
-
-    &:first-child {
-
-      &:before {
-        content: "";
-      }
+  
 
       a {
         padding-left: 0;
       }
     }
   }
-}
+
 /* page title */
 
 span + .entry-title {
