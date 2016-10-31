@@ -7,13 +7,13 @@
   url: /about/
   
  - title: Felvételek
-  url: /tags/
+  url: /felvetelek/
 
 - title: Moltopera
   url: /moltopera/
   
   - title: Kayamar
-  url: /tags/
+  url: /kayamar/
 
 - title: Blog
   url: /blog/
