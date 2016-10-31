@@ -5,7 +5,7 @@ date: 2016-08-05 15:17:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: Azt mondják, már én se vagyok pártatlan. Képzeld el, hogy látsz két kisfiút, akik közül a nagyobbik leköpi és bántalmazza a kisebbet. Nyilván odamész és helyreteszed a nagyobbikat, igaz?
 categories: blog
-image: http://lajk.startlap.hu/wp-content/uploads/2016/03/lo-erkely-csobanka.jpg
+image: http://agostonlaszlo.hu/images/grant.jpg
 tags: [demokrácia, pártatlanság]
 ---
 
