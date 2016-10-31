@@ -13,7 +13,7 @@ Bár leginkább mindvégig a színpad világa vonzotta, emellett sikerrel vett r
 ![bkf-agoston-laszlo.jpg]({{site.baseurl}}/images/bkf-agoston-laszlo.jpg)
 
 
-<center>*A Don Giovanni - avagy kivel fekszel le című egyetemi előadáson (fotó: Benkő Molnár Fanni)*</center>
+A Don Giovanni - avagy kivel fekszel le című egyetemi előadáson (fotó: Benkő Molnár Fanni) {: .kepala}
 
 A művészeti képzés mellett párhuzamosan a Budapesti Kommunikációs és Üzleti Főiskolán tanult újságírás-marketing, PR szakpáron, ahova az elérhető maximális pontszámmal vették fel. Itt a két diploma mellett Tudományos Diákkonferencia-győzelmet és Országos Tudományos Diákkonferencia - különdíjat szerzett "Zene a reklámban - reklám a zenében" című tanulmányával, amelyet később a Média és Kommunikáció című szakmai folyóirat is közölt. Elnyerte aKöztársasági ösztöndíjat, tanulmányai végeztével képe felkerült a [főiskola dicsőségfalára](http://www.bkf.hu/okisbkfesek/agoston-laszlo).
 
