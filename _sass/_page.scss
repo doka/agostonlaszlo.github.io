@@ -44,7 +44,7 @@
 
 .video-container iframe {
     position: absolute;
-    top:0;
+    top: 0;
     left: 0;
     width: 100%;
     height: 100%;
@@ -57,7 +57,7 @@
 /* tag listing in page header */
 
 .entry-tags {
-	
+	margin: 2em 0 0;
   padding: 0;
 	text-transform: uppercase;
 	@include font-size(16);
@@ -69,11 +69,10 @@
   }
 
   li {
-	  
     display: inline-block;
     margin-bottom: 0;
 
-     *&:before {
+    &:before {
       content: "\2022";
     }
 
@@ -89,7 +88,6 @@
     }
   }
 }
-
 /* page title */
 
 span + .entry-title {
