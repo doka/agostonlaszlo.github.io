@@ -72,7 +72,7 @@
     display: inline-block;
     margin-bottom: 0;
 
-    /*&:before {
+    &:before {
       content: "\2022";
     }
 
@@ -80,7 +80,7 @@
 
       &:before {
         content: "";
-      }*/
+      }
 
       a {
         padding-left: 0;
