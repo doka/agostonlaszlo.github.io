@@ -5,9 +5,15 @@
 
 - title: Rólam
   url: /about/
+  
+ - title: Felvételek
+  url: /tags/
 
 - title: Moltopera
   url: /moltopera/
+  
+  - title: Kayamar
+  url: /tags/
 
 - title: Blog
   url: /blog/
