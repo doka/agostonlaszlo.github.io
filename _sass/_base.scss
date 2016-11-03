@@ -107,7 +107,7 @@ a {
 	}
 
 	&:focus {
-		outline: thin dotted;
+		/*outline: thin dotted;*/
 		color: darken($link-color, 20);
 	}
 
