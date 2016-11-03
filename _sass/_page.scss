@@ -226,6 +226,7 @@ span + .entry-title {
 }
 
 .entry-content-egyedi {
+	min-width: 960px;
 	@include span-columns(12);
 
 	p:first-child {
