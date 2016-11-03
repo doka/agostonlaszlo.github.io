@@ -1,5 +1,5 @@
 ---
-layout: kayamaroldal
+layout: page
 title: "Magyaróvári Viktor (Kayamar)"
 date: 2015-01-11 22:53:22.000000000 +00:00
 author: agoston_laszlo
