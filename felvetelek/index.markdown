@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Blog
+layout: blogpage
+title: Felvételek
 search_omit: true
 ---
 
