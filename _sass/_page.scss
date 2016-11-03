@@ -223,6 +223,7 @@ span + .entry-title {
 
 	@include media($large) {
 		@include span-columns(12);
+width= 1000px;
 	}
 
 	/* nice link underlines */
