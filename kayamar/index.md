@@ -6,8 +6,8 @@ author: agoston_laszlo
 excerpt: "'Micsoda hang! Micsoda harmóniák! Micsoda humor! A hangok gyönyörűen simulnak egymásra, a zenei áthallások sokrétűek. Kiváló munka.' (Brian Eno, többek közt a U2, a Coldplay és a Talking Heads producere, Kayamarról a Noise Festival hivatalos honlapján)"
 category: moltopera
 ---
-<p>"Micsoda hang! Micsoda harmóniák! Micsoda humor! A hangok gyönyörűen simulnak egymásra, a zenei áthallások sokrétűek. Kiváló munka."<br />(Brian Eno, többek közt a U2, a Coldplay és a Talking Heads producere, Kayamarról&nbsp;<a href="http://www.noisefestival.com/user/kayamar/work/kayamar-wind-song-medley" target="_blank">a Noise Festival hivatalos honlapján<img src="http://agostonlaszlo.hu/images/viktor.JPG" alt="viktor" width="1" height="1" style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;" /></a>)</p>
-<p>&nbsp;</p>
+"Micsoda hang! Micsoda harmóniák! Micsoda humor! A hangok gyönyörűen simulnak egymásra, a zenei áthallások sokrétűek. Kiváló munka."<br />(Brian Eno, többek közt a U2, a Coldplay és a Talking Heads producere, Kayamarról&nbsp;<a href="http://www.noisefestival.com/user/kayamar/work/kayamar-wind-song-medley" target="_blank">a Noise Festival hivatalos honlapján.
+<p><img src="http://agostonlaszlo.hu/images/noise-festival-certificate.jpg" alt="Noise Festival Certificate" /></p>
 <p>Magyaróvári Viktor (művésznevén Kayamar) rendkívüli képességekkel megáldott zenész. Nem csak abszolút, hanem Herz-hallása is van, amivel nem csak a zenei magasságok meghatározására képes, de a hang pontos Herz-számást is érzi. Ezt a ritka adottságát felhasználva igazi zenei kaméleonná vált, millió hangszín létrehozására képes, ráadásul több, mint 5 oktávos hangterjedelme révén bármilyen szólamot elénekel a legmélyebb kontrabasszustól a kontratenorig.</p>
 <p>&nbsp;</p>
 <p><iframe src="https://www.youtube.com/embed/azWZRgwqh_o" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
@@ -23,7 +23,5 @@ category: moltopera
 <p>Élő koncerteken szólóban, acapella együttesével a Windsingerszel és Göncz Renáta operaénekesnővel egyaránt fellép, feldolgozásokat, saját számokat, improvizációkat előadva.</p>
 <p><iframe src="https://www.youtube.com/embed/aEwu1AEP0Ls" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
 <p>&nbsp;</p>
-<p>További információ:&nbsp;<a href="http://www.kayamar.hu">http://www.kayamar.hu</a></p>
-<p>&nbsp;</p>
-<p><img src="http://agostonlaszlo.hu/images/noise-festival-certificate.jpg" alt="Noise Festival Certificate" /></p>
-<p>&nbsp;</p>
+<p>További információ:[http://www.kayamar.hu](http://www.kayamar.hu)
+
