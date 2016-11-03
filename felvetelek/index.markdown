@@ -1,5 +1,5 @@
 ---
-layout: blogpage
+layout: page
 title: Felvételek
 search_omit: true
 ---
