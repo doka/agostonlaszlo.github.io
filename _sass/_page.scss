@@ -225,8 +225,7 @@ span + .entry-title {
 	}
 }
 
-.entry-content-egyedi {
-	min-width: 960px;
+.entry-content {
 	@include span-columns(12);
 
 	p:first-child {
@@ -235,8 +234,7 @@ span + .entry-title {
 
 	@include media($large) {
 		@include span-columns(9.5);
-			}
-
+	}
 	/* nice link underlines */
   p > a,
 	li > a {
