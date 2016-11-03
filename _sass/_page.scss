@@ -235,8 +235,7 @@ span + .entry-title {
 
 	@include media($large) {
 		@include span-columns(9.5);
-		width="960px"
-	}
+			}
 
 	/* nice link underlines */
   p > a,
