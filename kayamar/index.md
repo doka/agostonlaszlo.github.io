@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "'Micsoda hang! Micsoda harmóniák! Micsoda humor! A hangok gyönyörűen simulnak egymásra, a zenei áthallások sokrétűek. Kiváló munka.' (Brian Eno, többek közt a U2, a Coldplay és a Talking Heads producere, Kayamarról a Noise Festival hivatalos honlapján)"
 category: moltopera
 ---
-"Micsoda hang! Micsoda harmóniák! Micsoda humor! A hangok gyönyörűen simulnak egymásra, a zenei áthallások sokrétűek. Kiváló munka."*(Brian Eno, többek közt a U2, a Coldplay és a Talking Heads producere, Kayamarról a Noise Festival hivatalos honlapján.*
+"Micsoda hang! Micsoda harmóniák! Micsoda humor! A hangok gyönyörűen simulnak egymásra, a zenei áthallások sokrétűek. Kiváló munka."*(Brian Eno, többek közt a U2, a Coldplay és a Talking Heads producere, Kayamarról a Noise Festival hivatalos honlapján.)*
 <p><img src="http://agostonlaszlo.hu/images/noise-festival-certificate.jpg" alt="Noise Festival Certificate" /></p>
 <p>Magyaróvári Viktor (művésznevén Kayamar) rendkívüli képességekkel megáldott zenész. Nem csak abszolút, hanem Herz-hallása is van, amivel nem csak a zenei magasságok meghatározására képes, de a hang pontos Herz-számást is érzi. Ezt a ritka adottságát felhasználva igazi zenei kaméleonná vált, millió hangszín létrehozására képes, ráadásul több, mint 5 oktávos hangterjedelme révén bármilyen szólamot elénekel a legmélyebb kontrabasszustól a kontratenorig.</p>
 <p>&nbsp;</p>
