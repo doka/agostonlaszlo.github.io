@@ -1,5 +1,5 @@
 ---
-layout: moltoperapage
+layout: moltoperaoldal
 title: "A Moltopera"
 search_omit: true
 ---
