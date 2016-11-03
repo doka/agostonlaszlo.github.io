@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: egyedioldal
 title: "A Moltopera"
 search_omit: true
 ---
