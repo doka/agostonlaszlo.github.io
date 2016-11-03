@@ -16,12 +16,14 @@ category: moltopera
 <p>&nbsp;</p>
 <p><iframe src="https://www.youtube.com/embed/f6k2R6qkPew" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
 <p>&nbsp;</p>
-<p>A média először 2011-ben figyelt fel rá, amikor megnyerte a T-Mobile zeneszerzőversenyét, a Rezene pályázatot. Ez után publikálta első, több saját kompozíciójának összefűzéséből keletkezett Youtube-videóját: a Wind Song Medley-t. Ebben főként az általa (amúgy Tolkien-módra) "feltalált"camirami nyelven énekel, saját magára, 5 szólamban. Nem sokkal később látott napvilágot a világ legmélyebb kiénekelt énekhangjának rekordját megdönteni próbáló videója, amely széles körben ismertté tette. 2014-ben a londoni Noise Festival egyik nyertese lett, <a href="http://en.wikipedia.org/wiki/Brian_Eno" target="_blank">Brian Eno</a>&nbsp;személyes választotta ki a több ezer jelentkező közül.</p>
-<p>&nbsp;</p>
+A média először 2011-ben figyelt fel rá, amikor megnyerte a T-Mobile zeneszerzőversenyét, a Rezene pályázatot. Ez után publikálta első, több saját kompozíciójának összefűzéséből keletkezett Youtube-videóját: a Wind Song Medley-t. Ebben főként az általa (amúgy Tolkien-módra) "feltalált"camirami nyelven énekel, saját magára, 5 szólamban. Nem sokkal később látott napvilágot a világ legmélyebb kiénekelt énekhangjának rekordját megdönteni próbáló videója, amely széles körben ismertté tette. 2014-ben a londoni Noise Festival egyik nyertese lett, <a href="http://en.wikipedia.org/wiki/Brian_Eno" target="_blank">Brian Eno</a>&nbsp;személyes választotta ki a több ezer jelentkező közül.
+
 <p><iframe src="https://www.youtube.com/embed/vM1OAcA5N28" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
-<p>&nbsp;</p>
-<p>Élő koncerteken szólóban, acapella együttesével a Windsingerszel és Göncz Renáta operaénekesnővel egyaránt fellép, feldolgozásokat, saját számokat, improvizációkat előadva.</p>
-<p><iframe src="https://www.youtube.com/embed/aEwu1AEP0Ls" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
-<p>&nbsp;</p>
+
+
+Élő koncerteken szólóban, acapella együttesével a Windsingerszel és Göncz Renáta operaénekesnővel egyaránt fellép, feldolgozásokat, saját számokat, improvizációkat előadva.
+
+<iframe src="https://www.youtube.com/embed/aEwu1AEP0Ls" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe>
+
 További információ:[http://www.kayamar.hu](http://www.kayamar.hu)
 
