@@ -214,6 +214,11 @@ span + .entry-title {
 		@include span-columns(9.5);
 	}
 	
+	  a {
+    color: #5b6794;
+    text-decoration: underline;
+  }
+	
 .entry-content-egyedi {
 	@include span-columns(12);
 
