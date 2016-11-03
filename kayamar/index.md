@@ -23,5 +23,5 @@ category: moltopera
 <p>Élő koncerteken szólóban, acapella együttesével a Windsingerszel és Göncz Renáta operaénekesnővel egyaránt fellép, feldolgozásokat, saját számokat, improvizációkat előadva.</p>
 <p><iframe src="https://www.youtube.com/embed/aEwu1AEP0Ls" frameborder="0" allowfullscreen="allowfullscreen" style="display: block; margin-left: auto; margin-right: auto;"></iframe></p>
 <p>&nbsp;</p>
-<p>További információ:[http://www.kayamar.hu](http://www.kayamar.hu)
+További információ:[http://www.kayamar.hu](http://www.kayamar.hu)
 
