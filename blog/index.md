@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blogoldal
 title: Blog
 search_omit: true
 ---
