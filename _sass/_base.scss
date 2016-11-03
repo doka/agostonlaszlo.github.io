@@ -96,7 +96,7 @@ ins {
 
 a {
 	text-decoration: underline;
-	color: #5b6794;
+	color: $link-color;
 
 	&:visited {
 		color: lighten($link-color, 20);
