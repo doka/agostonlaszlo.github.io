@@ -25,5 +25,5 @@ category: moltopera
 <p>&nbsp;</p>
 <p>További információ:&nbsp;<a href="http://www.kayamar.hu">http://www.kayamar.hu</a></p>
 <p>&nbsp;</p>
-<p><img src="http://agostonlaszlo.hu/tar/noise-festival-certificate.jpg" alt="Noise Festival Certificate" /></p>
+<p><img src="http://agostonlaszlo.hu/images/noise-festival-certificate.jpg" alt="Noise Festival Certificate" /></p>
 <p>&nbsp;</p>
