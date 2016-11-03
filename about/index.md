@@ -1,7 +1,7 @@
 ---
 title: "Életrajz"
 published: true
-layout: page
+layout: egyedioldal
 date: 2015-01-11 22:49:46.000000000 +00:00
 category: about
 tags: [életrajz]
