@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: felvetelekoldal
 title: Felvételek
 search_omit: true
 ---
