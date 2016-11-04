@@ -6,6 +6,9 @@ author: agoston_laszlo
 excerpt: "Most végképp össze foglak zavarni. Olvashattad már a cikkemet arról, hogy akárhány terrorcselekmény is lesz a világban, nem fogom meggyűlölni miatta a muszlimokat, mert nem fogok szélsőségesekből egy egész vallásra általánosítani."
 categories: blog
 tags: [iszlám, megbékélés, terrorizmus]
+lang: hu
+image: http://agostonlaszlo.hu/images/horogkereszt.JPG
+redirect_from: "/hu/blog/73-meg-jobban-osszezavarlak-nem-vagy-rasszista-ha-felsz"
 ---
 Most végképp össze foglak zavarni. Olvashattad már a cikkemet arról, hogy
 - [akárhány terrorcselekmény is lesz a világban, nem fogom meggyűlölni miatta a muszlimokat, mert nem fogok szélsőségesekből egy egész vallásra általánosítani,](http://agostonlaszlo.hu/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n)
