@@ -9,7 +9,7 @@ tags: [homoszexualitás, rólam]
 redirect_from: "/hu/blog/44-budapestpride"
 lang: hu
 ---
-2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla.56
+2014-ben vettem részt először a budapesti melegfelvonuláson (cisznemű, heteró férfiként), 2015-ben már menetkísérő (egyféle rendező) voltam. Pár őszinte szó arról, amit láttam és amit láttam róla.
 
 ![]({{site.baseurl}}/images/prideszer.jpg)
 
