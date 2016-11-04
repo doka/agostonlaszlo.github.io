@@ -3,7 +3,7 @@ layout: post
 title: "Akikre büszkék vagyunk"
 date: 2015-02-22 11:17:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
+excerpt: Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium ''akikre büszkék vagyunk''- falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
 categories: blog
 tags: [Balassi Gimnázium]
 image: arckepcsarnok.jpg
@@ -12,7 +12,7 @@ lang: hu
 
 ![]({{ site.baseurl }}/images/arckepcsarnok.jpg)
 
-Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
+Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" - falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
 
 Emlékszem, a középiskolámban volt egy fiú. Vézna srác, rossz tanuló, de jóravaló, szerethető ember. Sosem volt a társaság középpontja, nyolc együtt töltött évünk alatt sosem emelkedett ki tanulmányi versenyeken, sőt, ha jól emlékszem, épp bukásra állt történelemből.
 Egy nap a semmiből véletlenül megtudtuk, hogy országos bajnok sportlövő. Meglőtte az olimpiai kvótát, mehetett volna a magyar csapattal, ha van szponzora.
