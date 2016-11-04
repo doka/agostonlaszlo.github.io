@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "Amikor az első bomba robban és esetleg hozzátartozója lesz az emberek közt, másképpen fog gondolkozni és beszélni - kommentelte valaki a Nem vagyok hülye attól még, hogy nem kiabálok című poszt alá. Tényleg: mi lenne velem, a sokszínűséget és elfogadást hirdető liberális gondolkodóval, ha Magyarországon is lenne robbantás?"
 categories: blog
 tags: [iszlám, megbékélés, demokrácia]
-redirect_from: "hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n"
+redirect_from: "/hu/blog/57-fogom-e-vegre-gyulolni-a-muzulmanokat-ha-robbantas-lesz-az-eb-n"
 lang: hu
 
 ---
