@@ -14,9 +14,7 @@ tags: [életrajz, Kodály]
 
 Ha a Zeneakadémián csináltam volna meg ezt, valszeg elkaszálnak...
 
-Tudtuk, hogy (ahogyan ez ilyenkor már csak lenni szokott) a hosszú beszédektől elfáradt a közönség, ezért nagyon erős impulzust kell adnunk. A "János bácsi dudáljon kend"-re írt Kodály énekes zongoraverseny
-
-> népdal fölül, kegyetlen játszanivaló alatta, igaz-e Emszt András?
+Tudtuk, hogy (ahogyan ez ilyenkor már csak lenni szokott) a hosszú beszédektől elfáradt a közönség, ezért nagyon erős impulzust kell adnunk. A "János bácsi dudáljon kend"-re írt Kodály dal olyan, mint egy énekes zongoraverseny: népdal fölül, de kegyetlen játszanivaló alatta, igaz-e Emszt András?
 
 jó alap volt, én pedig táncoló dervisként forogtam a színpadon, hogy mindenki halljon.
 
