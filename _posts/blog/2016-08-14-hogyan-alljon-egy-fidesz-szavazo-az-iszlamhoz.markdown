@@ -6,6 +6,9 @@ author: agoston_laszlo
 excerpt: "Végeztem egy kísérletet. Orbán Viktor iszlám- és a más kultúrákat támogató szavait, amelyet gazdag arab bankároknak mondott, a sajátomnak tüntettem fel és meghirdettem a Fidesz és/vagy Orbán Viktor követői között."
 categories: blog
 tags: [Fidesz, muszlim]
+image: http://agostonlaszlo.hu/images/orbanarab.jpg
+redirect_from: "/hu/blog/82-hogyan-alljon-egy-fidesz-szavazo-az-iszlamhoz"
+lang: hu
 ---
 Végeztem egy kísérletet. Orbán Viktor iszlám- és a más kultúrákat támogató szavait, amelyet gazdag arab bankároknak mondott, a sajátomnak tüntettem fel és meghirdettem a Fidesz és/vagy Orbán Viktor követői között. Az eredmények.
 
@@ -72,8 +75,3 @@ Tény, hogy a kormány hivatalosan nem állt ki az iszlám ellen, sőt Orbán mi
 Kérdezheted, mi lett volna a megoldás? A válasz egyszerű: nem hergelni az embereket és szítani az ellentétet, hanem pont hogy nyugtatni a közvéleményt és csökkenteni azt. [Én is félek a bevándorlási hullám hatásaitól](http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok) és nem gondolnám, hogy [rossz ember vagy rasszista lennél, ha te is félsz.](http://agostonlaszlo.hu/hu/blog/73-meg-jobban-osszezavarlak-nem-vagy-rasszista-ha-felsz)
 
 De elvárható lenne, hogy miközben az üzleti kapcsolatok építéséért, a letelepedési kötvényekért udvarolja körbe a kormány az arab államok gazdagjait, addig legalább ne rúgjon bele a más arab/muszlim államokból talán pont ezek miatt a gazdagok miatt is menekülőkbe...
-
-**Ha tetszett és olvasnál még hasonlókat, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
