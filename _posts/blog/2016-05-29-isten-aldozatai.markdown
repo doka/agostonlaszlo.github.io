@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Isten áldozatai - egy kirúgott keresztény története, II. rész (2)"
+title: "Isten áldozatai - egy kirúgott keresztény története, II. rész"
 date: 2016-05-29 06:41:20.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista..."
+excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? Hosszú, hosszú, hosszú lista..."
 categories: blog
-tags: [Isten, hit]
+tags: [rólam, kereszténység]
+redirect_from: "/hu/blog/59-isten-aldozatai-egy-kirugott-kereszteny-tortenete-ii-resz"
 ---
-“Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“ (Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története](http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van) című cikk folytatása.)
+“Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“ (Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van) című cikk folytatása.)
 
 Hihetetlenül felszabadító érzés volt, hogy “már nem vagyok hívő”. Isten parancsainak nem volt többé hatalma felettem. Isten parancsai... Hát kezdjük...
 
@@ -51,8 +52,3 @@ _“Nincs alku - én haddlegyek boldog! Másként akárkimeggyalázs megjelölne
 
 Apám, akivel egész fiatalságomban folyamatosan harcoltam, de ez az eset újra összebékített vele és megtanultam őt tisztelni…
 De ez már egy másik történet.
-
-Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
