@@ -3,7 +3,7 @@ layout: post
 title: Operafordítói debütálásom az Operaházban
 date: 2015-02-22 11:30:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: Egyszer volt, hol nem volt, élt egyszer egy hölgy, aki nagyon szerette és nagyon értette az olasz nyelvet. Az egyetemen már komoly tisztelet övezte, saját nyelviskolát vezetett, de valamiért az volt az ötlete, hogy középiskolában is akar tanítani. Nekem ez volt a szerencsém, neki - ha jól tudom - a balszerencséje.
+excerpt: Egyszer volt, hol nem volt, élt egyszer egy hölgy, aki nagyon szerette és értette az olasz nyelvet. Az egyetemen már komoly tisztelet övezte, de valamiért a középiskolámban is akar tanítani. Nekem ez volt a szerencsém, neki - ha jól tudom - a balszerencséje.
 categories: blog
 lang: hu
 tags: [rólam, zene]
