@@ -5,7 +5,7 @@ date: 2016-07-31 23:29:18.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Miért robbantgatnak, ha az iszlám a béke vallása? Miért nem egyenjogúak a nők? Tényleg arra hív a Korán, hogy minden gyaur kutyát megöljenek vagy térítsenek az 'igaz hitre'? A Magyar Iszlám Közösség ajtaja előtt állok. Hőség van. Izzadok. Belépek."
 categories: blog
-tags: [iszlám, megbékélés, demokrácia]
+tags: [iszlám, megbékélés, demokrácia, terrorizmus]
 redirect_from: "/hu/blog/77-a-muszlimok-mar-a-spajzban-vannak-husz-eve"
 image: http://agostonlaszlo.hu/images/muszlimno.JPG
 lang: hu
