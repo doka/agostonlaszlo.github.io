@@ -81,9 +81,15 @@ A melegfelvonulás nem az, aminek mondják. A legtöbben, akik először jönnek
 
 A helyes megfejtés:
 *1. Budapest Parádé 2005
+
 *2. Budapest Pride
+
 *3. Budapest Parádé
+
 *4. Balaton Sound 2013 (Stiller Ákos képe)
+
 *5. Budapest Pride 
+
 *6. Aintree lóversenypálya, női futam, Anglia
+
 *7. Budapest Pride
