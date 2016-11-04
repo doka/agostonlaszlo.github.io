@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mit csinálsz, ha két kisgyerek előtted kezd verekedni?
-date: 2016-09-07 15:17:42.000000000 +00:00
+date: 2016-10-25 15:17:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: Azt mondják, már én se vagyok pártatlan. Képzeld el, hogy látsz két kisfiút, akik közül a nagyobbik leköpi és bántalmazza a kisebbet. Nyilván odamész és helyreteszed a nagyobbikat, igaz?
 categories: blog
