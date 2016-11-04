@@ -15,7 +15,7 @@ image: http://agostonlaszlo.hu/images/oroszm.JPG
 
 Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.
 
-Volt [Ifivezetőként ismerem a Bibliát](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van), nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.
+Volt [ifivezetőként ismerem a Bibliát](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van), nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.
 
 A Biblia végén ez áll:
 
