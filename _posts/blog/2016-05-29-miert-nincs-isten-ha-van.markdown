@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: "Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét."
 categories: blog
 tags: [rólam, kereszténység]
-image: http://agostonlaszlo.hu/images/kakas.JPG
+image: http://agostonlaszlo.hu/images/jezusfacepalm.jpg
 lang: hu
 redirect_from: /hu/blog/51-miert-nincs-isten-ha-van
 ---
