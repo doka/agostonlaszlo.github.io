@@ -5,7 +5,10 @@ date: 2016-05-20 07:24:52.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Előre leszögezem, hogy - szokásomtól eltérően - most egy olyan témáról fogok írni, amelyben nem merültem el sok órányi kutatással. De messziről is egyértelműnek látszik a képlet."
 categories: blog
-tags: [ÁNTSZ, Illés bácsi]
+tags: [demokrácia]
+lang: hu
+refirect_from: /hu/blog/47-illes-bacsi
+image: barna-illes.jpg
 ---
 
 Előre leszögezem, hogy - szokásomtól eltérően - most egy olyan témáról fogok írni, amelyben nem merültem el sok órányi kutatással. De messziről is egyértelműnek látszik a képlet.
@@ -45,10 +48,3 @@ Tökéletes a komment. Ha velünk szigorú az állam, magával miért nem az? Ha
 Mert a rend és a szabályok betartása nem opció. Viszont ez igaz minden kormányra (visszamenőleg is) és minden szinten.
 
 Közhely? Az.
-
-Ha érdekelnek az írásaim, itt tudsz egy lájkkal feliratkozni:##
-
-**[Ágoston László](https://www.facebook.com/agostonlaszloartist)**
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
-
