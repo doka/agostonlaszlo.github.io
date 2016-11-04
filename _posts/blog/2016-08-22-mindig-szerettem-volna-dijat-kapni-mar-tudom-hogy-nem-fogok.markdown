@@ -7,13 +7,13 @@ excerpt: "Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, 
 categories: blog
 tags: [Lovagkereszt, elismerés]
 lang: hu
-image: http://agostonlaszlo.hu/images/bayerfo.jpg
+image: http://agostonlaszlo.hu/images/bayerfo.JPG
 ---
 Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás.
 
 Azóta rájöttem, hogy felnőtteknél ez máshogy van - legalábbis Magyarországon biztosan. Szétnézve a környezetemben számtalan szenzációs művészt, tanárt, iskolaigazgatót látok, akit nem ért utól az elismerés. Nem lehet, hogy nálunk a teljesítmény helyett a lojalitást jutalmazzák?
 
-![]({{site.baseurl}}/images/bayerfo.jpg)
+![]({{site.baseurl}}/images/bayerfo.JPG)
 ([forrás](http://europakavezo.blog.hu/2015/05/02/breking_amikor_bayer_bekerdez_orbannak))
 
 
@@ -30,11 +30,12 @@ Miért hiszed, hogy ha az egyik politikai párt baromságot csinált az felhatal
 
 Srácok! Ha valakinek egész cikkeket lehet teleírni a gyomorforgató idézeteiből (amelyek egy része valóban kontextus-függő, de mind nem az!), ha valakinek a munkássága a társadalom számottevő részében félelmet és viszolygást kelt, azt nem lehet kimosni. De egyetlen kérdést válaszolj meg magadban kérlek:
 
-> Szerinted Bayer Zsolt munkássága a társadalmi csoportok megbékélését, a nemzet egységét és az alapvető emberi jogok tiszteletben tartását vagy ennek ellenkezőjét építi? Illetve egyáltalán: épít vagy rombol?
+Szerinted Bayer Zsolt munkássága a társadalmi csoportok megbékélését, a nemzet egységét és az alapvető emberi jogok tiszteletben tartását vagy ennek ellenkezőjét építi? Illetve egyáltalán: épít vagy rombol?
 
 Még ha el is fogadom, hogy ellenkezik a véleményed ebben az enyémmel, akkor se reális, hogy piedesztálra emeljünk valakit, aki ennyire sok embernek - fáj. Ja és akkor se lenne reális, ha ezt egy másik párt tenné. Ezek objektív kérdések.
 
-![]({{site.baseurl}}/images/bayer1.jpg)
+![]({{site.baseurl}}/images/bayer1.JPG)
+_forrás: MTI_
 
 A Magyar Érdemrend Lovagkeresztjének kitüntetettje nyilvánosság előtt vitatkozik ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
@@ -51,7 +52,7 @@ Szerintem a legtöbbeknek nem is azzal van már baja, hogy egy közepesen jelent
 Emlékszel, amit a cikk elején mondtam a körülöttem szenzációs dolgokat teljesítő - "díjazatlan" - művészekről, iskolaigazgatókról? Egy érdemtelen ember érdemesítése őket sérti. Az ő munkájukat veszi semmibe. Hiszen a társadalom által a díjak megítélésére felkért személyek szerint egy Bayer Zsolt többet ér náluk. </span>
 És ez baj. Óriási baj!
 
->Hazánk egyik vezető értelmiségije számon kéri, hogy valaki álnéven kritizálta ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
+Hazánk egyik vezető értelmiségije számon kéri, hogy valaki álnéven kritizálta ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
 5. **Megvédjük a mi kutyánk kölykét**
 
