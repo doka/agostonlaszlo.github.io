@@ -7,11 +7,11 @@ excerpt: "''Az édesanyám ma reggel halt meg''- mondta a rosszarcú hong kongi 
 categories: blog
 tags: [rólam, utazásaim]
 lang: hu
-
+image: http://agostonlaszlo.hu/images/1111.JPG
 ---
 Vártam a reptéri transzferbuszra London belvárosában. Az egész város nyüzsgött, rohant és a buszok is össze-vissza jöttek. Egy hongkongi férfival próbáltuk megtalálni a saját járatunkat. Kiderült, hogy rendőrként dolgozik, nyomozó, kiemelt ügyekkel foglalkozik. 11. hó 11-e volt, 10 óra 58. Onnan tudom, hogy ránézett a telefonjára és egyszer csak azt mondta:
 
-> az édesanyám ma reggel halt meg.
+az édesanyám ma reggel halt meg.
 
 Nem értem oda, hogy még utoljára beszéljek vele. Szeretnék 11 órakor (amikor egész Anglia az első világháború befejezéséről és hősi halottairól emlékezik meg) két perces csöndet tartani az emlékére.
 
