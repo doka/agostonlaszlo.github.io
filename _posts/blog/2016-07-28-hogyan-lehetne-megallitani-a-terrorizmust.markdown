@@ -8,6 +8,7 @@ categories: blog
 tags: [iszlám, megbékélés, terrorizmus]
 image: http://agostonlaszlo.hu/images/juncker.JPG
 lang: hu
+redirect_from: "/hu/blog/75-hogyan-lehetne-megallitani-a-terrorizmust"
 ---
 Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!Korábbi írásaim:
 
