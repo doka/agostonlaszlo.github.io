@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Ha Istenre hivatkozol, amikor a melegek ellen hangolsz...
 date: 2016-06-27 08:30:31.000000000 +00:00
@@ -9,7 +9,7 @@ tags: [kereszténység, homoszexualitás, megbékélés]
 lang: hu
 redirect_from: "/hu/blog/65-keresztenyseg-meleg"
 image: http://agostonlaszlo.hu/images/oroszm.JPG
---
+---
 
 **Szeretném, ha tudnád, hogy nem ellened vagyok és nemnem szeretném elvennitőleda hitedet Istenben vagy a Biblia hitelességében.** Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.
 
