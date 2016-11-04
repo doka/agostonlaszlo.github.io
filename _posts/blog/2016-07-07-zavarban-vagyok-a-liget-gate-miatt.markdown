@@ -32,14 +32,8 @@ Illene alternatívát is ajánlanom. Nehéz lesz, de megpróbálom.
 Azt hiszem, a szimbolikus aktus felé kéne eltolni a tiltakozást. Mind tudjuk, hogy a tienanmen téri tüntető sem állította meg örökre a tankokat - de egy hihetetlen erős "NEM"-et jelentett a kiállása, ami aztán bejárta a világot. A fehér ruhás férfit tettéért aztán a Life magazina 20. század legfontosabb száz embere közé sorolta 1998-ban, azzal együtt, hogy Kínában a problémák továbbra sem oldódtak meg persze...<br /><br />
 A karhatalom vagy éppen a biztonsági cégek kopaszai arra vannak kitalálva, hogy teljesítsék a parancsot. Nincs azon mit csodálkozni, ha meg is teszik. (Mondjuk azért [a pszichiátriára vitetni egy tüntetőt]("http://24.hu/belfold/2016/06/29/ligetvedo-folyamatosan-osztottak-hogy-vegem-van-honapokra-kivonnak-a-forgalombol/) vagy [lesből gyomorszájon vágni](ttps://www.facebook.com/magyarinfo/videos/10154219976238467/) a putyini oroszországot idézi...) Azt nagyon kétlem, hogy minden eljáró rendőr egyetért a paranccsal - dehát.. ez a dolguk... Akkor viszont a ligetvédőknek se arra kéne hegyezniük a kommunikációt, hogy mennyire erőszakos, ami történik, sőt, talán hamarabb is cselekedhetnének, mint hogy eltörik "intézkedés közben az ujjukat". A protest nem attól lesz sikeres, hogy addig húzzuk, amíg bele nem halunk (lásd a fenti videón se várta meg a tüntető, hogy mártírrá tegyék). Attól, hogy jó ügy érdekében jól kommunikálva látványos gesztusokat teszünk. Szerintem. Sajnos egyszerűen nincs több eszköz a kezünkben, mint hogy rámutassunk a hajmersztő tényekre. Például, hogy a miniszterelnök falujában kisvasút viszi a háza végében álló stadionhoz az embereket a hatmilliárdos most épülő sportcsarnoktól. Akinek van két agysejtje, az látja, hogy itt óriási a szerep- és aránytévesztés...
 
-UPDATE
-
+**UPDATE**
 
 Ez az ügy már polgári engedetlenség helyett a polgári elkeseredésről szól, sok kommentet kapok, hogy mit kéne tenni. Valóban baromi nehéz egy olyan országban, ahol a kormányt nem érdekli a tiltakozók hangja (vö "megunják a tüntetést és hazamennek"), de a mostani kommunikáció - legalábbis ami hozzám eljutott - sok esetben inkább az aktivistákról, mint az ügyről szól. Kit vertek meg, kinek tekerték ki a karját. Ez botrányos, gyalázatos és nem európai - de nem a ligetről szól. Mint ahogy az egész protest is inkább egy kormány vs szélsőséges balliberálisok (lehet, hogy én is azt vagyok :) ) - csata képét mutatja, amihez a "nép" nagy része nem tud hozzászólni.
 
 Ismétlem, tisztelem és támogatom a törekvést, legkevésbé sem szeretnék beállni [a ligetvédőket karaktergyilkoló undorító lejáratókampányba](http://pestisracok.hu/drogtanyat-hagytak-maguk-utan-ligetvedok/). Viszont hangot akartam adni azoknak az embereknek, akik szeretnének kapcsolódni, de nem találják a kapcsolódási pontot. Kérem a segítségeteket!
-
-**Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
