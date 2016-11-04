@@ -16,9 +16,9 @@ Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története
 
 -Uram, nyisd meg nekem a Mennyország kapuját! Minden héten templomban voltam, tudom fejből a Bibliát, rendben befizettem az egyházi járulékot és ellenálltam a világ csábításának.
 
--Adtál-e enni az éhezőknek?
--Gyűjtöttünk az afrikai misszióra, igen!
--És a szomszédodnak segítettél-e a bajban?
+-- Adtál-e enni az éhezőknek?
+-- Gyűjtöttünk az afrikai misszióra, igen!
+-- És a szomszédodnak segítettél-e a bajban?
 
 -Cigány az, Uram! Lopni jár! Mi közöm hozzá nekem, becsületes kereszténynek?
 
