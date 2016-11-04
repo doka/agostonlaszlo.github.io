@@ -5,7 +5,7 @@ date: 2016-08-21 10:31:47.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Korábban már leírtam az élményeimet a budapesti prideról is (Melegfelvonulás - a pokol tornácán? címmel itt érhető el) és szóltam arról, miért lenne fontos, hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá illetve miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim."
 categories: blog
-tags: [Dánia, Budapest Pride]
+tags: [homoszexualitás, megbékélés]
 lang: hu
 image: http://agostonlaszlo.hu/images/danpride1.jpg
 redirect_from: "/hu/blog/84-dania-pride"
