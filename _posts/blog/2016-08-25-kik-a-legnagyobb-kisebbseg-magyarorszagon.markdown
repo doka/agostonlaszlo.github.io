@@ -5,12 +5,14 @@ date: 2016-08-25 12:28:02.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Él Magyarországon egy kisebbség, akiket alig veszünk észre, pedig napi szinten találkozunk velük. Egy kisebbség, amely harcol a jogaiért, de még a jogfosztottságukról is vitatkoznak. Akik saját maguk is nehezen ismerik fel a saját jogfosztottságukat. Akiknek problémáik vannak a foglalkoztatottság terén és ugyanazért a munkáért kevesebbet kapnak. Akikre más szabályok vonatkoznak. Akiknek sok esetben fizikai erőszakot is el kell szenvedniük és sokszor hátrányosan különböztetik meg az erőszakhoz kapcsolódó ügyeiket. Ők a nők."
 categories: blog
-tags: [kisebbség, muszlim, bevándorlás]
+tags: [iszlám, nőjogok, feminizmus, megbékélés]
+redirect_from: "/hu/blog/86-kik-a-legnagyobb-kisebbseg-magyarorszagon"
+lang: hu
+image: http://agostonlaszlo.hu/images/doublestandard.jpg
 ---
 Él Magyarországon egy kisebbség, akiket alig veszünk észre, pedig napi szinten találkozunk velük. Egy kisebbség, amely harcol a jogaiért, de még a jogfosztottságukról is vitatkoznak. Akik saját maguk is nehezen ismerik fel a saját jogfosztottságukat. Akiknek problémáik vannak a foglalkoztatottság terén és ugyanazért a munkáért kevesebbet kapnak. Akikre más szabályok vonatkoznak. Akiknek sok esetben fizikai erőszakot is el kell szenvedniük és sokszor hátrányosan különböztetik meg az erőszakhoz kapcsolódó ügyeiket. Ők a nők.
 
 **"Jaj, hagyjálmár..."**
-
 
 Nem, nem hagylak. Pont itt kezdődik a kérdés, hogy komolyan se vesszük. Korábban írtam már erről egy sokak által imádott, sokak által gyűlölt cikket, "[Kedvenc használati tárgyaink, a nők](http://agostonlaszlo.hu/hu/blog/46-kedvenc-hasznalati-targyaink-a-nok)" címmel. Ebben hoztam egy példát. Gabiról. Leírok egy mondatot, képzeld magad elé.
 
@@ -22,7 +24,7 @@ Azt most hagyjuk is, hogy mi van, ha Gabinak azonos nemű volt mind a tizenöt k
 
 Pedig Gabi nem is létezik.
 
-(hiányzó kép doublestandards.jpg)
+![]({{ site.baseurl }}/images/doublestandards.jpg)
 
 Észrevetted, hogy miközben azon aggódunk, hogy a bevándorló muszlimok hány nőt fognak megerőszakolni Magyarországon, addig ÉVENTE"több mint 200 000 magyar nőt ér fizikai erőszak partnere részéről, és minden évben több mint 80 000 magyar nőt erőszakol meg a férje vagy élettársa." ([forrás](http://nullker.hu/2014/11/nemi-eroszak-magyarorszagon-interju-stummer-veraval/)) Azt mondod ez túlzás?
 
@@ -44,15 +46,11 @@ De igazad van, engedjük el ezt a témát. Képzeld el, a múltkor találkoztam 
 
 Ezt el kell ismerjem, nem egy egyszerű téma. Mert ott a másik oldala is: sokszor a nők gyerek mellett dolgoznak, esetleg négy órában, saját maguk választanak kisebb fizetéssel kecsegtető munkát... De az alábbi képen valahogy mégse látok egyetlen nőt se...
 
-(hiányzó kép orbanek.jpg) >Magyarország kormányában a nők száma egyenlő a piréz bevándorlók számával ([a kép forrása](https://www.ard-wien.de/wp-content/uploads/sites/3/2015/12/Ungar-Regierung-picall-kl.jpg))
+![]({{ site.baseurl }}/images/orbanek.JPG)
+*Magyarország kormányában a nők száma egyenlő a piréz bevándorlók számával ([a kép forrása](https://www.ard-wien.de/wp-content/uploads/sites/3/2015/12/Ungar-Regierung-picall-kl.jpg))*
 
 Illetve szerinted [Lászlóból vagy nőből van több a politikai és tudományos elitben](http://kettosmerce.blog.hu/2016/05/16/laszlobol_vagy_nobol_van_tobb_a_politikai_es_tudomanyos_elitben_hat_persze_hogy_lacibol)? Hát persze, hogy Laciból!(És most nem hazabeszélni akartam...)
 
 Hosszan lehetne még ezt taglalni, hosszú a lista, de nem biztos, hogy végigsorolni volna a legcélravezetőbb. Fogok erről még írni egyesével és meg fogok fogalmazni javaslatokat is. Most egyelőre csak annyit szeretnék, ha felfigyelnél erre a problémára. Ha nem rendeznéd egy kézlegyintéssel. Ha nem gondolnád, hogy a feminizmus valami ködös, nyugati bolondság, hanem megértenéd, hogy világunkban a legnagyobb diszkriminált kisebbségbe anyád, a feleséged és a lányod is beletartozik.
 
 És szokszor úgy reprodukáljuk ezt a különbséget évezredek alatt beégetett társadalm minták nyomán, hogy észre se vesszük.
-
-**Ez a témának még csak a kezdete. Ha szeretnél további cikkeket is olvasni erről, itt lájkolhatod az oldalam!**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
