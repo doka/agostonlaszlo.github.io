@@ -5,7 +5,10 @@ date: 2016-08-04 09:40:44.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égből hull alá: senki se érti, hogy mit keres itt, mindenki másra akarja használni és mindenkinek van egy teóriája, hogy mire jó. Elmondom magam. Ki vagyok én?"
 categories: blog
-tags: [Moltopera, Facebook]
+tags: [rólam, zene, demokrácia]
+image: http://agostonlaszlo.hu/images/szelim.jpg
+redirect_from: "/hu/blog/78-tisztazzuk-hogy-ki-vagyok-en-es-miert-csinalom"
+lang: hu
 ---
 Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égből hull alá: senki se érti, hogy mit keres itt, mindenki másra akarja használni és mindenkinek van egy teóriája, hogy mire jó. Elmondom magam.
 
