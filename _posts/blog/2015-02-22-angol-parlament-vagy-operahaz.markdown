@@ -7,7 +7,7 @@ date: 2015-02-22 11:19:53.000000000 +00:00
 author: agoston_laszlo
 excerpt: Ma két fontos eseményen kellett volna egyidőben részt vennem. Az egyik az Angol Parlament Képviselőházában a másik az Operaházban történik. Eddig jól indul az ősz!
 categories: blog
-tags: [Kayamar, MoltOpera, rólam]
+tags: [Kayamar, Moltopera, rólam]
 image: house_of_commons.jpg
 
 ---
