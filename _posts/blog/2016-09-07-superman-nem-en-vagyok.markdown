@@ -39,4 +39,4 @@ Ezért indítottam, kampányt, amivel megpróbálom rávenni az embereket, hogy 
 Örülök, ha kedvelsz engem és követed az oldalam - de az se bánt, ha nem. Megtisztelsz, ha meghallgatsz és együtt gondolkozol velem, de én "egy csomag" vagyok olyan dolgokkal, amiket csodálatosnak tartasz és olyanokkal is, amiket utálsz. Művész vagyok, szabad ember. Sokak hangja, de leginkább és mindenek felett a sajátom.
 Számíthatsz rám, de az én módomon. És számítok rád, hogy egy nap arra menjenek a dolgok, amerre a szabadság, az egyenlőség és a testvériség szabályai diktálják. De nem én hozok változást. Hanem mi.
 
-Ezt a cikket eredetileg a Facebookon írtam meg egy posztban. Az eredeti bejegyzés [itt található] (https://facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/911218472315585/?type=3&theater)
+Ezt a cikket eredetileg a Facebookon írtam meg egy posztban. Az eredeti bejegyzés [itt található](https://facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/911218472315585/?type=3&theater)
