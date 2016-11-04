@@ -7,7 +7,7 @@ excerpt: "Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, 
 categories: blog
 tags: [Lovagkereszt, elismerés]
 lang: hu
-image: {{site.baseurl}}/images/bayerfo.jpg
+image: http://agostonlaszlo.hu/images/bayerfo.jpg
 ---
 Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás.
 
