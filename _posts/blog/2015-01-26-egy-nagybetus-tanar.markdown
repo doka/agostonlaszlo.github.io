@@ -7,6 +7,7 @@ excerpt: "2012. február 15. Ez a dátum úgy égett bele az agyamba, mint a sz�
 categories: blog
 tags: [rólam, zene]
 lang: hu
+image: http://www.moltopera.hu/tar/SzaboZoltan3.jpg
 ---
 
 ![](http://www.moltopera.hu/tar/SzaboZoltan3.jpg)
