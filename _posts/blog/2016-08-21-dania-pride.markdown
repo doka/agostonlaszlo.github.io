@@ -6,8 +6,11 @@ author: agoston_laszlo
 excerpt: "Korábban már leírtam az élményeimet a budapesti prideról is (Melegfelvonulás - a pokol tornácán? címmel itt érhető el) és szóltam arról, miért lenne fontos, hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá illetve miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim."
 categories: blog
 tags: [Dánia, Budapest Pride]
+lang: hu
+image:
+redirect_from: "/hu/blog/84-dania-pride"
 ---
-Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonulás - a pokol tornácán?](http://agostonlaszlo.hu/hu/blog/44-budapestpride) címmel itt érhető el</a>) és szóltam arról, miért lenne fontos,  "  [hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá](http://agostonlaszlo.hu/hu/blog/66-lmbtq), illetve [miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen](http://agostonlaszlo.hu/hu/blog/65-keresztenyseg-meleg)... Most egy külföldi utamon a<span style="font-size: 12.16px; line-height: 15.808px;">Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim.
+Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonulás - a pokol tornácán?](http://agostonlaszlo.hu/blog/budapestpride) címmel itt érhető el</a>) és szóltam arról, miért lenne fontos, [hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá](http://agostonlaszlo.hu/blog/lmbtq), illetve [miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen](http://agostonlaszlo.hu/blog/keresztenyseg-meleg)... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim.
 
 1. Általános társadalmi támogatás
 
@@ -82,7 +85,7 @@ A "szexuális" jellegű öltözetek mellett igen sokan csak egyszerűen "szokatl
 
 -[hiányzó kép: danpride12.jpg]
 
-Sajnos nem tudom képekkel átadni azt a felszabadult, békés légkört, ami az otthoni Prideot is jellemzi, de itt valahogy más... Otthon ez egy tüntetés az emberi jogok védelmében, egy pár órás ünnep, ahol a két utca mély kordonsorok között megtapasztalhatod, hogy milyen szabadnak lenni. Itt ez a hétköznapok kivetülése és egy jó közös buli a <span style="text-decoration: line-through;">nagybani piac mellett</span> városközpontban.
+Sajnos nem tudom képekkel átadni azt a felszabadult, békés légkört, ami az otthoni Prideot is jellemzi, de itt valahogy más... Otthon ez egy tüntetés az emberi jogok védelmében, egy pár órás ünnep, ahol a két utca mély kordonsorok között megtapasztalhatod, hogy milyen szabadnak lenni. Itt ez a hétköznapok kivetülése és egy jó közös buli a nagybani piac helyett a városközpontban.
 
 [hiányzó kép: danpride15.jpg]
 
