@@ -68,7 +68,7 @@ A melegfelvonulás nem az, aminek mondják. A legtöbben, akik először jönnek
 ![]({{site.baseurl}}/images/parade6.JPG)
 
 **4.**
-![]({{site.baseurl}}/images/pride9.jpg)
+![]({{site.baseurl}}/images/harmas.jpg)
 **5.**
 ![]({{site.baseurl}}/images/pride1.jpg)
 **6.**
