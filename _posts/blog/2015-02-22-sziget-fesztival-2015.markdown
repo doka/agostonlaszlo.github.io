@@ -5,7 +5,9 @@ date: 2015-02-22 11:13:21.000000000 +00:00
 author: agoston_laszlo
 excerpt: Már vagy tizenöt éve, hogy pár kiválasztott diákja egyikeként elvitt magával a Művészetek Völgyébe középiskolai latintanárom. Most mi leszünk a fellépők a Sziget Fesztiválon a MoltOpera Társulattal...
 categories: blog
-tags: [Sziget, MoltOpera]
+tags: [zene, MoltOpera, rólam]
+image: Sziget2014.jpg
+lang: hu
 ---
 
 ![]({{ site.baseurl }}/images/Sziget2014.jpg)
@@ -16,4 +18,4 @@ Hobo Jim Morrison estjét hallgattuk, Pege Aladár bőgőzött, éjszaka a kocsi
 
 Most mi leszünk a fellépők a Sziget Fesztiválon a MoltOpera Társulattal és meg kell mondjam, nagy felelősséget érzek magamon, magunkon.
 
-> Ki tudja, lehet, hogy betéved a Porondszínházba egy latin tanár néhány tizenévessel...
+Ki tudja, lehet, hogy betéved a Porondszínházba egy latin tanár néhány tizenévessel...
