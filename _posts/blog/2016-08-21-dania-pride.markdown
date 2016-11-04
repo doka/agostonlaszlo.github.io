@@ -7,7 +7,7 @@ excerpt: "Korábban már leírtam az élményeimet a budapesti prideról is (Mel
 categories: blog
 tags: [Dánia, Budapest Pride]
 lang: hu
-image:
+image: {{site.baseurl}}/images/danpride1.jpg
 redirect_from: "/hu/blog/84-dania-pride"
 ---
 Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonulás - a pokol tornácán?](http://agostonlaszlo.hu/blog/budapestpride) címmel itt érhető el</a>) és szóltam arról, miért lenne fontos, [hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá](http://agostonlaszlo.hu/blog/lmbtq), illetve [miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen](http://agostonlaszlo.hu/blog/keresztenyseg-meleg)... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim.
@@ -79,7 +79,7 @@ Magyarországon sokaknak már egy szivárványszínű zászlót lengetni is bát
 
 A tömegben pedig rengeteg volt a gyerek, a szülők a nyakukba ültetve magyarázták fiaiknak és leányaiknak, hogy mi történik. Nem, nem valószínű, hogy ettől a látványtól bárki is hirtelen meleg lesz. De arra van esély, hogy elfogadó felnőttként nőnek majd fel.
 
-[hiányzó kép: danpride10.jpg]
+{{site.baseurl}}/images/danpride1.jpg
 
 A "szexuális" jellegű öltözetek mellett igen sokan csak egyszerűen "szokatlant" vettek fel. Így ez a csirkének öltözött (egyébként szintén kétméteres) úr és barátai.
 
