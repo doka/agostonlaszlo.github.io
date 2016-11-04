@@ -6,6 +6,8 @@ author: agoston_laszlo
 excerpt: "Rengetegszer kapom meg, hogy 'miért nem tudom elfogadni, hogy az angol emberek döntöttek a sorsuk felől'. Hogy 'nem csak akkor kell liberálisnak lenni, amikor neked tetsző dolgok történnek'. Oké. Alább bemutatom, miért."
 categories: blog
 tags: [brexit, Anglia]
+lang: hu
+image: http://agostonlaszlo.hu/images/fejfogos.jpg
 ---
 Rengetegszer kapom meg, hogy '"miért nem tudom elfogadni, hogy az angol emberek döntöttek a sorsuk felől". Hogy "nem csak akkor kell liberálisnak lenni, amikor neked tetsző dolgok történnek".
 
@@ -65,10 +67,4 @@ A 21. században el kell felejteni az - [egyébként csak a 19. században létr
 
 Ezért iszonyú veszélyes a - leírom! - orbáni vagy jobbikos populizmus. Csúsztatások, ellenségképzés, az ország - sőt a világ... - érdekeinek felrúgása a választási győzelem érdekében. És TERJED! A németeknél, a hollandoknál, a franciáknál már elkezdtek szervezkedni, hogy akkor ők is kilépnének... Persze, az EU sok helyen hibás... De megjavítani kell az egységet, nem kidobni... Mert egymásra vagyunk utalva, ha tetszik, ha nem!
 
-Olvasom a kommenteket - amelyek között rengeteg a támadó, anyázó hangvételű - és féltem Magyarországot, hogy nem érti meg a fentiek súlyát. Hogy minket is belevisz egy szűklátókörű őrült valami hasonlóba a nagy nemzeti eszmény vagy az idegengyűlölet mentén. Tennünk kell ez ellen (ahogy tegnap írtam: [történelmi időkben történelmi a felelősséged is!](http://agostonlaszlo.hu/hu/blog/60-tortenelmi-idokben-tortenelmi-a-felelosseged-is)). Meg kell értetni az emberekkel, hogy mi mivel jár, mégha a propaganda ez ellen dolgozik is...</em>Egyszer a történelmünk során tanulhatnánk végre mások hibájából. Remélem, hogy nekünk nem mindig csak Mohács kell...
-
-
-**Itt lájkolhatod az oldalam, ha egyetértesz:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
+Olvasom a kommenteket - amelyek között rengeteg a támadó, anyázó hangvételű - és féltem Magyarországot, hogy nem érti meg a fentiek súlyát. Hogy minket is belevisz egy szűklátókörű őrült valami hasonlóba a nagy nemzeti eszmény vagy az idegengyűlölet mentén. Tennünk kell ez ellen (ahogy tegnap írtam: [történelmi időkben történelmi a felelősséged is!](http://agostonlaszlo.hu/hu/blog/60-tortenelmi-idokben-tortenelmi-a-felelosseged-is)). Meg kell értetni az emberekkel, hogy mi mivel jár, mégha a propaganda ez ellen dolgozik is... Egyszer a történelmünk során tanulhatnánk végre mások hibájából. Remélem, hogy nekünk nem mindig csak Mohács kell...
