@@ -7,7 +7,7 @@ excerpt: "Ha a Zeneakadémián csináltam volna meg ezt, valszeg elkaszálnak...
 categories: blog
 # image:
 #  feature: DrezdaiParlament.jpg
-tags: [életrajz, Kodály]
+tags: [rólam, Moltopera, zene]
 ---
 
 ![]({{ site.baseurl }}/images/DrezdaiParlament.jpg)
