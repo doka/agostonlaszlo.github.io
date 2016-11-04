@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bocsánat, megzavarhatlak a gyűlöletben egy pillanatra'
+title: Bocsánat, megzavarhatlak a gyűlöletben egy pillanatra?
 date: 2016-07-27T13:27:02.000Z
 author: agoston_laszlo
 excerpt: Már meting ezek a migránsok meg muszlimok... ''Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista'' - írt rám magánban egy srác, akit előtte törölnöm kellett az oldalamról.
