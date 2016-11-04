@@ -5,7 +5,7 @@ date: 2016-06-04 07:08:28.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem."
 categories: blog
-tags: [empatia, mi történik]
+tags: [demokrácia, megbékélés]
 ---
 Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem.
 
@@ -39,10 +39,3 @@ _A szabadság téri sokat vitatott emlékmű, amely sokak szerint a "német sasr
 Ahogy olvastam az oldaladon: a németek nem elhallgatni akarják a problémákat, hanem éppen ellenkezőleg nem hergelik feleslegesen a népüket. Amivel én 100%-ig egyetértek és nem véletlenül írkáltam szinte mindenütt, hogy én lennék a világon a legboldogabb, ha nekünk is egy Angela Merkel lenne a miniszterelnökünk. Pedig most éppen, a menekültkérdésben elfoglalt álláspontja miatt nagyot zuhant a népszerűsége, de ahogy mondani szokták: egy igazi államférfi nem a következő választásra gondol, hanem a következő generációkra (elnézést ha rosszul idéztem, de a lényeget fedi). Angela Merkel pedig szerintem ilyen, sőt a németek többsége is ilyen, amikor ők szembe mertek nézni az elődeik által elkövetett bűnökkel. Ezzel szemben a magyarság, de főleg a mai hatalom, éppen ellenkezőleg Horthy-t és azt a korszakot tekinti példaképének, amelyben lágerbe küldték a családomat. Csodálkozunk azokon a kommenteken, amiket nálad is olvastam? Csodálkozunk, hogy ennyire kivetkőzött magából ez a nép, a nép nagy többsége?
 
 Én szívből kívánom Neked, hogy továbbra is legyen benned kitartás, legyen benned optimizmus, hogy meg lehet változtatni az embereket, de én már igazából feladtam a "harcot". Minden tisztességes, jóérzésű ember nevében köszönöm Neked azt amit teszel! Minden jót kívánok!"
-
-
-**Itt tudsz feliratkozni egy lájkkal az oldalamra:**
-
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
