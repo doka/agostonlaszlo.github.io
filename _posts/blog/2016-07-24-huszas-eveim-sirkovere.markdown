@@ -37,6 +37,3 @@ Ha elérhetsz valaha valamit, az az, hogy lesz, akinek fontos vagy és van mit k
 Nem tudom, mit hoznak a harmincasok, de veletek együtt állok elébe. Jó a pálya íve, de még homályos a cél. Ma hajnaltól harminc vagyok! Nem vágyom senki más helyébe, fáj az ember szíve, de messze még a tél!
 
 Bontottam egy üveg bort. Ha kedved támad, koccints velem!
-
-**Itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
