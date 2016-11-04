@@ -30,9 +30,8 @@ Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (
 
 Százhúsz éve egy bajszos francia, valami Pierre de Coubertin mondta ezt és a "gyorsabban, magasabban, erősebben" mellett ez lett az olimpia másik jelmondata. Utóbbit Béla a kávézóban nagyon jól ismeri. Baromi büszke arra, hogy Magyarország ötödik az éremtáblán, nálunk tízszer nagyobb országok között állunk. De az elsőt nem értette meg. Hogy ez az egész elsősorban arról szólna, hogy országok képviselői (igen, még a Menekült-válogatott is!) részt vesznek együtt egy közös versengésen és a győztesek gratulálnak a veszteseknek, a vesztesek pedig emelt fővel térnek haza. **Ez nem VB, nem EB, nem Roland Garros. Ez az Oliimpia.** Ez lenne a lényege.
 
-_Mi az Olimpia? Ez._
-
 ![]({{ site.baseurl }}/images/koreai2.jpg)
+_Mi az Olimpia? Ez._
 
 Béla azon csámcsog, ha valaki győz, hogy ő [35 milliót és életjáradékot kap](http://www.origo.hu/olimpia-2016/hirek/20160728-rioi-olimpia-dijazas-eletjaradek-olimpia-mob-penzdij.html), amíg Gizi néninek nincsen pénze csirkefarhátra. Ha nem győz, akkor cserbenhagyta a szurkolókat, azt gondolja, csak magáért indult? Azt számolgatja, hogy **hányan ünnepelték a focistákat** és milyen egy szar nemzet ez a magyar, mert most nincsen karnevál az utcákon (ha lenne, az lenne a baj, hogy nem tud aludni és Fifikét, a kutyáját zavarja az óbégatás).
 
@@ -40,9 +39,8 @@ Béla azon csámcsog, ha valaki győz, hogy ő [35 milliót és életjáradékot
 
 **Mohamed Aidának** szurkol, de minden muszlimot terroristának tart. Az ötszörös bajnok **Keleti** (született: **Klein**) **Ágnes** rekordját döntheti meg Katinka - micsoda sportolók! -, de képes a **Hajós Alfréd**ról (született:**Guttmann Arnold**) elnevezett uszodában magyarázni a mocskos zsidókról.
 
-_A Google kereső kiadja a leggyakoribb korábbi kereséseket egy adott kifejezésre_
-
 ![]({{ site.baseurl }}/images/shane.jpg)
+_A Google kereső kiadja a leggyakoribb korábbi kereséseket egy adott kifejezésre_
 
 És így tovább. Az a baj, hogy **az a társadalom, amelyikben hétköznapi a gyűlölet, az Olimpiát se tudja máshogy megélni.**
 
@@ -58,8 +56,3 @@ Olyanok félelembe, kizsákmányolásba, megalázásba és gyűlöletbe belefás
 **Köszönjük meg** ezeknek a harmatcseppeknek, hogy vannak és ne azt kérjük rajtuk számon, hogy miért nem hoztak többet. Vegyük már észre, hogy változást csak az öntözés hozhat. Ha "vezetőink" nem elszívják, hanem felkeltik bennünk a lelkierőt, ha nem hisszük el, amit az arcunkba hazudnak és nem bűnbakokat keresünk, hanem építkezni kezdünk együtt. Palántázni. Gyomlálni. **Ha nem kivágjuk az árnyékot adó fákat, hanem ültetjük azokat.**
 
 Ne bántsd. Örülj neki. Ha elbukott is, szeresd. Különben mindenki termőbb vidékekre költözik és csak a por marad meg a sivatag.
-
-**Ha tetszett és olvasnál még hasonlókat, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
