@@ -7,10 +7,14 @@ excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az
 categories: blog
 tags: [rólam, kereszténység, szex]
 redirect_from: "/hu/blog/59-isten-aldozatai-egy-kirugott-kereszteny-tortenete-ii-resz"
+image: http://agostonlaszlo.hu/images/istenaldozatai.jpg
+lang: hu
 ---
 “Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“ (Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van) című cikk folytatása.)
 
 Hihetetlenül felszabadító érzés volt, hogy “már nem vagyok hívő”. Isten parancsainak nem volt többé hatalma felettem. Isten parancsai... Hát kezdjük...
+
+![]({{ site.baseurl }}/images/istenaldozatai.jpg)
 
 Életem első szerelme egy szőke, szuperintelligens és szuperizgalmas lány volt. Tizenhat lehettem és ő mást szeretett, amikor elkezdtem udvarolni neki. Rengeteg időt töltöttünk együtt. Én, akinek soha egyetlen késése sem volt tizedikes koráig, volt, hogy tanórákat lógtam el miatta és az osztályfőnöknek kellett az igazolatlanjaimért közbenjárnia. Szerettem szűzen és kiváncsian, de ő mindig ellenállt az ostromaimnak – bár… napról napra jobban éreztem, hogy olvad a jég.
 
