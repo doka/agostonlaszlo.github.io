@@ -7,7 +7,7 @@ excerpt: "Korábban már leírtam az élményeimet a budapesti prideról is (Mel
 categories: blog
 tags: [Dánia, Budapest Pride]
 lang: hu
-image: {{site.baseurl}}/images/danpride1.jpg
+image: http://agostonlaszlo.hu/images/danpride1.jpg
 redirect_from: "/hu/blog/84-dania-pride"
 ---
 Korábban már leírtam az élményeimet a budapesti prideról is ([Melegfelvonulás - a pokol tornácán?](http://agostonlaszlo.hu/blog/budapestpride) címmel itt érhető el</a>) és szóltam arról, miért lenne fontos, [hogy végiggondold, mit írsz egy a melegjogokról szóló poszt alá](http://agostonlaszlo.hu/blog/lmbtq), illetve [miért nem kéne Isten nevében gyűlöletet szítani az LMBTQ-emberek ellen](http://agostonlaszlo.hu/blog/keresztenyseg-meleg)... Most egy külföldi utamon a Copenhagen Prideon, azaz a koppenhágai melegfelvonuláson jártam. Alább a tapasztalataim.
