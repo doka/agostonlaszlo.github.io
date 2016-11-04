@@ -33,7 +33,7 @@ Srácok! Ha valakinek egész cikkeket lehet teleírni a gyomorforgató idézetei
 Szerinted Bayer Zsolt munkássága a társadalmi csoportok megbékélését, a nemzet egységét és az alapvető emberi jogok tiszteletben tartását vagy ennek ellenkezőjét építi? Illetve egyáltalán: épít vagy rombol?
 
 Még ha el is fogadom, hogy ellenkezik a véleményed ebben az enyémmel, akkor se reális, hogy piedesztálra emeljünk valakit, aki ennyire sok embernek - fáj. Ja és akkor se lenne reális, ha ezt egy másik párt tenné. Ezek objektív kérdések.
-![]({{site.baseurl}}/images/bayer1.JPG)
+![]({{site.baseurl}}/images/bayer.jpg)
 
 A Magyar Érdemrend Lovagkeresztjének kitüntetettje nyilvánosság előtt vitatkozik ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
@@ -50,7 +50,7 @@ Szerintem a legtöbbeknek nem is azzal van már baja, hogy egy közepesen jelent
 Emlékszel, amit a cikk elején mondtam a körülöttem szenzációs dolgokat teljesítő - "díjazatlan" - művészekről, iskolaigazgatókról? Egy érdemtelen ember érdemesítése őket sérti. Az ő munkájukat veszi semmibe. Hiszen a társadalom által a díjak megítélésére felkért személyek szerint egy Bayer Zsolt többet ér náluk. 
 És ez baj. Óriási baj!
 
-![]({{site.baseurl}}/images/bayer2.JPG)
+![]({{site.baseurl}}/images/bayer2.jpg)
 
 Hazánk egyik vezető értelmiségije számon kéri, hogy valaki álnéven kritizálta ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
