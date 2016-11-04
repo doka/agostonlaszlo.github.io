@@ -5,7 +5,7 @@ date: 2016-07-03 09:57:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: Kicsoda ma Jézusi? Aki melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ül asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljenek.
 categories: blog
-tags: [Isten, hit]
+tags: [kereszténység, rólam]
 lang: hu
 image: http://agostonlaszlo.hu/images/isten.JPG)
 ---
