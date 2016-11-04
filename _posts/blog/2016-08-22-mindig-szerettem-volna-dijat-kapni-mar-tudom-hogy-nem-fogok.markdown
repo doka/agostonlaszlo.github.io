@@ -33,13 +33,11 @@ Srácok! Ha valakinek egész cikkeket lehet teleírni a gyomorforgató idézetei
 Szerinted Bayer Zsolt munkássága a társadalmi csoportok megbékélését, a nemzet egységét és az alapvető emberi jogok tiszteletben tartását vagy ennek ellenkezőjét építi? Illetve egyáltalán: épít vagy rombol?
 
 Még ha el is fogadom, hogy ellenkezik a véleményed ebben az enyémmel, akkor se reális, hogy piedesztálra emeljünk valakit, aki ennyire sok embernek - fáj. Ja és akkor se lenne reális, ha ezt egy másik párt tenné. Ezek objektív kérdések.
-
 ![]({{site.baseurl}}/images/bayer1.JPG)
-_forrás: MTI_
 
 A Magyar Érdemrend Lovagkeresztjének kitüntetettje nyilvánosság előtt vitatkozik ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
-**3. "Ne a stílusát nézzük, hanem hogy mit mond"</span>**
+**3. "Ne a stílusát nézzük, hanem hogy mit mond"**
 
 Ezt hallottam már egyszer... "ne azt nézzék, mit mondok, hanem mit csinálok"... a saját személyes értékrendem szerint közszereplőtől mindkettő meglehetősen olcsó.
 
@@ -49,14 +47,19 @@ Ezt hallottam már egyszer... "ne azt nézzék, mit mondok, hanem mit csinálok"
 
 Szerintem a legtöbbeknek nem is azzal van már baja, hogy egy közepesen jelentős állami kitüntetést kinek hogyan és miért ítélnek oda. Ez is fájdalmas, de a díj ma leginkább egy jelkép: a hatalom mindent és bármit társadalmi felhatalmazás nélkül (lásd ennek a díjnak a társadalmi megítélése), következmények nélkül és kedve szerint megtehet. Már megint. Apámék azt hitték, hogy ennek '89-ben vége, de újra a jó káderek kapják a plecsnit. És ez az ellenzék hatalomra kerülésével se tűnik úgy, hogy ez változhatna...
 
-Emlékszel, amit a cikk elején mondtam a körülöttem szenzációs dolgokat teljesítő - "díjazatlan" - művészekről, iskolaigazgatókról? Egy érdemtelen ember érdemesítése őket sérti. Az ő munkájukat veszi semmibe. Hiszen a társadalom által a díjak megítélésére felkért személyek szerint egy Bayer Zsolt többet ér náluk. </span>
+Emlékszel, amit a cikk elején mondtam a körülöttem szenzációs dolgokat teljesítő - "díjazatlan" - művészekről, iskolaigazgatókról? Egy érdemtelen ember érdemesítése őket sérti. Az ő munkájukat veszi semmibe. Hiszen a társadalom által a díjak megítélésére felkért személyek szerint egy Bayer Zsolt többet ér náluk. 
 És ez baj. Óriási baj!
+
+![]({{site.baseurl}}/images/bayer2.JPG)
 
 Hazánk egyik vezető értelmiségije számon kéri, hogy valaki álnéven kritizálta ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
 5. **Megvédjük a mi kutyánk kölykét**
 
 Nem hozza könnyű helyzetbe a Fidesz a saját követőit. Egyre fogynak, morzsolódnak, de a maradék próbálja minden erejével elhinni, hogy ami történik, érte történik. Próbálják megmagyarázni a megmagyazáhatatlant: az arab bankárok nem is igazi muszlimok, Bayer Zsolt igazából csak egy csúnyán beszélő fenegyerek, akit támadnak a haza ellenségei... de fogynak az érvek és egyre nagyobbak a baromságok, amiket valahogy meg kéne emészteni.
+
+![]({{site.baseurl}}/images/bayer1.JPG)
+_forrás: MTI_
 
 Sose felejtem, egyszer egy hölgy valamelyik fórumon segítséget kért. "Rengetegen támadnak azzal, hogy a stadionépítéseknek semmi értelme. Én sem igazán látom, hogy ez miért jó nekünk, de szeretnék jó Fideszes lenni. Mit mondjak?"
 
