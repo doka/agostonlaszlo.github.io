@@ -5,7 +5,7 @@ date: 2016-08-11 06:38:53.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Gyurta minek ment ki, ha fel se készült? - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el. Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (időnként megszakítja egy 'TUDTA?') és álmosan, nyárközepi unalommal arconhányja az olimpiai, háromszoros világ- és kétszeres Európa-bajnok magyar úszót. Úgy kell neki. The winner takes it all."
 categories: blog
-tags: [megbékélés]
+tags: [megbékélés, videó]
 lang: hu
 redirect_from: "/hu/blog/79-idezet-gyurta-minek-ment-ki-ha-fel-se-keszult"
 image: http://agostonlaszlo.hu/images/olimpikonunk.jpg
@@ -49,7 +49,7 @@ Ezért üvöltően fájdalmas, hogy karikába mennek az "egyperces hírek" a kö
 
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist%2Fvideos%2F890373597733406%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-Ez a véleményem a "TUDTA?" - videókról...
+_Ez a véleményem a "TUDTA?" - videókról..._
 
 Olyanok félelembe, kizsákmányolásba, megalázásba és gyűlöletbe belefásult magyar társadalomnal ezek a nemzeti színekben futó-úszó-kardozó-pingpongozó fiúk és lányok, **mint a hajnali pára** a szavannán. Életet hoznak, örömöt hoznak, enyhülést hoznak, fellélegzést hoznak és elhitetik velünk egy kicsit, hogy jó itt. Aztán felkel majd a nap, felszárítja a harmatot és folytatódik Magyarország szíveket-lelkeket tikkasztó napsütése, az utálkozás és ostobaság forrósága, amitől újra sivataggá válik a táj.
 
