@@ -7,7 +7,8 @@ excerpt: "Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyáz�
 categories: blog
 tags: [megértés, anyázás]
 lang: hu
-image: http://agostonlaszlo.hu/images/harag.JP
+image: http://agostonlaszlo.hu/images/harag.JPG
+redirect_from: "/hu/blog/49-mit-tegyel-ha-az-torli-beled-a-labat-akinek-segiteni-akartal"
 ---
 Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél...
 
