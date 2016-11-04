@@ -5,7 +5,9 @@ date: 2016-05-16 09:18:19.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Építsünk egy stadiont! Ha Fideszes vagyok - juhú, de jó, az ország jobban teljesít. Ha balos - mocskos hazaáruló, rabló banda. Építsünk Nemzeti Színházat az Erzsébet térre! Ha balos vagyok, juhú, de jó, épülünk-szépülünk. Ha Fideszes - mocskos nyolcév rablóbanda."
 categories: blog
-tags: [Fidesz, Gyurcsány]
+tags: [demokrácia,]
+image: tehen-d0001B15Fdf69c933b813.jpg
+lang: hu
 ---
 Építsünk egy stadiont! Ha Fideszes vagyok - juhú, de jó, az ország jobban teljesít. Ha balos - mocskos hazaáruló, rabló banda.
 Építsünk Nemzeti Színházat az Erzsébet térre! Ha balos vagyok, juhú, de jó, épülünk-szépülünk. Ha Fideszes - mocskos nyolcév rablóbanda.
@@ -23,13 +25,13 @@ Nem volt jó ötlet a kórházak felújítása helyett meg az oktatás leépít�
 Tények. Nem érzelmek. Nem mind hülye, aki nem ugyanazt mondja, mint én. A képen eredetileg Orbán volt. Tettem a feje helyére egy magyar címert. Mert te is tudod és én is, hogy bármelyik ugyanezt csinálta volna, csak talán kisebb mértékben (hiába, kétharmad...)
 Mi a megoldás?
 
-- 1, bocsáss meg magadnak, ha az, akire szavaztál nem váltotta be a hozzá fűzött reményeket - és ne védd körömszakadtáig a tények ellenére. Nem hibáztál a szavazatoddal. A párkapcsolat-választásaink se mindig sikerülnek, mégse megyünk hozzá egy idiótához, csak mert egyszer igent mondtam a randira!
+1, bocsáss meg magadnak, ha az, akire szavaztál nem váltotta be a hozzá fűzött reményeket - és ne védd körömszakadtáig a tények ellenére. Nem hibáztál a szavazatoddal. A párkapcsolat-választásaink se mindig sikerülnek, mégse megyünk hozzá egy idiótához, csak mert egyszer igent mondtam a randira!
 
-- 2, civil, pártfüggetlen, szakmai szervezetek. Emberek, akik értenek hozzá és összefognak, hogy tegyenek egy-egy szakkérdésért. Pl. a VEKE miatt vannak ma Pesten éjszakai buszok. Éljen!
+2, civil, pártfüggetlen, szakmai szervezetek. Emberek, akik értenek hozzá és összefognak, hogy tegyenek egy-egy szakkérdésért. Pl. a VEKE miatt vannak ma Pesten éjszakai buszok. Éljen!
 
-- 3, meg kell találnia egymást a hasonlóan gondolkodóknak. Nem azért, hogy kialakuljon a Krisztusként várt "Harmadik erő" aki XY új klikkjeként pofánvágja a homokozóban Viktorkát és Ferikét, hanem, hogy legyenek érdekképviseleti szervezetek. Egy új, eddig ismeretlen diktátorral nem jutunk messze...
+3, meg kell találnia egymást a hasonlóan gondolkodóknak. Nem azért, hogy kialakuljon a Krisztusként várt "Harmadik erő" aki XY új klikkjeként pofánvágja a homokozóban Viktorkát és Ferikét, hanem, hogy legyenek érdekképviseleti szervezetek. Egy új, eddig ismeretlen diktátorral nem jutunk messze...
 
-- 4, el kell fogadni a sokszínűséget. Hogy lehetnek a vélemények különbözők és nem biztos, hogy a tiéd az igaz. Vagy hogy több is lehet igaz egyszerre. És azt a döntést kell meghozni, ami a legtöbbek érdekét szolgálja.
+4, el kell fogadni a sokszínűséget. Hogy lehetnek a vélemények különbözők és nem biztos, hogy a tiéd az igaz. Vagy hogy több is lehet igaz egyszerre. És azt a döntést kell meghozni, ami a legtöbbek érdekét szolgálja.
 
 Hol kezdjük? Keressük egymást a nagy "értelmiségi szétszóratásban" Babilon falai között és beszélgessünk. Tanuljuk meg úja, milyen meghallgatni a másikat és elismerni az "ellenfél" értékeit.
 Szinte pédátlan itthon. Pedig nem is annyira nehéz.
