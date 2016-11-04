@@ -80,16 +80,16 @@ A melegfelvonulás nem az, aminek mondják. A legtöbben, akik először jönnek
 ![]({{site.baseurl}}/images/pride8.JPG)
 
 A helyes megfejtés:
-*1. Budapest Parádé 2005
+1. Budapest Parádé 2005
 
-*2. Budapest Pride
+2. Budapest Pride
 
-*3. Budapest Parádé
+3. Budapest Parádé
 
-*4. Balaton Sound 2013 (Stiller Ákos képe)
+4. Balaton Sound 2013 (Stiller Ákos képe)
 
-*5. Budapest Pride 
+5. Budapest Pride 
 
-*6. Aintree lóversenypálya, női futam, Anglia
+6. Aintree lóversenypálya, női futam, Anglia
 
-*7. Budapest Pride
+7. Budapest Pride
