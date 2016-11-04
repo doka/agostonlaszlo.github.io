@@ -3,9 +3,12 @@ layout: post
 title: Nem vagyok hülye attól még, hogy nem kiabálok
 date: 2016-07-20 06:55:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám."
+excerpt: "Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is látom a veszélyt, de amikor fröcsögve gyűlölöd egy majd' kétmilliárdos népcsoport MINDEN tagját, hányingerem támad.."
 categories: blog
-tags: [bevándorlás, terrorizmus, muszlim]
+tags: [iszlám, terrorizmus, megbéklésé]
+lang: hu
+redirect_from:image:
+image: http://agostonlaszlo.hu/images/nemlendit.JPG
 ---
 Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám.
 
@@ -29,8 +32,3 @@ De nem adsz nekem esélyt, mert a polarizáltság miatt már az ésszerű fennta
 Mindig próbálok az írásaim végén valami előre mutatót is megfogalmazni. Itt nagyon nehéz. De egy azért van: ne gondold, hogy aki nem gyűlölködik, az nem lát. De lát. És ugyanúgy fél, mint te. Csak nem gondolja, hogy az eszetlen általánosítás, félelemkeltés és hisztériagerjesztés előre vezetne.
 
 Te pedig gondold végig, hogy mik a racionális érveid. Az érzelmieket már hallottuk elégszer.
-
-**Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
