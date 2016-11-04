@@ -7,6 +7,7 @@ excerpt: Azt mondják, már én se vagyok pártatlan. Képzeld el, hogy látsz k
 categories: blog
 image: http://agostonlaszlo.hu/images/grant.jpg
 tags: [demokrácia, videó]
+lang: hu
 ---
 
 "Ha nem lesztek olyanok, mint a gyermekek, nem mentek be az Isten országába” (Mt 18,3)
