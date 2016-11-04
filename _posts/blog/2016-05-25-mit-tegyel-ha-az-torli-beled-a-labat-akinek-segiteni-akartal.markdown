@@ -6,6 +6,8 @@ author: agoston_laszlo
 excerpt: "Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél..."
 categories: blog
 tags: [megértés, anyázás]
+lang: hu
+image: http://agostonlaszlo.hu/images/harag.JP
 ---
 Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél...
 
@@ -43,7 +45,3 @@ Meg kéne tanulnunk néha tévedni is. Nem leszünk tőle kevesebbek, ha bevallj
 De a szándékom tiszta. És ezt kérem Tőled is, hogy így olvasd, így értelmezd és így szólj hozzá, ha megteszed. Gyűlölködni mindenki tud, ráadásul most divatos is. Próbáljuk meg itt "nálam" tisztelni a másikat. Nehezebb, néha vérnyomásemelő, de csak ez épít.
 
 És állít helyre lelkeket.
-**Ha tetszik, amit olvastál egy lájkkal feliratkozhatsz itt az oldalamra:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
