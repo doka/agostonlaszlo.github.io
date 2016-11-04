@@ -7,7 +7,7 @@ excerpt: "Amikor azt mondom, hogy feminista vagyok, az emberek többsége megdö
 categories: blog
 tags: [szex, feminizmus, nőjogok]
 lang: hu
-image: nok.JPG
+image: http://agostonlaszlo.hu/images/nok.JPG
 ---
 A bal oldali kép a 2014-es AVN pornófilmes díjkiosztón készült, a jobb oldalin befolyásos emberek láthatók a Metropolitan operabálján. Nem tudom, ti mit láttok ebben, én azt, hogy egy nőnek tárgynak kell lennie akár így, akár úgy.
 
