@@ -12,7 +12,7 @@ redirect_from: /hu/blog/51-miert-nincs-isten-ha-van
 ---
 Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét.
 
-![]({{ site.baseurl }}/images/kakas.JPG)
+![]({{ site.baseurl }}/images/istenaldozatai.jpg)
 
 Tizennégy voltam, amikor egy református táborban "megtértem". A szüleim nem voltak templomba járó emberek, liberális neveltetésem részeként irattak be hittanra - tudjam, hogy mi az, hogy aztán el tudjam dönteni, akarok-e vele foglalkozni. Én voltam az egyetlen a lakótelepről, aki minden héten beült Mózesről, Jézusról és a Bibliáról tanulni, sokszor egyedül értem jött ki az iskolába a tanár. Évekig.
 
@@ -25,6 +25,8 @@ Hamarosan egy keménykalapos református gyülekezet "kilógó" karizmatikus kö
 Ha a "hitünk zsinórmértéke a Biblia" (református alapigazság), akkor miért ne tettük volna? Látja valaki bárhol a Bibliában, hogy "elvívén őket a lelkészhez, aki levizsgáztatja, megkereszteli majd egyházi adó fizetésére kötelezi őket az Atyának, a Fiúnak és a Szent Léleknek nevében"? És lőn: magunk is megmerítkeztünk a Dunában (fantasztikus élmény volt, amit máig köszönök srácok!) és megmerítettünk a Dunában sokakat.
 
 19 évesen lettem egy hat fős ifjúság vezetője (egy másik református gyülekezetben). Elmentem egy alkalmukra és (az előző évek teljes odaszánása miatt) gyakorlatilag ugyanúgy<em> tanítottam</em>, mint a lelkész. Fejből idéztem a verseket és átláttam a Bibliát - ennyi erőbefektetéssel ez nem is nagy szó... Az akkori lelkész meglátta bennem a potenciált és azt mondta, ha már kilógok az ifik közül, vezessem is őket. Én pedig büszkén kezdtem az építkezést! Az volt a megállapodás, hogy taníthatom az elveimet, de ne botránkoztassak meg senkit az "ultraságommal". Ez abszolút elfogadható volt.
+
+![]({{ site.baseurl }}/images/kakas.JPG)
 
 Az ifi gyarapodni kezdett. Egyre többen lettünk egyre különbözőbb emberek. Imádtam, hogy olyanok is eljöttek az alkalmainkra, akiknek aztán tényleg semmi közük nem volt hithez, Istenhez, Jézushoz. "Isten kurva" - írt egyszer SMS-t az egyik ifisem - és én büszke voltam, hogy ezt el merte küldeni nekem.
 
