@@ -6,12 +6,15 @@ author: agoston_laszlo
 excerpt: "Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás."
 categories: blog
 tags: [Lovagkereszt, elismerés]
+lang: hu
+image: {{site.baseurl}}/images/bayerfo.jpg
 ---
 Gyerekkoromban sok elismerést kaptam. Volt egy kék dossziém (sőt, még ma is megvan az ágyam alatt), amiben az okleveleimet gyűjtöttem. Aztán főiskolás lettem, kaptam Köztársasági Ösztöndíjat (erre nagyon büszke voltam), Tudományos Diákköri Konferenciát nyertem. Aztán szépen elmaradt a folytatás.
 
 Azóta rájöttem, hogy felnőtteknél ez máshogy van - legalábbis Magyarországon biztosan. Szétnézve a környezetemben számtalan szenzációs művészt, tanárt, iskolaigazgatót látok, akit nem ért utól az elismerés. Nem lehet, hogy nálunk a teljesítmény helyett a lojalitást jutalmazzák?
 
-(hiányzó kép bayerfo.JPG)([forrás](http://europakavezo.blog.hu/2015/05/02/breking_amikor_bayer_bekerdez_orbannak))
+![]({{site.baseurl}}/images/bayerfo.jpg)
+([forrás](http://europakavezo.blog.hu/2015/05/02/breking_amikor_bayer_bekerdez_orbannak))
 
 
 Bayer Zsolt kitüntetése gáz.[Eddig a pillanatig negyedszáz](http://444.hu/2016/08/22/visszaadott-lovagkereszt-szamlalo) (!!!) korábbi kitüntetett adta vissza a lovagkeresztjét, mert nem akart közösséget vállalni a "publicistával". Az jut erről eszembe, amikor a vészkorszakban Bartók megtiltotta, hogy közteret nevezzenek el róla Magyarországon, amíg olyanokról vannak közterek elnevezve, akikről akkor voltak. Ő sem a hazáját tagadta meg ezzel - mint a díjakat visszaadókra most néhányan mondják -, hanem egy értékrendhez akart hű maradni. Amely értékrendet ma is sokan követünk.
@@ -31,7 +34,7 @@ Srácok! Ha valakinek egész cikkeket lehet teleírni a gyomorforgató idézetei
 
 Még ha el is fogadom, hogy ellenkezik a véleményed ebben az enyémmel, akkor se reális, hogy piedesztálra emeljünk valakit, aki ennyire sok embernek - fáj. Ja és akkor se lenne reális, ha ezt egy másik párt tenné. Ezek objektív kérdések.
 
-(hiányzó kép bayer1.jpg)
+![]({{site.baseurl}}/images/bayer1.jpg)
 
 A Magyar Érdemrend Lovagkeresztjének kitüntetettje nyilvánosság előtt vitatkozik ([forrás](http://b1.blog.hu/2015/08/26/ilyen_amikor_bayerbol_kitor_a_benne_lako_allat))
 
@@ -58,9 +61,3 @@ Sose felejtem, egyszer egy hölgy valamelyik fórumon segítséget kért. "Renge
 
 Bárcsak egy nap megélhetném, hogy nem az fog számítani, ki mondja, hanem hogy igaz-e a szó... Bárcsak egy nap megélhetném, hogy az emberek forráskritikával fordulnak a politikusok nyilakozatai felé. Bárcsak egy nap megélhetném, hogy a baloldal nem csak azt akarja megmagyarázni, hogy miért rossz, ami történik, hanem épkézláb megoldásai is lennének...
 Erre a kérdésre most megint a civilek hoztak megoldást. Az a - már, de még csak - huszonöt művelt fő, akik visszaadták a saját díjukat. És ezzel azok közé a nagyszerű művészek, tudósok, iskolaigazgatók és értelmiségiek közé kerültek, akiket díj nélkül is megillet a tisztelet.
-
-
-**Ha tetszett és olvasnál még hasonlókat, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
