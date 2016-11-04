@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Hogyan lehetne megállítani a terrorizmust?
+title: Hogyan lehetne megállítani a terrorizmust? Akarjuk egyáltalán?
 date: 2016-07-28 10:48:25.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy 'velük vagy ellenük' szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!"
 categories: blog
-tags: [bevándorlás, migráció, muszlim]
+tags: [iszlám, megbékélés, terrorizmus]
+image: http://agostonlaszlo.hu/images/juncker.JPG
+lang: hu
 ---
 Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!Korábbi írásaim:
 
@@ -57,8 +59,3 @@ Ehhez aztán végképp nem értek. Szíriában több az erővonal, mint egy szab
 Addig, amíg európai/amerikai politikusok kampányokban tudják hülyíteni a népet és a saját szavazataik gyűjtésére / botrányaik takargatására használják a terrorizmust, ne számítsunk jobbra. Orbánnak érdeke, hogy legyenek robbantások és ő csinálhasson szép kamuképeket, ahogy összeül a válságstábbal, kivezényli a TEK-es harckocsit a reptérre (milyen bölcs és hasznos!) és kemény kézzel védi a Hazát az *imperialista sötétben bújkáló ellenforradalmárok migránssimogató liberális ellenség* ellen, egyenes vérvonalat teremtve valahogy maga és Szent István valamint Hunyadi János közöttl. Amíg ez így van, ne csodálkozzunk, ha nem történnek meg az előbbiek.
 
 De mi ettől még maradhatnánk emberek...
-
-**Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
