@@ -11,8 +11,6 @@ lang: hu
 
 ![](http://www.moltopera.hu/tar/SzaboZoltan3.jpg)
 
-2012. február 15. Ez a dátum úgy égett bele az agyamba, mint a születésnapom vagy karácsony napja. Ezen a napon alakult meg az operatársulatom, tartottuk az első koncertünket és ekkor készült ez a kép is.
-
 10 éves voltam, ötödikes. Egy meleg, nyárvégi napon, tornaóra után a középiskolám (Balassi Bálint Nyolcévfolyamos Gimnázium) egyik fülledt termében ültem. Akkoriban még súlyos asztmám volt, mindig a zsebemben lapult a Ventolin, ha befulladnék - és éppen ekkor már túl is voltam a használatán. Ájuldoztam, miközben a többiek kötelező vers-memoritereket mondtak fel Szabó Z(oltán tanár úr)nak. Nem tudom milyen megfontolásból, de én is jelentkeztem, pedig alig álltam a lábamon.
 
 "Kosztolányi Dezső: Mostan színes tintákról álmodom.
