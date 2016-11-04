@@ -7,7 +7,9 @@ date: 2016-07-07 09:02:46.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Tudjátok, hogy nem vagyok se a mostani se a korábbi kormányok barátja, de ez a kép két ok miatt hoz zavarba. Egyrészt, hogy békés tiltakozókat megüthetnek (ráadásul oldalról, amikor nem figyel), eltörhetik az ujjukat Magyarországon. Másrészt, mert nem érzem magaménak a ligetvédők protestjét. Mindkettő nagyon zavar."
 categories: blog
-tags: [Liget]
+tags: [demokrácia]
+lang: hu
+image: http://agostonlaszlo.hu/images/gulyas.jpg
 ---
 Tudjátok, hogy nem vagyok se a mostani se a korábbi kormányok barátja, de ez a kép két ok miatt hoz zavarba.Egyrészt, hogy békés tiltakozókat megüthetnek (ráadásul oldalról, amikor nem figyel), eltörhetik az ujjukat Magyarországon. Másrészt, mert nem érzem magaménak a ligetvédők protestjét. Mindkettő nagyon zavar.
 
