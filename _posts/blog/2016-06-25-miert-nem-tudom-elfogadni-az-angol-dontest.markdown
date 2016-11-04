@@ -5,7 +5,7 @@ date: 2016-06-25 17:18:00.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Rengetegszer kapom meg, hogy 'miért nem tudom elfogadni, hogy az angol emberek döntöttek a sorsuk felől'. Hogy 'nem csak akkor kell liberálisnak lenni, amikor neked tetsző dolgok történnek'. Oké. Alább bemutatom, miért."
 categories: blog
-tags: [brexit, Anglia]
+tags: [demokrácia]
 lang: hu
 image: http://agostonlaszlo.hu/images/fejfogos.jpg
 ---
