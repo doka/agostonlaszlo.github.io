@@ -68,8 +68,3 @@ Találkozónk végén egy fenségesen szép, magyarázatos Koránt kapok ajánd�
 "Azt, hogy élünk. Magyarok vagyunk és ez a mecset már húsz éve működik itt. Zavart eddig bárkit is? Volt bárkinek is rossz tapasztalata az ötvenezer (!) hazai muzulmánnal? Egyszer elmentem horgászni és mellém telepedett két fürdőző. Megbeszélték, hogy mennyire undorodnak a bevándorlóktól és kirázza a hideg őket a muszlimoktól. Csendben, mosolyogva hallgattam. A beszélgetésük végén felálltak, köszöntek és elmentek. El se tudták volna képzelni, hogy az a magyarnak kinéző, magyarul beszélő magyar fickó, aki mellettük paprikás kenyérrel keszegezik egy muszlim mecset imámja. Ennyire zavarjuk egymás köreit."
 
 Elbúcsúzom. Az utcára kilépve megint homlokon vág a forróság. A Róbert Károly körúton csilingelve érkezik a villamos, én pedig egy ezer oldalas, aranyló Koránnal a kezemben szállok fel. Páran észreveszik. Megbámulnak. Nem szégyellem.
-
-**Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:**
-<[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
