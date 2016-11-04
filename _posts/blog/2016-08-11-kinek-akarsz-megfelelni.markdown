@@ -27,7 +27,7 @@ Minden erőmet összeszedtem a következő félévben. Megacéloztam az idegeime
 
 A következő vizsgám nagyon jól sikerült. Mindenki meglepődött és elégedtt volt, de **3,4** -nél nem kaphattam többet. Azért az mégse járja, hogy a "rossz énekes" jó jegyet kapjon!(Ugye az az egy tized, mennyire sokat számít...)
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fagostonlaszloartist%2Fvideos%2F851218881648878%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://player.vimeo.com/video/190269837" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 _Egy 2011-es vizsgafelvétel_
 
 A következő vizsgám utáni értékelésen csupa gratulációt kaptam. Ilyenkor körbeültünk egy nagy márványasztalt és minden tanár (csupa Kossuth-díjas!) elmondta a véleményét. "Nincsen kritikai észrevételem, gratulálok, nagyszerű teljesítmény!" - így a az első. "Nem tudok mit mondani, nagyszerű volt"- így a második és így mindegyikük sorban, amíg el nem értünk az asztal felém eső oldalára.
