@@ -7,8 +7,9 @@ excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az
 categories: blog
 tags: [kereszténység, rólam, szex]
 lang: hu
+image:
 ---
-“Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“ (<span style="font-size: 12.16px; line-height: 15.808px;">Ez a cikk a</span><a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank" style="font-size: 12.16px; line-height: 15.808px;">Miért nincs Isten, ha van? - egy kirúgott keresztény története</a><span style="font-size: 12.16px; line-height: 15.808px;">című cikk folytatása.)</span>
+“Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“ Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van) című cikk folytatása.)
 
 Hihetetlenül felszabadító érzés volt, hogy “már nem vagyok hívő”. Isten parancsainak nem volt többé hatalma felettem. Isten parancsai... Hát kezdjük...
 
@@ -19,6 +20,7 @@ Egy nap Isten (nevében valaki) azt mondta – ne kérdezd, hogyan… egy imaalk
 A barátaim azzal vigasztaltak, hogy <em>így volt csak igazán teljes az áldozat. Én pedig máig azon gondolkodom, mi lett volna, ha “áldozás helyett” megölelem aznap és nem egy másik “isteni akarathoz” kötődik életem első csókja.
 
 ![]({{ site.baseurl }}/images/lany1.JPG)
+_A kép illusztráció_
 
 Egy másik “isteni akarathoz”, ami sok évre tett tönkre. A közösségünkben volt egy lány – nálam több, mint öttel idősebb. Ennek a lánynak igen erős prófétai ajándéka volt – olyan dolgokat mondott meg másokról, helyzetekről, történésekről, amiket elvileg nem tudhatott volna. Csodáltuk ezért. Álmokat látott, amik beteljesültek, álmokat, amik utat mutattak embereknek – legalábbis mi útmutatásnak vettük ezeket.
 
