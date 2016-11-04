@@ -5,7 +5,7 @@ date: 2016-08-14 17:04:03.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Végeztem egy kísérletet. Orbán Viktor iszlám- és a más kultúrákat támogató szavait, amelyet gazdag arab bankároknak mondott, a sajátomnak tüntettem fel és meghirdettem a Fidesz és/vagy Orbán Viktor követői között."
 categories: blog
-tags: [Fidesz, muszlim]
+tags: [iszlám, terrorizmus, demokrácia, megbékélés]
 image: http://agostonlaszlo.hu/images/orbanarab.jpg
 redirect_from: "/hu/blog/82-hogyan-alljon-egy-fidesz-szavazo-az-iszlamhoz"
 lang: hu
