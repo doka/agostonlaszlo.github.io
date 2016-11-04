@@ -75,3 +75,14 @@ Tény, hogy a kormány hivatalosan nem állt ki az iszlám ellen, sőt Orbán mi
 Kérdezheted, mi lett volna a megoldás? A válasz egyszerű: nem hergelni az embereket és szítani az ellentétet, hanem pont hogy nyugtatni a közvéleményt és csökkenteni azt. [Én is félek a bevándorlási hullám hatásaitól](http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok) és nem gondolnám, hogy [rossz ember vagy rasszista lennél, ha te is félsz.](http://agostonlaszlo.hu/hu/blog/73-meg-jobban-osszezavarlak-nem-vagy-rasszista-ha-felsz)
 
 De elvárható lenne, hogy miközben az üzleti kapcsolatok építéséért, a letelepedési kötvényekért udvarolja körbe a kormány az arab államok gazdagjait, addig legalább ne rúgjon bele a más arab/muszlim államokból talán pont ezek miatt a gazdagok miatt is menekülőkbe...
+
+**UPDATE**
+
+*Az írás megjelenésének másnapján* hackertámadás áldozatává vált az oldalam és hetekig elérhetetlen volt. 
+A kísérlet híre bejárta az országot
+
+<iframe src="https://player.vimeo.com/video/190270883" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/190270883">&Aacute;goston L&aacute;szl&oacute; - RTL H&iacute;rad&oacute;</a> from <a href="https://vimeo.com/user49887378">&Aacute;goston L&aacute;szl&oacute;</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+sőt, még külföldre is eljutott ([Der Standard](http://derstandard.at/2000043881955/Orban-Der-Islam-ist-in-Ungarn-willkommen))
+
