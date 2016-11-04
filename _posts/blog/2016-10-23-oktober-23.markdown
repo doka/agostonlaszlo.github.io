@@ -5,13 +5,14 @@ date: 2016-09-07 15:17:42.000000000 +00:00
 author: agoston_laszlo
 excerpt: Remélem, egy nap majd én is büszke leszek a harmincas éveimre. A most virágzó demokráciára, sajtó- és szólásszabadságra. Hogy ma már nincs mi ellen forradalmat csinálni, hiszen működik a fékek és ellensúlyok rendszere, a Hazámat korrekt módon választott vezetők vezetik, esély sincs diktatúrára, autoriter kormányzásra, az ellenzék megfélemlítésére esetleg civil, jogvédő szervezetek állami vegzálására.
 categories: blog
-tags: [október 23., demokrácia, nemzeti ünnep]
+tags: [demokrácia]
+lang: hu
+image: https://s-media-cache-ak0.pinimg.com/736x/3e/45/77/3e45770cde4638813d9edc08c230db4c.jpg
 ---
 
 Tudod, mi az igazi ünnep? A középiskolámba úgy tizenöt évvel ezelőtt meghívtak két ötvenhatost október huszonharmadikán. Nem volt miniszteri beszéd, nem voltak tapsolók se füttyögők, csak ott ült két idősödő ember és csillogó szemmel beszélt háromszáz gyerekhez. Ők tényleg ott voltak. Ők elmondták.
 
-!
-[A kép forrása: Pinterest](https://s-media-cache-ak0.pinimg.com/736x/3e/45/77/3e45770cde4638813d9edc08c230db4c.jpg)
+![A kép forrása: Pinterest](https://s-media-cache-ak0.pinimg.com/736x/3e/45/77/3e45770cde4638813d9edc08c230db4c.jpg)
 Azt, hogy ez egy tiszta forradalom volt. Amikor véletlenül betörtek egy kirakatot, pénzt dobáltak a bezárt boltba kártérítésül. (Persze még az előtt, hogy egy magyar behívta volna a magyarok ellen a szovjet csapatokat és porrá lőtték volna a Belvárost.) Azt, hogy mindenki mosolygott és az emberek lelke hamarabb szabadult fel, mint az ország (arra a kis időre). Azt, hogy büszkék és életük végéig büszkék is maradnak arra, hogy részük volt ebben, még ha utána börtönéveket is mért rájuk a Rendszer.
 
 Remélem, egy nap majd én is büszke leszek a harmincas éveimre. A most virágzó demokráciára, sajtó- és szólásszabadságra. Hogy ma már nincs mi ellen forradalmat csinálni, hiszen működik a fékek és ellensúlyok rendszere, a Hazámat korrekt módon választott vezetők vezetik, esély sincs diktatúrára, autoriter kormányzásra, az ellenzék megfélemlítésére esetleg civil, jogvédő szervezetek állami vegzálására. Ma már senkiben sem merül fel, hogy a rendszerkritika megfogalmazásáért bárkit is hátrány érne, kirugnák a munkahelyéről.
@@ -20,4 +21,4 @@ Jó itt élni. Mosolygós, barátságos magyarok között, akik hittel tekintene
 
 Ezt ünnepeljük ma, október 23-án.
 
-Ezt a cikket eredetileg a Facebookon írtam meg egy posztban. Az eredeti bejegyzés [itt található] (https://.facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/945680208869411/?type=3&theater)
+Ezt a cikket eredetileg a Facebookon írtam meg egy posztban. Az eredeti bejegyzés [itt található](https://.facebook.com/agostonlaszloartist/photos/a.524823634288406.1073741831.447410712029699/945680208869411/?type=3&theater)
