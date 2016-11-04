@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Beilleszkedhetnek egyáltalán a bevándorlók Európában?"
+title: Beilleszkedhetnek egyáltalán a bevándorlók Európában?
 date: 2016-07-28 10:07:21.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy 'velük vagy ellenük' szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!"
 categories: blog
 tags: [bevándorlás, migráció]
+lang: hu
+image: http://agostonlaszlo.hu/images/baratsag.JPG
 ---
 Ez a cikk egy migrációról szóló sorozat része. Úgy gondolom, sokkal bonyolultabb annál a téma, hogy "velük vagy ellenük" szintre lehessen butítani. Akkor viszont beszéljünk róla egyszer részletesen!Korábbi írásaim:
 
@@ -20,7 +22,6 @@ Mindenek előtt két fogalmat tisztázzunk: mit jelent a beilleszkedés és mit 
 Egy nemzet nem csak - sőt legkevésbé - születési, helyi alapon szerveződik. Gondoljunk mondjuk arra az ausztrál fiúra, aki nagy Magyarországot tetováltatott a karjára, pedig a nyelvet sem beszéli. Számára fontos az a gyökér, az a kulturális kötelék, amit a "magyarnak lenni" érzése jelent az ausztrálok között.
 
 **De mit jelent magyarnak lenni?**
-
 
 Nekem Bartókot és Kodályt, a csülökpörköltet, amit anyám a pöttyös lábasban csinál; a nyelvemet, amin a legjobban tudom kifejezni magam az öt nyelv közül, amit beszélek; a helyeket: a gimnáziumomat, a rákosligeti templomot, a nagymamám omladozó vályogházát, a Deák téri lenge ruhás lányokat; Józsit, a barokkzene-kedvelő kocsmárost, a Zeneakadémiát és apámat, ahogy csipkebogyót pucol a kerti kisházban. Nekem ez Magyarország. A barátaim már nem, mert őket elüldözte innét 26 év agyatlan és hűtlen kormányzása.
 
@@ -60,9 +61,6 @@ b, nem várhatjuk el senkitől - és miért is lenne jó? -, hogy a saját kult�
 
 c, az integrációt neked is segítened kell. Olcsó dolog kirekeszteni, aztán mutogatni, hogy mennyire nem tudott valaki a közösség része lenni...
 
-Létezik működő együttélés. A multikulturalizmus működő dolog és baromira semmi köze a terroristákhoz. Azt jelenti, hogy különböző emberek együtt adják össze, amijük van a jobb boldogulás reményében. Például te nem dolgozol Karácsonykor és kisegíted őt Ramadánkor. Például a gyereked az óvodában megtanul három nyelven anyanyelvi szinten és az egész világ megnyílik a számára. Például megismerkedsz más hitekkel, művészetekkel, kultúrákkal és a legjobb, legizgalmasabb részei beépülnek a te kultúrádba is. És. Így. Tovább. Meg nem zárkózik be a társadalom egy évszázadok óta érlelt fájú koporsóba. Persze, amíg nálunk, a [népek olvasztótégelyében](http://modoros.blog.hu/2015/02/08/karpat-medence_a_nepek_valodi_olvasztotegelye) " a kormányfő szerint, [sose volt multikulturális társadalom](http://index.hu/kulfold/eurologus/2015/05/19/orban_sosem_voltunk_multikulturalis_tarsadalom/), addig baromi nehéz lesz... De lehetünk nála okosabbak, nem?
+Létezik működő együttélés. A multikulturalizmus működő dolog és baromira semmi köze a terroristákhoz. Azt jelenti, hogy különböző emberek együtt adják össze, amijük van a jobb boldogulás reményében. Például te nem dolgozol Karácsonykor és kisegíted őt Ramadánkor. Például a gyereked az óvodában megtanul három nyelven anyanyelvi szinten és az egész világ megnyílik a számára. Például megismerkedsz más hitekkel, művészetekkel, kultúrákkal és a legjobb, legizgalmasabb részei beépülnek a te kultúrádba is. És. Így. Tovább. Meg nem zárkózik be a társadalom egy évszázadok óta érlelt fájú koporsóba. Persze, amíg nálunk, a [népek olvasztótégelyében](http://modoros.blog.hu/2015/02/08/karpat-medence_a_nepek_valodi_olvasztotegelye) " a kormányfő szerint, [sose volt multikulturális társadalom](http://index.hu/kulfold/eurologus/2015/05/19/orban_sosem_voltunk_multikulturalis_tarsadalom/), addig baromi nehéz lesz...
 
-**Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
+De lehetünk nála okosabbak, nem?
