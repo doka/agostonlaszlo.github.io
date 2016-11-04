@@ -5,7 +5,9 @@ date: 2016-06-24 19:40:58.000000000 +00:00
 author: agoston_laszlo
 excerpt: "18 éves voltam, amikor az a megtiszteltetés ért, hogy énekelhettem a Notre-Dameban a gimnáziumi kórusunkkal. Csodálatos élmény volt a hatalmas rózsaablakkal szemben állva zenélni. Még egy dolog miatt emlékezetes ez az út: ekkor mehettem először külföldre útlevél nélkül."
 categories: blog
-tags: [Európa, Notre-Dame, útlevél]
+tags: [utazásaim, demokrácia]
+lang: hu
+image: http://agostonlaszlo.hu/images/brexit.jpeg
 ---
 18 éves voltam, amikor az a megtiszteltetés ért, hogy énekelhettem a Notre-Dameban a gimnáziumi kórusunkkal. Csodálatos élmény volt a hatalmas rózsaablakkal szemben állva zenélni. Még egy dolog miatt emlékezetes ez az út: ekkor mehettem először külföldre útlevél nélkül.
 
@@ -24,17 +26,12 @@ Történelmi időkben történelmi a felelősségünk is: hangos akarok lenni! A
 
 Én egy olyan Európát akarok a gyerekeimre hagyni, ahol nem az számít honnan jöttél, hanem, hogy ki vagy.
 
-- Ahol az emberek az összefogást keresik az elhatárolódás helyett.
+Ahol az emberek az összefogást keresik az elhatárolódás helyett.
 
-- Ahol szabadon lehet tanulni, dolgozni, élni bármely országban.
+Ahol szabadon lehet tanulni, dolgozni, élni bármely országban.
 
-- Ahol a hagyományok és múlt is fontos és értékes, de a jövőt építjük.
+Ahol a hagyományok és múlt is fontos és értékes, de a jövőt építjük.
 
-- Ahol a süllyedő hajót inkább megjavítjuk a vízbe ugrás helyett.
+Ahol a süllyedő hajót inkább megjavítjuk a vízbe ugrás helyett.
 
-- Ahol az angliai barátaim teljes jogú európai állampolgárok.
-
-**Itt lájkolhatod az oldalam, ha egyetértesz:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
+Ahol az angliai barátaim teljes jogú európai állampolgárok.
