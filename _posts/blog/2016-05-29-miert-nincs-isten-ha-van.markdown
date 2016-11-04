@@ -5,7 +5,10 @@ date: 2016-05-29 06:41:20.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét."
 categories: blog
-tags: [Isten, hit]
+tags: [rólam, kereszténység]
+image: http://agostonlaszlo.hu/images/kakas.JPG
+lang: hu
+redirect_from: /hu/blog/51-miert-nincs-isten-ha-van
 ---
 Ma már kevesen tudják rólam: református ifivezető voltam, amíg ki nem rúgtak. Őszintén szólva, máig nem tudtam feldolgozni, hogy egy nap elkérték tőlem a templom kulcsait és szélnek engedték, amit építettem. Azóta nem léptem át templom küszöbét.
 
@@ -46,8 +49,3 @@ Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hit
 Évek teltek el, lassan itt a harminc. A munka, az átgondolás máig tart. Pár napja volt egy kedves ismerősöm temetése, ahol sok meleg volt és gyaníthatóan sok lehetett az ateista. Nem hogy pap nem szónokolt, nem zsongott közös tebennedbíztunkeleitőlfogva, de a verseiből olvastak fel búcsúzóul. Csak álltam ott és hálás voltam minden papírforma szerint "istentelen" jelenlévőnek és a - bocsánat a rettenetes szóért - "szervezőknek". Egyszerűen megérintett, átölelt és boldoggá tett az érzés, hogy így is lehet. Egy velem gyászoló barátom mondta:
 
 "ezer ateista között jelen volt az Isten".
-
-**Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
