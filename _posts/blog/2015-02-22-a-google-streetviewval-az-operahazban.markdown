@@ -5,7 +5,7 @@ date: 2015-02-22 11:08:05.000000000 +00:00
 author: agoston_laszlo
 excerpt: "E.T.-vel (a Google Streetview 130 kilós kamerája) járjuk körbe az Operaházat."
 categories: blog
-tags: [Operaház, Google Streetview]
+tags: [rólam, marketing]
 ---
 ![]({{site.baseurl}}/images/ET.jpg)
 E.T.-vel (a Google Streetviet 130 kilós kamerája) járjuk körbe az Operaházat. Szerintem kifejezetten gyönyörű lett, megérte a sok szervezést. 
