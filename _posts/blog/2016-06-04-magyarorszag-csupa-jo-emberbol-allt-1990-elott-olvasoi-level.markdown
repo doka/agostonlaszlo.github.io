@@ -6,6 +6,8 @@ author: agoston_laszlo
 excerpt: "Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem."
 categories: blog
 tags: [demokrácia, megbékélés]
+lang: hu
+image: http://agostonlaszlo.hu/images/vasfuggony.JPG
 ---
 Az alábbi levelet egy ismeretlen, hetvenes éveihez közeledő férfi küldte nekem. Bölcsnek és nagyon fontosnak találtam sorait. Empátiát és szeretetet akarnék valahogy küldeni neki és annak a rengeteg hozzá hasonló cipőben járó magyarnak, akik nem értik mi zajlik most körülöttünk. Ezért adom közre szerkesztve a levelét, kiemelések tőlem.
 
