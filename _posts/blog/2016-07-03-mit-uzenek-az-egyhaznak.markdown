@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Az egyház nagy félreértése - egy kirúgott keresztény története III. rész"
+title: "Mit üzenek az egyháznak - egy kirúgott keresztény története III. rész"
 date: 2016-07-03 09:57:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Ez a cikk a Miért nincs Isten, ha van? - egy kirúgott keresztény története és az Isten áldozatai című cikkek folytatása."
+excerpt: "Kicsoda ma Jézusi? Aki melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ül asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljenek."
 categories: blog
 tags: [Isten, hit]
 lang: hu
@@ -45,8 +45,8 @@ Ugye tudod, hogy ez irónia? Vagy a farizeusoknak ne lett volna szükségük orv
 ![]({{ site.baseurl }}/images/horthy.jpg)
 *A vitatott történelmi megítélésű Horthy Miklós mellszobra a Szabadság téri templom előtt (eddig az épületben volt)*
 
-Én melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ülök asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljünk. A Szabadság téri református templomban [Wass Albert-, Szabó Dezső- és Horthy-szobrot is avattak](http://www.168ora.hu/itthon/horthy-miklos-ifj-hegedus-lorant-jobbik-reformatus-egyhaz-tiltakozas-palastjog-120457.html). A hivatalban lévő szeged-csanádi megyéspüsök szerint a menekülteket nem kell befogadni és [a pápa nem tudja miről beszél](http://index.hu/belfold/2015/09/08/kiss-rigo_a_papa_nem_tudja_mirol_beszel/).
+Kire mondanád ma, hogy Jézusi? Aki melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ül asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljenek?. Vagy aki a szabadság téri református templomban [Wass Albert-, Szabó Dezső- és Horthy-szobrot is avat?](http://www.168ora.hu/itthon/horthy-miklos-ifj-hegedus-lorant-jobbik-reformatus-egyhaz-tiltakozas-palastjog-120457.html). Vagy a hivatalban lévő szeged-csanádi megyéspüsök, aki szerint a menekülteket nem kell befogadni és [a pápa nem tudja miről beszél](http://index.hu/belfold/2015/09/08/kiss-rigo_a_papa_nem_tudja_mirol_beszel/).
 
-Adódik egy kérdés: ki a pogány és ki jézusi?
+Mit gondolsz?
 
 Békesség veletek.
