@@ -3,7 +3,7 @@ layout: post
 title: "Mit üzenek az egyháznak - egy kirúgott keresztény története III. rész"
 date: 2016-07-03 09:57:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Kicsoda ma Jézusi? Aki melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ül asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljenek."
+excerpt: Kicsoda ma Jézusi? Aki melegekkel, muszlimokkal, megerőszakolt nőkkel, "rohadt liberálisokkal" és más rasszúakkal, sok olyannal ül asztalhoz, akiket sok templom nem lát szívesen, hogy a békéről beszéljenek.
 categories: blog
 tags: [Isten, hit]
 lang: hu
@@ -15,7 +15,9 @@ Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története
 **I. gondolatom**
 
 -Uram, nyisd meg nekem a Mennyország kapuját! Minden héten templomban voltam, tudom fejből a Bibliát, rendben befizettem az egyházi járulékot és ellenálltam a világ csábításának.
+
 -Adtál-e enni az éhezőknek?
+
 -Gyűjtöttünk az afrikai misszióra, igen!
 -És a szomszédodnak segítettél-e a bajban?
 -Cigány az, Uram! Lopni jár! Mi közöm hozzá nekem, becsületes kereszténynek?
