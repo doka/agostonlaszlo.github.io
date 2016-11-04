@@ -2,6 +2,7 @@
 layout: blogoldal
 title: Blog
 search_omit: true
+redirect_from: "/hu/blog/"
 ---
 
 <ul class="post-list">
