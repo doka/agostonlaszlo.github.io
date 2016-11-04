@@ -3,11 +3,11 @@ layout: post
 title: Nem vagyok hülye attól még, hogy nem kiabálok
 date: 2016-07-20 06:55:00.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is látom a veszélyt, de amikor fröcsögve gyűlölöd egy majd' kétmilliárdos népcsoport MINDEN tagját, hányingerem támad.."
+excerpt: "Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is látom a veszélyt, de amikor fröcsögve gyűlölöd egy majd' kétmilliárdos népcsoport MINDEN tagját, hányingerem támad."
 categories: blog
-tags: [iszlám, terrorizmus, megbéklésé]
+tags: [iszlám, terrorizmus, megbékélés]
 lang: hu
-redirect_from:image:
+redirect_from: "hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok"
 image: http://agostonlaszlo.hu/images/nemlendit.JPG
 ---
 Tudod, az a legidegesítőbb, hogy nem engedik meg, hogy mérsékelt maradj. Nekem is van bajom az illegális bevándorlással, én is hatalmas veszélyt látok a valóban más kultúrájú emberek nagy számú beáramlásában, engem is kiakaszt a terrorizmus (és valóban több muszlim robbant manapság, mint IRA- vagy ETA-tag). Sorolhatnám.
