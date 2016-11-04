@@ -5,7 +5,9 @@ date: 2016-07-24 23:02:36.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Három perce fordult át a testem huszonból harminc évesbe. Néztem a toronyórán és kivártam az ütést. Távol hamarosan felsírt egy autó fékje majd tompa puffanás. Fekete humorú rendező az élet. De az is lehet, hogy csak képzelem. "
 categories: blog
-tags: [30 éves]
+tags: [rólam]
+lang: hu
+image: http://agostonlaszlo.hu/images/szuletesnap.JPG
 ---
 "Amikor rájössz
 ez kellett ahhoz
