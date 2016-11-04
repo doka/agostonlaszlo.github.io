@@ -26,26 +26,31 @@ Tehát a Bibliának minden verse** egyaránt** fontos és időtálló. Igaz? Akk
 "Örök rendtartás legyen ez nemzedékről nemzedékre minden lakóhelyeteken: **semmi kövérjét és semmi vért meg ne egyetek!"**(a zsíroskenyér és a véreshurka off  javasolt idézés: disznótoron  3Mózes 3,17)
 
 **Istentelen utálatosság!**
+
 ![]({{site.baseurl}}/images/disznotor.JPG)
 
 "Vagy **ha valaki bármely tisztátalan dolgot érint**, akár tisztátalan vadnak, akár tisztátalan állatnak, akár tisztátalan féregnek a tetemét, de nem vette észre, hogy tisztátalanná lett, és úgy vétkezik"(egy nyúl megsimogatása Isten elleni vétek  javasolt idézés: gyereknapon  5Mózes 5,2)
 
 **Megkövezzük vagy elég az engesztelő áldozat?**
+
 ![]({{site.baseurl}}/images/nyuszi.jpg)
 
 "A fejeteket ne hagyjátok fedetlenül, **ruháitokat meg ne szaggassátok**, hogy meg ne haljatok, és haragra ne gerjedjen az ÚR az egész gyülekezet ellen" (templomba innentől csak kipában mehetünk javasolt idézés: istentiszteleten  3Mózes 10,6)
 
 **Megszaggatta a ruháit... Meg kell halnia?**
+
 ![]({{site.baseurl}}/images/szakadt.jpg)
 
 Disznó, nyúl, csiga -&gt;Ezek mind utálatosak nektek. **Húsukból ne egyetek, és tetemüket is utáljátok.** (ha ettél már disznó-, nyúlhúst esetleg csigát, tartasz bűnbánatot?  javasolt idézés: étteremben  3Mózes 11)
 
 **Isten gyűlöli a gourmandokat?**
+
 ![]({{site.baseurl}}/images/csiga.JPG)
 
 "A nyolcadik napon pedig **metéljék körül** a fiú férfitestének bőrét." (Körül vagy metélve?  javasolt idézés: férfiak kötében  3Mózes 12,3)
 
 **Nem fog fájni...**
+
 ![]({{site.baseurl}}/images/korulmeteles.jpg)
 
 "Ne legyen rajtad **kétféle szövetű ruha**." (ezt nehéz lesz betartani, de elszántsággal sikerülhet  javasol idézés: fiatal lányok körében  3Mózes 19,19 )
@@ -56,6 +61,7 @@ Disznó, nyúl, csiga -&gt;Ezek mind utálatosak nektek. **Húsukból ne egyetek
 "**Hajatokat ne nyírjátok kerekdedre, szakállad végét ne csúfítsd el.**" (bubifrizura off  javasolt idézés: fodrásznál  3Mózes 19,27)
 
 **Csináld csak... maj lesz fogcsikorgatás a pokolban a frizurádért...**
+
 ![]({{site.baseurl}}/images/haj.jpg)
 
 **Kezeld a migránsokat saját gyermekedként**
@@ -63,11 +69,13 @@ Disznó, nyúl, csiga -&gt;Ezek mind utálatosak nektek. **Húsukból ne egyetek
 "Ha jövevény tartózkodik nálatok, a ti földeteken, ne nyomorgassátok őt. **Olyan legyen nektek a jövevény, aki nálatok tartózkodik, mintha közületek való bennszülött volna, és szeressétek őt, mint magatokat**, mert jövevények voltatok Egyiptom földjén. Én vagyok az ÚR, a ti Istenetek." (hát igen...  javasolt idézés: Jobbik-gyűlésen, CÖF-felvonuláson  3Mózes 19,33-34 )
 
 **Ugye kimész ide is tüntetni és kommenteled, hogy Isten ellen való?**
+
 ![]({{site.baseurl}}/images/gyoda.JPG)
 
 "Hat napon át munkálkodjatok, a hetedik napon a nyugalomnak, a **szent gyülekezésnek szombatja van, semmi munkát ne végezzetek**. Az ÚR szombatja legyen az mindenütt, ahol laktok." (nem, kertimunkát se!  javasolt idézés: vasárnaponként - vagy szombaton?  3Móz 23,3 )
 
 **Ha ez vasárnap történt, súlyos bűne neki!**
+
 ![]({{site.baseurl}}/images/kertimunka.jpg)
 
 
