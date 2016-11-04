@@ -5,7 +5,9 @@ date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Te, aki ülsz a számítógéped előtt és egy klaviatúrát idegesen püfölve, a caps lockot megnyomva CSUPA NAGYBETŰVEL ÜVÖLTÖD BELE A VILÁG ARCÁBA A VÉLEMÉNYEDET a melegekről (és bevándorlókról és cigányokról és zsidókról és mindenkiről, aki 'más' mint te), tudod vajon mit teszel?"
 categories: blog
-tags: [LMBTQ, gyűlölet]
+tags: [homoszexualitás, megbékélés]
+lang: hu
+image: http://agostonlaszlo.hu/images/meleggyulolet.jpg
 ---
 Te, aki ülsz a számítógéped előtt és egy klaviatúrát idegesen püfölve, a caps lockot megnyomva CSUPA NAGYBETŰVEL ÜVÖLTÖD BELE A VILÁG ARCÁBA A VÉLEMÉNYEDET a melegekről (és bevándorlókról és cigányokról és zsidókról és mindenkiről, aki "más" mint te), tudod vajon mit teszel?
 
@@ -16,7 +18,6 @@ Az évek alatt annyira sok meleg barátom ünnepelte velem a születésnapját, 
 Láttam magukat keresztényeknek nevező embereket **nyilvánosan azok haláláért imádkozni, akiket szeretek.** Láttam őket temetések közelében, ahogyan a kisgyerekeik táblát tartottak a magasba: **"ISTEN GYŰLÖLI A BUZIKAT."**
 
 ![]({{ site.baseurl }}/images/meleggyulolet.jpg)
-
 
 Házasságot köthet egy meleg pár. [A 2015-ben íródott, amikor Amerikában engedélyezték a melegházasságot.](http://index.hu/kulfold/2015/06/26/egesz_amerikaban_legalis_lett_a_meleghazassag/) Ez nem egy focicsapat győzelme. Nem egy politikai kampány nyertesei vagyunk. Heteroszexuális vagyok, nem is egyszer, hanem kétszer házasodtam és egy olyan dolog miatt ujjongok, amely - és ezzel teljes mértékben tisztában vagyok -, nem lesz hatással az én életemre vagy házasságomra. De ujjongok és felszabadult vagyok. Heteroszexuális "támogatóként" mindig is a mi szégyenünknek éreztem, hogy másodosztályú állampolgárrá minősítjük a melegeket.
 
@@ -33,8 +34,3 @@ Azokban az országokban, ahol szigorúbb melegjogi szabályozást vezetnek be, e
 A melegek cikizése bizonyíthatóan sok öngyilkossághoz vezetett, még akkor is, ha nem kifejezetten az áldozat szexualitása vagy neme (hanem például az öltözete, mozdulatai stb.) volt a támadás témája.
 
 A cikket megoszthatod, le is iratkozhatsz az oldalamról, folytathatod a "Kis farbantúró-kaki-makik :)ezt érdemes ünnepelni, éljen sok kakis-pénisz! ;)<span>"-jellegű hozzászólások írását (valós idézet egy törölt kommentelőtől),</span> de akár mutathatsz is annyi szeretetet ezek iránt az embertársaid iránt, mint amennyit egy elhagyott kiskutya, vagy egy Facebookon megosztott cuki kisbaba iránt mutatnál. A te emberségeden múlik.
-
-**Itt lájkolhatod az oldalam, ha egyetértesz!**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
