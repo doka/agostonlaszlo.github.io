@@ -6,6 +6,8 @@ author: agoston_laszlo
 excerpt: "Amikor azt mondom, hogy feminista vagyok, az emberek többsége megdöbben. Egyrészt nem érti, hogy miért akarom eldobni születési előjogomat, amely a péniszemmel együtt érkezett, hogy többet keressek, komolyabban - egyáltalán tárgyalóképesnek - vegyenek."
 categories: blog
 tags: [szex, feminizmus, nőjogok]
+lang: hu
+image: nok.JPG
 ---
 A bal oldali kép a 2014-es AVN pornófilmes díjkiosztón készült, a jobb oldalin befolyásos emberek láthatók a Metropolitan operabálján. Nem tudom, ti mit láttok ebben, én azt, hogy egy nőnek tárgynak kell lennie akár így, akár úgy.
 
