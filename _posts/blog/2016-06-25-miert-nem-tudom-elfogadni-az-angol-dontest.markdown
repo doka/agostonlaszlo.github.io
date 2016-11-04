@@ -30,7 +30,7 @@ Jól mondod, mint minden demokratikus szavazásnál. Az alábbi lány például 
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/XDdLxTXBaAY" frameborder="0" allowfullscreen></iframe>
 
-Igen, ő döntött sokadmagával a világpolitika jelenlegi legfontosabb kérdéséről. Lehet, hogy nem szerencsés.
+Lehet, hogy ez éppen egy paródia (bár ebben sem vagyok egészen biztos), de igen, ő és hasonlóan tájékozott emberek döntöttek a világpolitika jelenlegi legfontosabb kérdéséről. Lehet, hogy nem szerencsés.
 
 ![]({{site.baseurl}}/images/fejfogos.jpg)
 
