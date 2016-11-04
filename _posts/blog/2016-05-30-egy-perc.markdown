@@ -3,9 +3,10 @@ layout: post
 title: "Egy perc"
 date: 2016-05-30 16:59:17.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Vártam a reptéri transzferbuszra London belvárosában. Az egész város nyüzsgött, rohant és a buszok is össze-vissza jöttek. Egy hongkongi férfival próbáltuk megtalálni a saját járatunkat. Kiderült, hogy rendőrként dolgozik, nyomozó, kiemelt ügyekkel foglalkozik."
+excerpt: "''Az édesanyám ma reggel halt meg''- mondta a rosszarcú hong kongi férfi, akivel együtt vártam a reptéri transzferbuszra London belvárosában. Kiderült, hogy rendőrként dolgozik, nyomozó, kiemelt ügyekkel foglalkozik."
 categories: blog
-tags: [egy perc]
+tags: [rólam, utazásaim]
+lang: hu
 
 ---
 Vártam a reptéri transzferbuszra London belvárosában. Az egész város nyüzsgött, rohant és a buszok is össze-vissza jöttek. Egy hongkongi férfival próbáltuk megtalálni a saját járatunkat. Kiderült, hogy rendőrként dolgozik, nyomozó, kiemelt ügyekkel foglalkozik. 11. hó 11-e volt, 10 óra 58. Onnan tudom, hogy ránézett a telefonjára és egyszer csak azt mondta:
