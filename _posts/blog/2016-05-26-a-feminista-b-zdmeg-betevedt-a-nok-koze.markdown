@@ -6,6 +6,9 @@ author: agoston_laszlo
 excerpt: "Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság."
 categories: blog
 tags: [feminizmus, nőjogok, megbékélés]
+image: http://agostonlaszlo.hu/images/teher.jpg
+lang: hu
+redirect_from: "/hu/blog/50-a-feminista-b-zdmeg-betevedt-a-nok-koze"
 ---
 Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság.
 
