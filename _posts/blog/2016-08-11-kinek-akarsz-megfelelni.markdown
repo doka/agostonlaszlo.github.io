@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Te kinek akarsz megfelelni?"
+title: Az én zeneakadémiai (rém)történetem
 date: 2016-08-11 08:58:11.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ezt évek óta le akartam írni, mégis nehezen görögnek ki a kezem alól a szavak. Sokan kérdezik, miért nem éneklek csak ritkán, hol változtam meg... A Zeneakadémián is szeretnek címkézni - mint mindenhol. Azt mondják, az első vizsga a legfontosabb, mert ott beáraznak, ott kerül rád, hogy milyen művész vagy. Ha az elsőt elrontod, könnyen rajtad ragadhat, hogy semmit sem érsz. Én elrontottam."
 categories: blog
-tags: [Zeneakadémia, ]
+tags: [rólam, zene]
 ---
 Ezt évek óta le akartam írni, mégis nehezen görögnek ki a kezem alól a szavak. Sokan kérdezik, miért nem éneklek csak ritkán, hol változtam meg...
 
