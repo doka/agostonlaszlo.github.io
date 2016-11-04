@@ -6,16 +6,19 @@ author: agoston_laszlo
 excerpt: Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
 categories: blog
 tags: [Balassi Gimnázium]
+image: arckepcsarnok.jpg
+lang: hu
 ---
 
 ![]({{ site.baseurl }}/images/arckepcsarnok.jpg)
 
 Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
 
-Volt egy osztálytársam, Péter. Halk szavú srác nagy szívvel, de gyatra tanulmányi eredményekkel. Hiába lett azóta diplomás IT szakember, akkoriban talán még pótvizsgája is volt, nem tűnt sikeres alkatnak. Volt azonban valami, amit senki se tudott róla éveken át.
+Emlékszem, a középiskolámban volt egy fiú. Vézna srác, rossz tanuló, de jóravaló, szerethető ember. Sosem volt a társaság középpontja, nyolc együtt töltött évünk alatt sosem emelkedett ki tanulmányi versenyeken, sőt, ha jól emlékszem, épp bukásra állt történelemből.
+Egy nap a semmiből véletlenül megtudtuk, hogy országos bajnok sportlövő. Meglőtte az olimpiai kvótát, mehetett volna a magyar csapattal, ha van szponzora.
 
-Egy szünetben a derült égből érkezett a hír: Péter országos bajnok sportlövő, aki "meglőtte" az olimpiai kvótát! Mindenki velejéig meglepődött, hitetlenkedett, de a hír igaz volt. Szünet vége, az osztály forrongott, bejött a mit sem sejtő tanár és a "szokásos" rossz tanulóknak járó pikírtséggel feleltette a "szokásosan" nem brillírozó Pétert. Bennem pedig feltámadt a közismerten túlméretes igazságérzetem.
+Nagyon mérges lettem. Mérges, hogy egy ilyen eredményeket elérő emberről senki se tudja, hogy valójában mennyit is ér. Másnap kinyomtattam a fényképét egy A4-es lapra és kicelluxoztam az iskola dicsőségfalára tudósok és sportolók közé, ami fölött hatalmas betűkkel volt kiírva: "AKIKRE BÜSZKÉK VAGYUNK!". Aláírtam a nevét és hogy országos bajnok sportlövő.
 
-Másnap az iskola fő helyén, az aulában álló "akikre büszkék vagyunk" falra a nagy tudósok és sportolók közé "valaki" kiragasztotta Péter kinyomtatott képét "országos bajnok sportlövő" felirattal. Persze óriási botrány lett belőle, két órán belül az igazgatóiban álltam.
+Senki se hitte, sorba mentek hozzá minden évfolyamról, kérdezgetni, hogy ez micsoda. És ő bevallotta - hogy igaz. Szerettem látni, ahogyan mindenki meglepődik és gratulál neki. Engem pedig berendeltek az igazgatóiba és hatalmas fejmosást kaptam, hogy mit képzelek magamról. Oda nem akármilyen diákok nevei kerülnek, hanem a legjobbaké.
 
-Most az én arcom van - hivatalosan is :) - ezen a falon és nagyon jól esik, hogy nem felejtettek el a tanárok, az iskola, aminek mindenem egy részét köszönhetem. Tényleg sokat jelent. De ajánlom ezt azoknak a "Pétereknek" is, akik életútja kevésbé látványosan alakult, pedig talán többre is vitték mint én. Sokszor nem is tudjuk, hogy a srác mellettünk egy országos bajnok sportlövő!
+Megrántottam a vállam és azt feleltem: egy igazán kiváló ember képét ragasztottam ki, aki bár bukásra áll történelemből, de akire tényleg büszkék lehetünk.
