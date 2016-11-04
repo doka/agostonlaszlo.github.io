@@ -21,7 +21,7 @@ Ezeket persze ne úgy képzeld el, hogy karlengettem és feketében jártam - mi
 
 Emlékszem a pillanatra, amikor ez megtört bennem. Kapolcson ültem egy nagyon kedves - egyébként latin- - tanárom autójában és magyaráztam, hogy mekkora aljasság és nyugati merény volt ellenünk Trianon. Ő végighallgatott, bólogatott és a végén csak annyit mondott:
 
-- "Ez mind jogos és igaz. De nyolcvan év után nem lehetne ezen valahogy túllépni?"
+*"Ez mind jogos és igaz. De nyolcvan év után nem lehetne ezen valahogy túllépni?"*
 
 Mondtam rá valamit, hogy ez egy olyan seb, ami örökké nyitva marad, amíg erdélyi testvéreink...
 
