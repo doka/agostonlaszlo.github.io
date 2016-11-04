@@ -1,19 +1,21 @@
-----
+--
 layout: post
 title: Ha Istenre hivatkozol, amikor a melegek ellen hangolsz...
 date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Szeretném, ha tudnád, hogy nem ellened vagyok és nem nem szeretném elvenni tőled a hitedet Istenben vagy a Biblia hitelességében. Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot."
 categories: blog
-tags: [Isten, hit]
-----
+tags: [kereszténység, homoszexualitás, megbékélés]
+lang: hu
+redirect_from: "/hu/blog/65-keresztenyseg-meleg"
+image: http://agostonlaszlo.hu/images/oroszm.JPG
+--
 
 **Szeretném, ha tudnád, hogy nem ellened vagyok és nemnem szeretném elvennitőleda hitedet Istenben vagy a Biblia hitelességében.** Nem az a célom, hogy legyőzzelek, hanem hogy megmutassak egy igazságot.
 
 Szeretném leírni neked, mit gondolok arról, amikor valaki törvényeket kezd sorolni "a melegek istentelensége ellen".Szeretettel és barátsággal szeretnélek figyelmeztetni arra, hogy rossz úton jársz, a farizeusok útján. Ők voltak azok, akik szöveg és nem szellem szerint értelmezték az írásokat. Engedd meg, hogy elmagyarázzam, miért.
 
-Volt [Ifivezetőként ismerem a Bibliát](http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van), nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.
-
+Volt [Ifivezetőként ismerem a Bibliát](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van), nem olvasom már naponta és nem vagyok úgy keresztény, ahogyan valószínűleg te. De felajánlom, hogy beszélgessünk a te inenciarendszered alapján, kizárólag bibliai igazságok mentén.Azok a versek ismertek, amelyek idéznek törvényeket, isteni szándékokat a melegek ellen, ezek miatt íródott a cikk, ezekre nem térnék ki. Le vannak írva, nyilván elfogadom őket, hiszen most a Biblia és a keresztény tanítások alapján beszélgetünk.
 
 A Biblia végén ez áll:
 
@@ -112,9 +114,3 @@ Nem a Bibliát akarom megkérdőjelezni. Mert ez egy _szent_írás_. De ha soron
 Ha tényleg szeretnéd Jézust követni, akkor hallgass rá. Ő az elesettek, az elnyomottak és hátrányos helyzetűek pártján állt. Soha nem hallottam olyat, hogy szeretetlen lett volna, ítélkező vagy törvény-párti.
 Isten úgy szerette a világot, hogy egyszülött fiát adta érte. Igaz? De a melegeket gyűlölte? Ha ő a melegeket is szerette, milyen alapon ítélkezel felettük? Milyen alapon szólsz ellenük? Milyen alapon idézed Istent ennek a megerősítésére?
 Vigyázz, hogy ne légy farizeus.
-
-**Itt lájkolhatod az oldalam, ha egyetértesz!**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
-
