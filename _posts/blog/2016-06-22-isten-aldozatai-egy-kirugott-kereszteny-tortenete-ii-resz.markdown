@@ -5,7 +5,8 @@ date: 2016-06-22 14:57:40.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával?"
 categories: blog
-tags: [Isten, hit]
+tags: [kereszténység, rólam, szex]
+lang: hu
 ---
 “Hónapokra kiborultam (huszonkétévesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Ezt nem tudtam, akartam, lehetett tagadni. Kicsoda Jézus? Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? A házasság előtti szex tiltásával? (Már nem voltam szűz ekkorra, de folyamatos bűntudattal éltem emiatt.) Hosszú, hosszú, hosszú lista...“ (<span style="font-size: 12.16px; line-height: 15.808px;">Ez a cikk a</span><a href="http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van" target="_blank" style="font-size: 12.16px; line-height: 15.808px;">Miért nincs Isten, ha van? - egy kirúgott keresztény története</a><span style="font-size: 12.16px; line-height: 15.808px;">című cikk folytatása.)</span>
 
@@ -52,8 +53,3 @@ _“Nincs alku - én haddlegyek boldog! Másként akárkimeggyalázs megjelölne
 
 Apám, akivel egész fiatalságomban folyamatosan harcoltam, de ez az eset újra összebékített vele és megtanultam őt tisztelni…
 De ez már egy másik történet.
-
-Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
