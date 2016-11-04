@@ -20,4 +20,4 @@ Menedzseltem, Kayamar (Magyaróvári Viktor), Curator Choiceként kapott meghív
 
 Sajnos nem tudtam személyesen részt venni, mert pont ma jelentette be az Operaház a MoltOpera Társulat novemberi előadását az évadnyitó sajtótájékoztatón.
 
-> Eddig jól alakul az ősz!
+Eddig jól alakul az ősz!
