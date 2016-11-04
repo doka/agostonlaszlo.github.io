@@ -6,6 +6,9 @@ author: agoston_laszlo
 excerpt: "Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista?"
 categories: blog
 tags: [gyűlölet, hit, muszlim, rasszista]
+lang: hu
+image: http://agostonlaszlo.hu/images/dima.jpg
+redirect_from: "hu/blog/72-bocsanat-megzavarhatlak-a-gyuloletben-egy-pillanatra"
 ---
 "Ennek a papnak mise közben vágta el a nyakát egy muszlim. Ezt miért nem posztolod? Ez nem rasszista cselekedet? Vagy csak a fehér ember lehet rasszista?" - írt rám a magánban egy srác, akit a fájdalmasan rasszista kijelentései miatt korábban töröltem az oldalamról. "Válaszodat izgatottan várom! (és örülnék ha tényleg válaszolnál, nem tiltanál, mert számomra az azt jelenti, hogy nincsenek érveid, és megfutamodsz)" - zárja. Rendben. Tájékozódom helyetted és segítek, hogy eligazodj a világban - mert attól félek, nem te vagy az egyetlen, akinek erre szüksége lesz...
 
@@ -60,8 +63,3 @@ Elnézést kérek, ha összezavartalak. Mindenkinek egyszerűbb lenne, ha simán
 Hülyét csinálhatsz magadból, de kérlek ne várd el, hogy kövesselek...
 
 PS.: [utálom, hogy nem lehet Magyarországon mérsékelt véleményt megfogalmazni ebben a kérdésben](http://agostonlaszlo.hu/hu/blog/70-nem-vagyok-hulye-attol-meg-hogy-nem-kiabalok). Ha most azt hiszed, nem látom a kultúrák találkozásában rejlő kockázatokat, hogy nem látom az integrációs problémákat, a nők elnyomását stb. nagyot tévedsz. Csak én abban hiszek, hogy ezeket** ésszel, higgadtan, szakemberek segítségével** lehet megoldani (más esetekben akár katonai eréllyel), de SOHA nem érzelmi alapon, gyűlöletből. Ez utóbbi ellen kelek ki minden egyes alkalommal...
-
-**Ennek a témának még nincs it vége. Ha kíváncsi vagy a folytatásra, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
