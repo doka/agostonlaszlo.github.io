@@ -14,7 +14,7 @@ Kicsit olyan lettem, mint az üveg, ami az Istenek a fejükre estekben az égbő
 
 **Ki vagyok én?**
 
-Ágoston László vagyok, harmincéves. Menedzselem a saját operatársulatomat (Moltopera),[Magyaróvári Viktor "Kayamar"](https://hu.wikipedia.org/wiki/Magyar%C3%B3v%C3%A1ri_Viktor)-t, [iskolai előadásokat tartok a komolyzenérőlitthon és külföldön](https://www.youtube.com/watch?v=qyXGO3gvgh0), marketing tanácsadóként dolgozom kis cégeknek előtte évekig az Operaháznak. [Bővebben itt olvashatsz](http://agostonlaszlo.hu/hu/eletrajz) az életem szakmai részéről. Apám újságíró volt kisebb lapoknál, szépíróként hamarosan megjelenik a tizenkilencedik kötete. Anyám tanítónő volt nyugdíjba vonulásáig. Öt nyelvem (magyar [anyanyelv], angol [felsőfok], olasz[középfok], latin[középfok], német[alapfok]) és három diplomám (PR-marketing, újságírás [mindkettő BKF] és komolyzenei énekes-előadóművész [Zeneakadémia]) van.
+Ágoston László vagyok, harmincéves. Menedzselem a saját operatársulatomat (Moltopera),[Magyaróvári Viktor "Kayamar"](https://hu.wikipedia.org/wiki/Magyar%C3%B3v%C3%A1ri_Viktor)-t, [iskolai előadásokat tartok a komolyzenéről itthon és külföldön](https://www.youtube.com/watch?v=qyXGO3gvgh0), marketing tanácsadóként dolgozom kis cégeknek előtte évekig az Operaháznak. [Bővebben itt olvashatsz](http://agostonlaszlo.hu/hu/eletrajz) az életem szakmai részéről. Apám újságíró volt kisebb lapoknál, szépíróként hamarosan megjelenik a tizenkilencedik kötete. Anyám tanítónő volt nyugdíjba vonulásáig. Öt nyelvem (magyar [anyanyelv], angol [felsőfok], olasz[középfok], latin[középfok], német[alapfok]) és három diplomám (PR-marketing, újságírás [mindkettő BKF] és komolyzenei énekes-előadóművész [Zeneakadémia]) van.
 
 ![]({{ site.baseurl }}/images/szelim.jpg)
 
