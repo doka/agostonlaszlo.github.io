@@ -3,7 +3,7 @@ layout: post
 title: "Amit kimondasz, annak súlya van! Tudod, mit teszel?"
 date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
-excerpt: Láttam magukat keresztényeknek nevező embereket nyilvánosan azok haláláért imádkozni, akiket szeretek. Láttam őket temetések közelében, ahogyan a kisgyerekeik táblát tartottak a magasba: ''ISTEN GYŰLÖLI A BUZIKAT.''
+excerpt: "Láttam magukat keresztényeknek nevező embereket nyilvánosan azok haláláért imádkozni, akiket szeretek. Láttam őket temetések közelében, ahogyan a kisgyerekeik táblát tartottak a magasba: ''ISTEN GYŰLÖLI A BUZIKAT.''"
 categories: blog
 tags: [homoszexualitás, megbékélés]
 lang: hu
