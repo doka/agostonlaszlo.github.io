@@ -5,7 +5,7 @@ date: 2016-05-26 07:18:34.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság."
 categories: blog
-tags: [feminista, gyűlölet]
+tags: [feminizmus, nőjogok, megbékélés]
 ---
 Ez lenne a feminizmus? Egy háromezernél is több követőt magáénak tudó csoport szerint igen. Szerintem viszont (férfi)gyűlöletből még sohasem született igazi szabadság.
 
@@ -42,8 +42,3 @@ A feminizmus NEM LEHET azonos a férfigyűlölettel, még csak nem is támogatha
 Ő tudja. Nekik sikerült.
 
 Hiszek benne, hogy a feminizmus, a női egyenjogúság iszonyúan fontos. Hiszek benne, hogy amit fentebb láttál nem az. Hiszek benne, hogy meg fogod tudni te is különböztetni majd, ha hasonló helyzetbe kerülsz és nem söpröd le az egyébként életbevágó eszmét hirdetőinek tökéletlensége miatt. Kár lenne, nagyon.
-
-**Ha tetszik, amit olvastál egy lájkkal feliratkozhatsz itt az oldalamra:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
