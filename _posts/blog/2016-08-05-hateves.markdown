@@ -6,7 +6,7 @@ author: agoston_laszlo
 excerpt: Azt mondják, már én se vagyok pártatlan. Képzeld el, hogy látsz két kisfiút, akik közül a nagyobbik leköpi és bántalmazza a kisebbet. Nyilván odamész és helyreteszed a nagyobbikat, igaz?
 categories: blog
 image: http://agostonlaszlo.hu/images/grant.jpg
-tags: [demokrácia, pártatlanság]
+tags: [demokrácia, videó]
 ---
 
 
