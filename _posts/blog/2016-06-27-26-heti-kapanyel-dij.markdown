@@ -5,7 +5,8 @@ date: 2016-06-27 08:30:31.000000000 +00:00
 author: agoston_laszlo
 excerpt: "A magyar közbeszéd színvonalát látva megalapítottam a Kapanyél-díjat. Azok kapják, akik mondanivalójukkal és/vagy stílusukkal elveszik a kedvünket a beszélgetéstől. Minden díjhoz jár pénzjutalom: ahány lájkot kap a cikk, annyi forintot fizetek egy hajléktalanokat támogató szervezetnek. Az egésszel két célom van."
 categories: blog
-tags: [Foci EB, kapanyél, stadionok]
+tags: [kapanyél]
+lang: hu
 ---
 A magyar közbeszéd színvonalát látva megalapítottam a Kapanyél-díjat. Azok kapják, akik mondanivalójukkal és/vagy stílusukkal elveszik a kedvünket a beszélgetéstől. Minden díjhoz jár pénzjutalom: ahány lájkot kap a cikk, annyi forintot fizetek egy hajléktalanokat támogató szervezetnek. Az egésszel két célom van:
 
@@ -36,8 +37,3 @@ Aztán azoktól, akik most pocskondiázni kezdenek!
 Miért olyan fontos ez? A foci miatt? Nem. Azért, mert ez az a magyar-magyar elleni, ember-ember elleni "dögöljön meg a szomszéd tehene"-mentalitás, ami beragadt kézifékként lassítja a fejlődést mindehol. Rá szeretnék mutatni, hogy feleszméljen, aki csinálja és hogy ne tolerálja a társadalom.
 
 Valamit talán elkezdődött. Talán évtizedek után megint egymásra talált a nemzet (újpesti-fradista, fideszes-dékás örült együtt két hétig). Nyugalom volt, amit évek óta nem tapasztaltunk. Tanuljunk meg örülni egymás örömének. És ha lehet, ne csak a fociban.
-
-**Természetesen a cikk mondanivalóját lájkolod / osztod meg, nem a Kapanyél-díjas kommenteket!**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
