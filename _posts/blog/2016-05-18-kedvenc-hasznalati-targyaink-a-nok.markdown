@@ -8,6 +8,7 @@ categories: blog
 tags: [szex, feminizmus, nőjogok]
 lang: hu
 image: http://agostonlaszlo.hu/images/nok.JPG
+redirect_from: "/hu/blog/46-kedvenc-hasznalati-targyaink-a-nok"
 ---
 A bal oldali kép a 2014-es AVN pornófilmes díjkiosztón készült, a jobb oldalin befolyásos emberek láthatók a Metropolitan operabálján. Nem tudom, ti mit láttok ebben, én azt, hogy egy nőnek tárgynak kell lennie akár így, akár úgy.
 
