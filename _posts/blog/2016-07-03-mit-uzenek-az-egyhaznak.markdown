@@ -16,31 +16,31 @@ Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története
 
 - Uram, nyisd meg nekem a Mennyország kapuját! Minden héten templomban voltam, tudom fejből a Bibliát, rendben befizettem az egyházi járulékot és ellenálltam a világ csábításának.
 
-- Adtál-e enni az éhezőknek?
+-- Adtál-e enni az éhezőknek?
 
-- Gyűjtöttünk az afrikai misszióra, igen!
+-- Gyűjtöttünk az afrikai misszióra, igen!
 
-- És a szomszédodnak segítettél-e a bajban?
+-- És a szomszédodnak segítettél-e a bajban?
 
--Cigány az, Uram! Lopni jár! Mi közöm hozzá nekem, becsületes kereszténynek?
+-- Cigány az, Uram! Lopni jár! Mi közöm hozzá nekem, becsületes kereszténynek?
 
--Szeretted-e az elesetteket?
+-- Szeretted-e az elesetteket?
 
--Igen, Uram! Csináltunk férfi- és asszonykört is, együtt imádkoztunk.
+-- Igen, Uram! Csináltunk férfi- és asszonykört is, együtt imádkoztunk.
 
--Talált-e nálad menedéket a szajha, akit vernek, a család, aki a háború elől menekül, az agg, akinek nincsen hajléka?
+-- Talált-e nálad menedéket a szajha, akit vernek, a család, aki a háború elől menekül, az agg, akinek nincsen hajléka?
 
--Meg kellett védenem magam és vagyonom ezektől, Uram! Mit szóltak volna az emberek?
+-- Meg kellett védenem magam és vagyonom ezektől, Uram! Mit szóltak volna az emberek?
 
--Hirdetted-e az igét, amely testté lett teérted?
+-- Hirdetted-e az igét, amely testté lett teérted?
 
--Igen, Uram! Harcoltam a Te hagyományod betartásáért, harcoltam a Biblia minden betűjéért!
+-- Igen, Uram! Harcoltam a Te hagyományod betartásáért, harcoltam a Biblia minden betűjéért!
 
--És harcoltál-e azokért, akiket rád bíztam? A gyermekedért, akit nem olyannak teremtettem, mint te vagy? A kollégáidért, akik alkoholproblémákkal küzdöttek? Az utcádban lakó lányért, akivel nem foglalkoztak a szülei és drogozni kezdett?
+-- És harcoltál-e azokért, akiket rád bíztam? A gyermekedért, akit nem olyannak teremtettem, mint te vagy? A kollégáidért, akik alkoholproblémákkal küzdöttek? Az utcádban lakó lányért, akivel nem foglalkoztak a szülei és drogozni kezdett?
 
--Felolvastam nekik prófétád ítéletes szavát, megmutattam nekik a Törvényt és a parancsolatokat, hogy tudják: megtérésre van szükségük. Megmutattam nekik a Te igazságodat és elhatárolódtam tőlük, Uram!
+-- Felolvastam nekik prófétád ítéletes szavát, megmutattam nekik a Törvényt és a parancsolatokat, hogy tudják: megtérésre van szükségük. Megmutattam nekik a Te igazságodat és elhatárolódtam tőlük, Uram!
 
--Szeretsz engem és törekszel a jóra, de nem ismersz engem, fiam. Kár, hogy letelt így életed ideje és most kell csak meglátnod, hányszor buktál el, amikor győzedelmesnek hitted magad. Tiéd a Kegyelem, de gyere, tartsunk együtt bűnbánatot, hogy tisztán ülhess asztalomhoz!
+-- Szeretsz engem és törekszel a jóra, de nem ismersz engem, fiam. Kár, hogy letelt így életed ideje és most kell csak meglátnod, hányszor buktál el, amikor győzedelmesnek hitted magad. Tiéd a Kegyelem, de gyere, tartsunk együtt bűnbánatot, hogy tisztán ülhess asztalomhoz!
 
 
 ![]({{ site.baseurl }}/images/isten.JPG)
