@@ -5,7 +5,10 @@ date: 2016-08-11 06:38:53.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Gyurta minek ment ki, ha fel se készült? - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el. Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (időnként megszakítja egy 'TUDTA?') és álmosan, nyárközepi unalommal arconhányja az olimpiai, háromszoros világ- és kétszeres Európa-bajnok magyar úszót. Úgy kell neki. The winner takes it all."
 categories: blog
-tags: [Olimpia, Gyurta]
+tags: [megbékélés]
+lang: hu
+redirect_from: "/hu/blog/79-idezet-gyurta-minek-ment-ki-ha-fel-se-keszult"
+image: http://agostonlaszlo.hu/images/olimpikonunk.jpg
 ---
 "Gyurta minek ment ki, ha fel se készült?" - valahol szembe jött velem ez a szalagcím. Semmi másra nem emlékszem, nem olvastam el.
 Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (időnként megszakítja egy "TUDTA?") és álmosan, nyárközepi unalommal arconhányja az olimpiai, háromszoros világ- és kétszeres Európa-bajnok magyar úszót. Úgy kell neki. The winner takes it all.
@@ -17,7 +20,7 @@ Ott ül Béla egy kávézóban, ölében a laptop. Nézi reggel az ismétlést (
 
 ![]({{ site.baseurl }}/images/olimpikonunk.jpg)
 
-A kép illusztráció
+*A kép illusztráció*
 
 "Otthon senkinek nem felel meg semmi. Nem tudom, hogy ez minek köszönhető. Mi az országot képviseljük, tudása legjavát szeretné szerintem mindenki kiadni, aki itt van. Nyilván van, akinek ez arra elég, hogy három-négy olimpiai bajnoki címet szerezzen, van akinek arra, hogy kijutott..." - fogalmazott.
 
