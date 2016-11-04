@@ -6,33 +6,35 @@ author: agoston_laszlo
 excerpt: "Ez a cikk a Miért nincs Isten, ha van? - egy kirúgott keresztény története és az Isten áldozatai című cikkek folytatása."
 categories: blog
 tags: [Isten, hit]
+lang: hu
+image: http://agostonlaszlo.hu/images/isten.JPG)
 ---
 Ez a cikk a [Miért nincs Isten, ha van? - egy kirúgott keresztény története](http://agostonlaszlo.hu/hu/blog/51-miert-nincs-isten-ha-van) és az [Isten áldozatai](http://agostonlaszlo.hu/hu/blog/59-isten-aldozatai-egy-kirugott-kereszteny-tortenete-ii-resz) című cikkek folytatása.
 
 
 **I. gondolatom**
 
-- Uram, nyisd meg nekem a Mennyország kapuját! Minden héten templomban voltam, tudom fejből a Bibliát, rendben befizettem az egyházi járulékot és ellenálltam a világ csábításának.
-- Adtál-e enni az éhezőknek?
-- Gyűjtöttünk az afrikai misszióra, igen!
-- És a szomszédodnak segítettél-e a bajban?
-- Cigány az, Uram! Lopni jár! Mi közöm hozzá nekem, becsületes kereszténynek?
-- Szeretted-e az elesetteket?
-- Igen, Uram! Csináltunk férfi- és asszonykört is, együtt imádkoztunk.
-- Talált-e nálad menedéket a szajha, akit vernek, a család, aki a háború elől menekül, az agg, akinek nincsen hajléka?
-- Meg kellett védenem magam és vagyonom ezektől, Uram! Mit szóltak volna az emberek?
-- Hirdetted-e az igét, amely testté lett teérted?
-- Igen, Uram! Harcoltam a Te hagyományod betartásáért, harcoltam a Biblia minden betűjéért!
-- És harcoltál-e azokért, akiket rád bíztam? A gyermekedért, akit nem olyannak teremtettem, mint te vagy? A kollégáidért, akik alkoholproblémákkal küzdöttek? Az utcádban lakó lányért, akivel nem foglalkoztak a szülei és drogozni kezdett?
-- Felolvastam nekik prófétád ítéletes szavát, megmutattam nekik a Törvényt és a parancsolatokat, hogy tudják: megtérésre van szükségük. Megmutattam nekik a Te igazságodat és elhatárolódtam tőlük, Uram!
-- Szeretsz engem és törekszel a jóra, de nem ismersz engem, fiam. Kár, hogy letelt így életed ideje és most kell csak meglátnod, hányszor buktál el, amikor győzedelmesnek hitted magad. Tiéd a Kegyelem, de gyere, tartsunk együtt bűnbánatot, hogy tisztán ülhess asztalomhoz!
+-Uram, nyisd meg nekem a Mennyország kapuját! Minden héten templomban voltam, tudom fejből a Bibliát, rendben befizettem az egyházi járulékot és ellenálltam a világ csábításának.
+-Adtál-e enni az éhezőknek?
+-Gyűjtöttünk az afrikai misszióra, igen!
+-És a szomszédodnak segítettél-e a bajban?
+-Cigány az, Uram! Lopni jár! Mi közöm hozzá nekem, becsületes kereszténynek?
+-Szeretted-e az elesetteket?
+-Igen, Uram! Csináltunk férfi- és asszonykört is, együtt imádkoztunk.
+-Talált-e nálad menedéket a szajha, akit vernek, a család, aki a háború elől menekül, az agg, akinek nincsen hajléka?
+-Meg kellett védenem magam és vagyonom ezektől, Uram! Mit szóltak volna az emberek?
+-Hirdetted-e az igét, amely testté lett teérted?
+-Igen, Uram! Harcoltam a Te hagyományod betartásáért, harcoltam a Biblia minden betűjéért!
+-És harcoltál-e azokért, akiket rád bíztam? A gyermekedért, akit nem olyannak teremtettem, mint te vagy? A kollégáidért, akik alkoholproblémákkal küzdöttek? Az utcádban lakó lányért, akivel nem foglalkoztak a szülei és drogozni kezdett?
+-Felolvastam nekik prófétád ítéletes szavát, megmutattam nekik a Törvényt és a parancsolatokat, hogy tudják: megtérésre van szükségük. Megmutattam nekik a Te igazságodat és elhatárolódtam tőlük, Uram!
+-Szeretsz engem és törekszel a jóra, de nem ismersz engem, fiam. Kár, hogy letelt így életed ideje és most kell csak meglátnod, hányszor buktál el, amikor győzedelmesnek hitted magad. Tiéd a Kegyelem, de gyere, tartsunk együtt bűnbánatot, hogy tisztán ülhess asztalomhoz!
 
 ![]({{ site.baseurl }}/images/isten.JPG)
 *Arra a kérdésre - amit tegnap tett fel nekem egy aktivista -, hogy mit kérnék és üzennék az egyháznak.*
 
 **II. gondolatom**
 
-Lájkoltam egy balliberális középkorú zsidó fickót, aki feladta a rendes munkáját azért, hogy egy kommunában élhessen a barátaival-követőivel, a kommunista vagyonmegosztást hirdeti (a gazdagok adják oda a vagyonukat a szegényeknek), k***ákkal és uzsorásokkal látták együtt, a vallásosok persze gyűlölik, kész keresztrefeszítés, amin átmegy, de ő csak azt mondogatja, hogy "chill srácok", szeressünk ne háborúzzunk és virágokból fon koszorút a fejére. Ja nem, az csak tövis.
+Lájkoltam egy balliberális középkorú zsidó fickót, aki feladta a rendes munkáját azért, hogy egy kommunában élhessen a barátaival-követőivel, a kommunista vagyonmegosztást hirdeti (a gazdagok adják oda a vagyonukat a szegényeknek), kurvákkal és uzsorásokkal látták együtt, a vallásosok persze gyűlölik, kész keresztrefeszítés, amin átmegy, de ő csak azt mondogatja, hogy "chill srácok", szeressünk ne háborúzzunk és virágokból fon koszorút a fejére. Ja nem, az csak tövis.
 
 **III. gondolatom**
 
@@ -48,8 +50,3 @@ Ugye tudod, hogy ez irónia? Vagy a farizeusoknak ne lett volna szükségük orv
 Adódik egy kérdés: ki a pogány és ki jézusi?
 
 Békesség veletek.
-
-**Ha még nem tetted, itt lájkolhatod az oldalam:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
