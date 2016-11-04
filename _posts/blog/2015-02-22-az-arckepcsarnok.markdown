@@ -3,7 +3,7 @@ layout: post
 title: Az arcképcsarnok
 date: 2015-02-22 11:17:42.000000000 +00:00
 author: agoston_laszlo
-excerpt: Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt.
+excerpt: "Nagyon megtisztelő, hogy felkerültem a Balassi Gimnázium "akikre büszkék vagyunk" falára. Köszönöm! Engedjétek meg, hogy elmeséljem (az adomázás kedvéért), hogyan kaptam e miatt a fal miatt anno igazgatói intőt."
 categories: blog
 tags: [Balassi Gimnázium]
 image: arckepcsarnok.jpg
