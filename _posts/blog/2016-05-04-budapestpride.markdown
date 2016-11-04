@@ -84,9 +84,3 @@ A helyes megfejtés:
 5. Budapest Pride 
 6. Aintree lóversenypálya, női futam, Anglia
 7. Budapest Pride
-
-**Ha tetszett az írás és egy lájkkal feliratkoznál az oldalamra, itt teheted meg:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist)
-
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
