@@ -8,6 +8,8 @@ author: agoston_laszlo
 excerpt: "22 milliomos kerget egy bőrgolyót, mit vagy úgy oda? - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek."
 categories: blog
 tags: [foci, rólam]
+lang: hu
+image: http://agostonlaszlo.hu/images/zaszlo.jpg
 ---
 "22 milliomos kerget egy bőrgolyót, mit vagy úgy oda?" - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek.
 
