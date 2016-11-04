@@ -6,10 +6,14 @@ author: agoston_laszlo
 excerpt: Valahol hallottam, hogy az ember az evolúció minden fejlődési szintjén átmegy az anyaméhben. Ez nem tudom, mennyire és hogyan igaz, de szellemi értelemben azt hiszem, én tényleg átmentem mindenen.
 categories: blog
 tags: [homoszexualitás, iszlám, demokrácia, megbékélés, terrorizmus, rólam]
+lang: hu
+image: http://agostonlaszlo.hu/images/atlasz.jpg
 ---
 Valahol hallottam, hogy az ember az evolúció minden fejlődési szintjén átmegy az anyaméhben. Ez nem tudom, mennyire és hogyan igaz, de szellemi értelemben azt hiszem, én tényleg átmentem mindenen.
 
-Voltam [református ifivezető]( http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van ), voltam soviniszta (mondjuk a gumiszoba szerint ma is az vagyok :D ) voltam bérletes Fradi-drukker, irredenta és rasszista is. Onnan tudom, hogy elcseréltem a suliban a földrajz-atlaszomat, hogy ebben nincsenek benne a rajzaim. A rajzaim arról, hogy milyen útvonalon vezetném a hadtesteket Erdély visszafoglalására.
+Voltam [református ifivezető](http://agostonlaszlo.hu/blog/miert-nincs-isten-ha-van), voltam soviniszta (mondjuk a gumiszoba szerint ma is az vagyok :D ) voltam bérletes Fradi-drukker, irredenta és rasszista is. Onnan tudom, hogy elcseréltem a suliban a földrajz-atlaszomat, hogy ebben nincsenek benne a rajzaim. A rajzaim arról, hogy milyen útvonalon vezetném a hadtesteket Erdély visszafoglalására.
+
+![]({{ site.baseurl }}/images/atlasz.jpg)
 
 Hittem benne, hogy a románok és a cigányok alacsonyabb rendű faj, nem genetikusan, de kulturálisan. Hittem benne, hogy Hitler rossz ember volt, de azért azok a büdös zsidók kezükben tartják a világot. Tizennégy voltam.
 
