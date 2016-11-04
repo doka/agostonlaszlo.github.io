@@ -7,16 +7,14 @@ date: 2016-06-15 06:42:13.000000000 +00:00
 author: agoston_laszlo
 excerpt: "22 milliomos kerget egy bőrgolyót, mit vagy úgy oda? - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek."
 categories: blog
-tags: [Foci EB, ünnep]
+tags: [foci, rólam]
 ---
 "22 milliomos kerget egy bőrgolyót, mit vagy úgy oda?" - vetette fel több ismerősöm. Nem érdekli őket a foci és ez jól is van így. Már én se követem úgy, mint régen... De leírtam neked, hogy én például miért ünnepelek.
 
-1998. szeptember 6. Iszonyatos eső. Aki ott volt, meg tudja erősíteni: a Népstadion reflektorát nem lehetett látni az égszakadás függönye mögött. Tizenkét éves vagyok és egy idegent ölelgetek, sírok. Horváth Ferenc éppen most rúgta be a vezető gólunkat a portugálok ellen. Életem első meccse a helyszínen.
+Szeptember hatodika, 1998! Iszonyatos eső. Aki ott volt, meg tudja erősíteni: a Népstadion reflektorát nem lehetett látni az égszakadás függönye mögött. Tizenkét éves vagyok és egy idegent ölelgetek, sírok. Horváth Ferenc éppen most rúgta be a vezető gólunkat a portugálok ellen. Életem első meccse a helyszínen.
 
 <iframe width="1366" height="638" src="https://www.youtube.com/embed/2Zg8ASLhgM0" frameborder="0" allowfullscreen></iframe>
 Az a bizonyos első meccs... az elején látszik, mekkora eső volt!
-
-
 
 Apám mindig is szerette a focit. Nem nagyon, nem vallásosan, de a szerdai BL-meccset szertartásosan néztük meg, amióta az eszemet tudom. Könyörögtem, hogy vigyen el egy meccsre - ő nem járt soha -, de nem volt hajlandó. Anyám vett egy nagy levegőt és sóhajtott egy haennyireakarodfiammajdénmegyekveledet. Innentől anyámmal jártam focimeccsekre. Általában a válogatott és a Ferencváros, néha a Vasas meccseire.
 
@@ -45,8 +43,3 @@ _A  zászló, amit édesanyám varrt és 15 évet várt a sikerre_
 Utazom éppen Dániába. És kiderült, hogy pontosan akkor indult volna a gépem, amikor a válogatott játszik. Azt hittem, meghülyülök, hogy pont akkor... Úgy döntöttem, veszek egy másik repülőjegyet és a hetvennégy éves apámmal megnézem ezt a meccset! Ugyanúgy, mint a BL-t húsz éve minden szerdán... Ott a "Gabi" a kapuban (negyven évesen az Európa bajnokság legidősebb játékosa lettél, mackógatyás!) és "a Zoli"... igen "a Zoli"! Megadta neki az ő Istene, hogy kései hattyúdalként megélhesse, megtapasztalhassa. És megadta nekem is, hogy lássam.
 
 Hát ezért volt annyira fontos. Túl minden undoron, minden stadionépítő néprabláson, túl a rengeteg csalódáson, túl a huszonnégy csapatosra bővített EB-n. Az én generációm első ilyen élménye. Megölelve a sokat csalódott gyereket. Megköszönve a csapatnak. Megszorítva apám kezét a második gól után.
-
-**Itt lájkolhatod az oldalam, ha kíváncsi vagy még hasonló írásokra:**
-[Ágoston László](https://www.facebook.com/agostonlaszloartist) 
-
-**Ne felejtsd el megosztani, ha értesz és egyetértesz!**
