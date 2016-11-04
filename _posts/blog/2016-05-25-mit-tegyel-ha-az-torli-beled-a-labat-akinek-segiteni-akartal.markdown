@@ -5,7 +5,7 @@ date: 2016-05-25 17:22:21.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Rengeteg támogató, szeretetteljes levelet kapok és rengeteg anyázást. Utóbbi a legjobban akkor fáj, ha olyantól kapod, akiért szót emeltél..."
 categories: blog
-tags: [megértés, anyázás]
+tags: [feminizmus, nőjogok, megbékélés]
 lang: hu
 image: http://agostonlaszlo.hu/images/harag.JPG
 redirect_from: "/hu/blog/49-mit-tegyel-ha-az-torli-beled-a-labat-akinek-segiteni-akartal"
