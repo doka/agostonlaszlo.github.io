@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Isten áldozatai - egy kirúgott keresztény története, II. rész"
-date: 2016-05-29 06:41:20.000000000 +00:00
+date: 2016-06-23 06:41:20.000000000 +00:00
 author: agoston_laszlo
 excerpt: "Hónapokra kiborultam (huszonkét évesen...) és úgy döntöttem, az egész hitnek nevezett, már sok ponton ingó szerkezetet átvizsgálom, újragondolom. Kezdjük az alapoknál: van-e Isten? Van. Mi az a Biblia? Mi van a melegekkel, zsidókkal, ateistákkal, muzulmánokkal, törzsi vallásúakkal stb? Hosszú, hosszú, hosszú lista..."
 categories: blog
