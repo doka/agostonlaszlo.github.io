@@ -2,7 +2,7 @@
 title: "Életrajz"
 published: true
 layout: egyedioldal
-date: 2015-01-11 22:49:46.000000000 +00:00
+date: 2014-01-11 22:49:46.000000000 +00:00
 category: rolam
 tags: [rólam]
 ---
