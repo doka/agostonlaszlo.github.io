@@ -3,7 +3,7 @@ title: "Életrajz"
 published: true
 layout: egyedioldal
 date: 2014-01-11 22:49:46.000000000 +00:00
-category: rolam
+category: blog
 tags: [rólam]
 ---
 Ágoston László értelmiségi szülők gyermekeként(édesanyja tanítónő, édesapja [T. Ágoston László](http://hu.wikipedia.org/wiki/T._%C3%81goston_L%C3%A1szl%C3%B3) író) látta meg a napvilágot 1986-ban Budapesten.
