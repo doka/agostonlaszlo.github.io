@@ -69,3 +69,28 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+  
+  # fordítások
+  
+ t:
+  en:
+    home:
+      name: "Home"
+      url: "/mainpage/"
+    about:
+      name: "About"
+      url: "/about/"
+    blog:
+      name: "Blog"
+      url: "/blogeng/"
+  hu:
+    home:
+      name: "Főoldal"
+      url: "/"
+    about:
+      name: "Rólam"
+      url: "/rolam/"
+    about:
+      name: "Blog"
+      url: "/blog/"
+
