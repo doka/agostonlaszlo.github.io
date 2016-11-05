@@ -3,7 +3,7 @@ layout: post
 title: Kik a legnagyobb kisebbség Magyarországon?
 date: 2016-08-25 12:28:02.000000000 +00:00
 author: agoston_laszlo
-excerpt: "Él Magyarországon egy kisebbség, akiket alig veszünk észre, pedig napi szinten találkozunk velük. Egy kisebbség, amely harcol a jogaiért, de még a jogfosztottságukról is vitatkoznak. Akik saját maguk is nehezen ismerik fel a saját jogfosztottságukat. Akiknek problémáik vannak a foglalkoztatottság terén és ugyanazért a munkáért kevesebbet kapnak. Akikre más szabályok vonatkoznak. Akiknek sok esetben fizikai erőszakot is el kell szenvedniük és sokszor hátrányosan különböztetik meg az erőszakhoz kapcsolódó ügyeiket. Ők a nők."
+excerpt: "Él Magyarországon egy kisebbség, akiket alig veszünk észre, pedig napi szinten találkozunk velük. Ugyanazért a munkáért kevesebbet kapnak. Rájuk más szabályok vonatkoznak. Sokszor el kell tűniük a testi erőszakot is. Ők a nők." 
 categories: blog
 tags: [iszlám, nőjogok, feminizmus, megbékélés, videó]
 redirect_from: "/hu/blog/86-kik-a-legnagyobb-kisebbseg-magyarorszagon"
