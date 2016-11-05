@@ -2,6 +2,7 @@
 layout: felvetelekoldal
 title: Felvételek
 search_omit: true
+lang: en
 ---
 
 <ul class="post-list">
