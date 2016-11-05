@@ -89,7 +89,7 @@ owner:
     kayamar:
       name: "Kayamar"
       url: "/kayamareng/"
-	blog:
+    blog:
       name: "Blog"
       url: "/blogeng/"
   hu:
@@ -108,7 +108,7 @@ owner:
     kayamar:
       name: "Kayamar"
       url: "/kayamar/"
-	Blog:
+    Blog:
       name: "Blog"
       url: "/blog/"
   
