@@ -33,10 +33,7 @@
           {% include disqus-comments.html %}
         {% endif %}      
       
-      </div><!-- /.entry-content -->
-    </div>
-    
-    <ul class="tag-box inline">
+        <ul class="tag-box inline">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
     <li><a href="#{{ this_word }}">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a></li>
@@ -52,8 +49,9 @@
   {% endif %}{% endfor %}
   </ul>
 {% endunless %}{% endfor %}
-
-    <!-- /.entry-wrapper --> 
+        
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper --> 
     <nav class="pagination" role="navigation">
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Előző</a>
