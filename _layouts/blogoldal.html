@@ -31,7 +31,9 @@
                 {% if site.owner.disqus-shortname and page.comments or site.comments %}
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
-        {% endif %}      
+        {% endif %}
+        
+        <h2> Az összes cikk témakörök szerint</h2>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
