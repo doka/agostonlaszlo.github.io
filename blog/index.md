@@ -5,38 +5,8 @@ search_omit: true
 redirect_from: "/hu/blog/"
 ---
 
-<ul class="tag-box inline">
-{% assign tags_list = site.categories %}  
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
-    {% endfor %}
-  {% else %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
-    {% endfor %}
-  {% endif %}
-{% assign tags_list = nil %}
-</ul>
-
-{% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
-  <ul class="post-list">
-    {% assign pages_list = tag[1] %}  
-    {% for post in pages_list %}
-      {% if post.title != null %}
-      {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
-      {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  </ul>
-{% endfor %}
-
 <ul class="post-list">
-{% for post in site.categories.blog %}
+{% for post in site.categories.blog limit:5 %}
   <li><article><a href="{{ site.url }}{{ post.url }}" style="color:#ca3333"> {{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y. %B %d." }}</time></span></a><a href="{{ site.url }}{{ post.url }}" style="text-decoration:none; color:#222">{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
