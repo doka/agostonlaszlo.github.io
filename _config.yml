@@ -72,3 +72,43 @@ owner:
   
   # fordítások
   
+   t:
+  en:
+    home:
+      name: "Home"
+      url: "/mainpage/"
+    about:
+      name: "About"
+      url: "/about/"
+    recordings:
+      name: "Recordings"
+      url: "/recordings/"
+    moltopera:
+      name: "Moltopera"
+      url: "/moltoperaeng/"
+    kayamar:
+      name: "Kayamar"
+      url: "/kayamareng/"
+	blog:
+      name: "Blog"
+      url: "/blogeng/"
+  hu:
+    főoldal:
+      name: "Főoldal"
+      url: "/"
+    rólam:
+      name: "Rólam"
+      url: "/rolam/"
+    felvételek:
+      name: "Felvételek"
+      url: "/felvetelek/"
+    moltopera:
+      name: "Moltopera"
+      url: "/moltopera/"
+    kayamar:
+      name: "Kayamar"
+      url: "/kayamar/"
+	Blog:
+      name: "Blog"
+      url: "/blog/"
+  
